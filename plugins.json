@@ -1,0 +1,871 @@
+[
+    {
+        "name": "ActionEnhancement",
+        "author": "MicroBlock",
+        "version": "0.1.7",
+        "description": "右键“分享”复制歌曲ID，右键“下载”打开歌曲外链，鼠标在声音图标上滚轮调节音量",
+        "betterncm_version": ">=0.2.5",
+        "preview": "previews/ActionEnhancement.png",
+        "slug": "ActionEnhancement",
+        "update_time": 1682921901,
+        "publish_time": 1670980621,
+        "repo": "BetterNCM/ActionEnhancement",
+        "file": "ActionEnhancement-0.1.7.plugin",
+        "file-url": "plugins/ActionEnhancement-0.1.7.plugin"
+    },
+    {
+        "name": "Apple Music-like lyrics",
+        "author": "SteveXMH",
+        "version": "2.0.2",
+        "description": "类 Apple Music 歌词页面插件|近乎完美的 Apple Music 歌词体验",
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/Apple-Musiclike-lyrics.svg",
+        "author_links": [
+            "https://github.com/Steve-xmh",
+            "https://github.com/Steve-xmh/applemusic-like-lyrics"
+        ],
+        "type": "extension",
+        "incompatible": [
+            "RefinedNowPlaying"
+        ],
+        "slug": "Apple-Musiclike-lyrics",
+        "update_time": 1681125080,
+        "publish_time": 1672495988,
+        "repo": "Steve-xmh/applemusic-like-lyrics",
+        "stars": 123,
+        "file": "Apple-Musiclike-lyrics-2.0.2.plugin",
+        "file-url": "plugins/Apple-Musiclike-lyrics-2.0.2.plugin"
+    },
+    {
+        "name": "Ark Theme",
+        "author": "MicroBlock",
+        "version": "0.2.10",
+        "description": "类 Ark 主题 | 支持亮/暗色主题 | 完美支持 BGEnhanced | 在 StyleSnippet 内修改多项设置",
+        "requirements": [
+            "RefinedNowPlaying",
+            "StyleSnippet",
+            "light-dark-theme-switcher"
+        ],
+        "betterncm_version": "^1.0.0",
+        "preview": "previews/ark-theme.webp",
+        "type": "theme",
+        "slug": "ark-theme",
+        "update_time": 1678537236,
+        "publish_time": 1676039117,
+        "repo": "BetterNCM/ArkTheme",
+        "stars": 5,
+        "file": "ark-theme-0.2.10.plugin",
+        "file-url": "plugins/ark-theme-0.2.10.plugin"
+    },
+    {
+        "name": "BGEnhanced",
+        "author": "MicroBlock",
+        "version": "0.2.12",
+        "description": "自定义网易云背景！（需安装任意主题）",
+        "betterncm_version": ">=0.2.5",
+        "preview": "previews/BGEnhanced.png",
+        "slug": "BGEnhanced",
+        "update_time": 1680621277,
+        "publish_time": 1670425948,
+        "repo": "BetterNCM/BGEnhanced",
+        "stars": 15,
+        "file": "BGEnhanced-0.2.12.plugin",
+        "file-url": "plugins/BGEnhanced-0.2.12.plugin"
+    },
+    {
+        "name": "CrashFix",
+        "author": "MicroBlock",
+        "version": "0.1.3",
+        "description": "尝试修复一些网易云自身可能导致崩溃的 Bug  (可能会导致内存用量增长 | 不知道好不好使)",
+        "betterncm_version": ">=1.1.0",
+        "preview": "previews/CrashFix.png",
+        "slug": "CrashFix",
+        "update_time": 1678543067,
+        "publish_time": 1678540030,
+        "repo": "BetterNCM/CrashFix",
+        "stars": 2,
+        "native": true,
+        "file": "CrashFix-0.1.3.plugin",
+        "file-url": "plugins/CrashFix-0.1.3.plugin"
+    },
+    {
+        "name": "CrossFade LFP",
+        "author": "MicroBlock",
+        "version": "0.1.5",
+        "description": "在歌曲间添加平滑过渡",
+        "requirements": [
+            "LibFrontendPlay"
+        ],
+        "preview": "previews/crossfade-lfp.png",
+        "slug": "crossfade-lfp",
+        "update_time": 1679127491,
+        "publish_time": 1678537241,
+        "repo": "BetterNCM/CrossfadeLFP",
+        "stars": 4,
+        "file": "crossfade-lfp-0.1.5.plugin",
+        "file-url": "plugins/crossfade-lfp-0.1.5.plugin"
+    },
+    {
+        "name": "Customize",
+        "author": "Nexmoe",
+        "version": "0.3.2",
+        "description": "注入你的 CSS 和 JS 代码，让网易云变成你的形状",
+        "preview": "previews/Customize.png",
+        "author_links": [
+            "https://github.com/nexmoe"
+        ],
+        "slug": "Customize",
+        "update_time": 1675565331,
+        "publish_time": 1675326244,
+        "repo": "nexmoe/betterncm-plugin-customize",
+        "stars": 3,
+        "file": "Customize-0.3.2.plugin",
+        "file-url": "plugins/Customize-0.3.2.plugin"
+    },
+    {
+        "name": "ElainaTheme",
+        "author": "keiko233",
+        "version": "0.2.22",
+        "description": "可爱的UI，伊蕾娜元素，还有一点自定义。",
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/elaina-theme.png",
+        "type": "theme",
+        "slug": "elaina-theme",
+        "update_time": 1683650721,
+        "publish_time": 1676203273,
+        "repo": "keiko233/elaina-theme-netease",
+        "stars": 9,
+        "file": "elaina-theme-0.2.22.plugin",
+        "file-url": "plugins/elaina-theme-0.2.22.plugin"
+    },
+    {
+        "name": "FluentMusicCover",
+        "author": "MicroBlock & solstice23",
+        "version": "1.1.4",
+        "description": "展示歌单内歌曲封面，且尽量保证不造成卡顿",
+        "requirements": [
+            "list-scroll-fix"
+        ],
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/FluentMusicCover.png",
+        "slug": "FluentMusicCover",
+        "update_time": 1679498164,
+        "publish_time": 1679121837,
+        "repo": "BetterNCM/FluentMusicCover",
+        "stars": 2,
+        "file": "FluentMusicCover-1.1.4.plugin",
+        "file-url": "plugins/FluentMusicCover-1.1.4.plugin"
+    },
+    {
+        "name": "FluentProgressBar",
+        "author": "MicroBlock & Solstice23",
+        "version": "1.0.3",
+        "description": "让你的进度条更顺滑！",
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/FluentProgressBar.png",
+        "slug": "FluentProgressBar",
+        "update_time": 1682354039,
+        "publish_time": 1673458219,
+        "repo": "BetterNCM/FluentProgessBar",
+        "stars": 8,
+        "file": "FluentProgressBar-1.0.3.plugin",
+        "file-url": "plugins/FluentProgressBar-1.0.3.plugin"
+    },
+    {
+        "name": "GPT Trans",
+        "author": "solstice23",
+        "version": "0.4.1",
+        "description": "使用 ChatGPT 翻译歌词",
+        "requirements": [
+            "RefinedNowPlaying"
+        ],
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/GPTTrans.png",
+        "author_links": [
+            "https://github.com/solstice23"
+        ],
+        "type": "extension",
+        "slug": "GPTTrans",
+        "update_time": 1681578714,
+        "publish_time": 1678367766,
+        "repo": "solstice23/gpt-trans-netease",
+        "stars": 8,
+        "file": "GPTTrans-0.4.1.plugin",
+        "file-url": "plugins/GPTTrans-0.4.1.plugin"
+    },
+    {
+        "name": "HideScrollbar",
+        "author": "Zinc",
+        "version": "2.0.2",
+        "description": "隐藏滚动条(没什么用的东西)",
+        "preview": "previews/HideScrollbar.png",
+        "author_links": [
+            "https://github.com/RingZc"
+        ],
+        "type": "extension",
+        "slug": "HideScrollbar",
+        "update_time": 1672589953,
+        "publish_time": 1670425948,
+        "repo": "RingZc/HideScrollbar",
+        "file": "HideScrollbar-2.0.2.plugin",
+        "file-url": "plugins/HideScrollbar-2.0.2.plugin"
+    },
+    {
+        "name": "InfLink",
+        "author": "MicroBlock",
+        "version": "1.0.2",
+        "description": "连接各种歌曲信息协议\n目前：SMTC（Windows自带）, Discord Rich Presence",
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/InfLink.png",
+        "slug": "InfLink",
+        "update_time": 1682834525,
+        "publish_time": 1673372080,
+        "repo": "BetterNCM/InfinityLink",
+        "stars": 10,
+        "native": true,
+        "file": "InfLink-1.0.2.plugin",
+        "file-url": "plugins/InfLink-1.0.2.plugin"
+    },
+    {
+        "name": "LibEAPIRequest",
+        "author": "SteveXMH",
+        "version": "1.6.2",
+        "description": "LibEAPIRequest",
+        "requirements": [],
+        "betterncm_version": ">=1.0.0",
+        "author_links": [
+            "https://github.com/Steve-xmh",
+            "https://github.com/BetterNCM/LibEAPIRequest"
+        ],
+        "type": "extension",
+        "incompatible": [],
+        "slug": "LibEAPIRequest",
+        "update_time": 1674485753,
+        "publish_time": 1674485753,
+        "repo": "BetterNCM/LibEAPIRequest",
+        "stars": 1,
+        "file": "LibEAPIRequest-1.6.2.plugin",
+        "file-url": "plugins/LibEAPIRequest-1.6.2.plugin"
+    },
+    {
+        "name": "LibFrontendPlay",
+        "author": "MicroBlock",
+        "version": "1.1.0",
+        "description": "在前端播放音乐，而不是 C++ 后端！\n【支持 AMLL 音频可视化视效，支持 VIP 歌曲】",
+        "betterncm_version": ">=1.0.0",
+        "slug": "LibFrontendPlay",
+        "update_time": 1680277444,
+        "publish_time": 1673713536,
+        "repo": "BetterNCM/LibFrontendPlay",
+        "stars": 4,
+        "file": "LibFrontendPlay-1.1.0.plugin",
+        "file-url": "plugins/LibFrontendPlay-1.1.0.plugin"
+    },
+    {
+        "name": "LibLyric",
+        "author": "SteveXMH",
+        "version": "1.0.0",
+        "description": "向其他插件提供歌曲歌词和解析歌词的能力",
+        "requirements": [
+            "LibEAPIRequest"
+        ],
+        "betterncm_version": ">=1.0.0",
+        "author_links": [
+            "https://github.com/Steve-xmh",
+            "https://github.com/Steve-xmh/LibLyric"
+        ],
+        "type": "framework",
+        "incompatible": [],
+        "slug": "liblyric",
+        "update_time": 1674374363,
+        "publish_time": 1674374363,
+        "repo": "Steve-xmh/LibLyric",
+        "stars": 9,
+        "file": "liblyric-1.0.0.plugin",
+        "file-url": "plugins/liblyric-1.0.0.plugin"
+    },
+    {
+        "name": "LibSongInfo",
+        "author": "SteveXMH",
+        "version": "1.0.0",
+        "description": "获取当前播放音乐信息的依赖库",
+        "requirements": [],
+        "betterncm_version": ">=1.0.0",
+        "author_links": [
+            "https://github.com/Steve-xmh",
+            "https://github.com/Steve-xmh/LibSongInfo"
+        ],
+        "type": "framework",
+        "incompatible": [],
+        "slug": "libsonginfo",
+        "update_time": 1674374336,
+        "publish_time": 1674374336,
+        "repo": "Steve-xmh/LibSongInfo",
+        "stars": 4,
+        "file": "libsonginfo-1.0.0.plugin",
+        "file-url": "plugins/libsonginfo-1.0.0.plugin"
+    },
+    {
+        "name": "ListScrollFix",
+        "author": "solstice23",
+        "version": "0.1.0",
+        "description": "修复歌单列表滚动的跳动",
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/list-scroll-fix.png",
+        "author_links": [
+            "https://github.com/solstice23"
+        ],
+        "type": "lib",
+        "slug": "list-scroll-fix",
+        "update_time": 1679128697,
+        "publish_time": 1679128697,
+        "repo": "BetterNCM/list-scroll-fix",
+        "stars": 4,
+        "file": "list-scroll-fix-0.1.0.plugin",
+        "file-url": "plugins/list-scroll-fix-0.1.0.plugin"
+    },
+    {
+        "name": "LiveSongPlayer",
+        "author": "MicroBlock",
+        "version": "0.1.7",
+        "slug": "LiveSongPlayer",
+        "update_time": 1676099592,
+        "publish_time": 1673944958,
+        "repo": "MicroCBer/LiveSongPlayer-MKII",
+        "stars": 1,
+        "file": "LiveSongPlayer-0.1.7.plugin",
+        "file-url": "plugins/LiveSongPlayer-0.1.7.plugin"
+    },
+    {
+        "name": "LyricBar",
+        "author": "solstice23",
+        "version": "0.3.6",
+        "description": "重新设计的软件内词栏",
+        "requirements": [
+            "RefinedNowPlaying"
+        ],
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/LyricBar.png",
+        "author_links": [
+            "https://github.com/solstice23"
+        ],
+        "type": "extension",
+        "slug": "LyricBar",
+        "update_time": 1682745175,
+        "publish_time": 1677935011,
+        "repo": "solstice23/lyric-bar-netease",
+        "stars": 11,
+        "file": "LyricBar-0.3.6.plugin",
+        "file-url": "plugins/LyricBar-0.3.6.plugin"
+    },
+    {
+        "name": "Material You",
+        "author": "solstice23",
+        "version": "2.8.0",
+        "description": "Material You 主题 | 支持切换配色 | 动态取色 | 支持背景",
+        "requirements": [
+            "list-scroll-fix"
+        ],
+        "betterncm_version": ">=0.2.5",
+        "preview": "previews/MaterialYouTheme.gif",
+        "author_links": [
+            "https://github.com/solstice23"
+        ],
+        "type": "theme",
+        "slug": "MaterialYouTheme",
+        "update_time": 1682906932,
+        "publish_time": 1671567641,
+        "repo": "solstice23/material-you-theme-netease",
+        "stars": 98,
+        "file": "MaterialYouTheme-2.8.0.plugin",
+        "file-url": "plugins/MaterialYouTheme-2.8.0.plugin"
+    },
+    {
+        "name": "MikuPlugin",
+        "author": "小岩喵",
+        "version": "0.1.2",
+        "description": "(点左侧插件管理使用) 精简网易云音乐，关闭任何组件，修改字体与颜色",
+        "requirements": [],
+        "betterncm_version": ">=0.2.4",
+        "preview": "previews/MikuPlugin.jpg",
+        "author_links": [
+            "https://github.com/miku3333"
+        ],
+        "type": "extension",
+        "slug": "MikuPlugin",
+        "update_time": 1675509124,
+        "publish_time": 1670425948,
+        "repo": "miku3333/miku-plugin",
+        "stars": 11,
+        "file": "MikuPlugin-0.1.2.plugin",
+        "file-url": "plugins/MikuPlugin-0.1.2.plugin"
+    },
+    {
+        "name": "MoTheme",
+        "author": "沫烬染",
+        "version": "1.2.3",
+        "description": "主题插件，用于美化网易云音乐（更换背景使用BGEnhanced插件，切换颜色使用明/暗主题切换器插件）",
+        "requirements": [
+            "StylesheetLoader",
+            "light-dark-theme-switcher",
+            "list-scroll-fix"
+        ],
+        "preview": "previews/MoTheme.png",
+        "author_links": [
+            "https://github.com/mo-jinran"
+        ],
+        "type": "theme",
+        "slug": "MoTheme",
+        "update_time": 1679160831,
+        "publish_time": 1670425948,
+        "repo": "mo-jinran/MoTheme",
+        "stars": 19,
+        "file": "MoTheme-1.2.3.plugin",
+        "file-url": "plugins/MoTheme-1.2.3.plugin"
+    },
+    {
+        "name": "MoreHooks",
+        "author": "MicroBlock",
+        "version": "0.1.0",
+        "description": "依赖库 用于统一进行某些JS Hooks操作",
+        "betterncm_version": ">=0.2.3",
+        "hide": true,
+        "slug": "MoreHooks",
+        "update_time": 1670425948,
+        "publish_time": 1670425948,
+        "file": "MoreHooks-0.1.0.plugin",
+        "file-url": "plugins/MoreHooks-0.1.0.plugin"
+    },
+    {
+        "name": "Play with Bilibili MV",
+        "author": "MicroBlock",
+        "version": "1.1.0",
+        "description": "自动在背景播放 Bilibili MV",
+        "requirements": [],
+        "preview": "previews/play-with-bilibili.png",
+        "slug": "play-with-bilibili",
+        "update_time": 1681582583,
+        "publish_time": 1678598537,
+        "repo": "BetterNCM/PlayWithBilibili",
+        "stars": 7,
+        "file": "play-with-bilibili-1.1.0.plugin",
+        "file-url": "plugins/play-with-bilibili-1.1.0.plugin"
+    },
+    {
+        "name": "PlaybackRate",
+        "author": "MicroBlock",
+        "version": "0.1.2",
+        "description": "快放，慢放，倒放",
+        "betterncm_version": ">=0.2.5",
+        "slug": "PlaybackRate",
+        "update_time": 1681542740,
+        "publish_time": 1680685763,
+        "repo": "BetterNCM/PlaybackRate",
+        "stars": 2,
+        "file": "PlaybackRate-0.1.2.plugin",
+        "file-url": "plugins/PlaybackRate-0.1.2.plugin"
+    },
+    {
+        "name": "PluginMarket",
+        "author": "BetterNCM",
+        "version": "0.6.5",
+        "hide": true,
+        "force-update": "*",
+        "force-install": true,
+        "slug": "PluginMarket",
+        "update_time": 1683271757,
+        "publish_time": 1680372961,
+        "repo": "BetterNCM/Plugin-Market",
+        "file": "PluginMarket.plugin",
+        "file-url": "plugins/PluginMarket.plugin"
+    },
+    {
+        "name": "ReLive",
+        "author": "Flysoft",
+        "version": "0.6.0",
+        "description": "ReLive 主题 | 支持亮暗色切换 | 支持 BGEnhanced | 修改自 Ark Theme",
+        "requirements": [
+            "RefinedNowPlaying",
+            "StyleSnippet",
+            "list-scroll-fix"
+        ],
+        "betterncm_version": "^1.0.0",
+        "preview": "previews/relive-theme.gif",
+        "author_links": [
+            "https://github.com/FlysoftBeta"
+        ],
+        "type": "theme",
+        "incompatible": [
+            "light-dark-theme-switcher"
+        ],
+        "slug": "relive-theme",
+        "update_time": 1683442338,
+        "publish_time": 1676203250,
+        "repo": "FlysoftBeta/ReLive",
+        "stars": 10,
+        "file": "relive-theme-0.6.0.plugin",
+        "file-url": "plugins/relive-theme-0.6.0.plugin"
+    },
+    {
+        "name": "RefinedNowPlaying",
+        "author": "solstice23",
+        "version": "2.19.5",
+        "description": "重新设计的正在播放页面和歌词",
+        "requirements": [],
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/RefinedNowPlaying.webp",
+        "author_links": [
+            "https://github.com/solstice23"
+        ],
+        "type": "extension",
+        "incompatible": [
+            "Apple-Musiclike-lyrics"
+        ],
+        "slug": "RefinedNowPlaying",
+        "update_time": 1683655996,
+        "publish_time": 1670682028,
+        "repo": "solstice23/refined-now-playing-netease",
+        "stars": 233,
+        "file": "RefinedNowPlaying-2.19.5.plugin",
+        "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
+    },
+    {
+        "name": "纯净分享链接",
+        "author": "solstice23",
+        "version": "1.0",
+        "description": "移除分享链接中的追踪参数",
+        "requirements": [],
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/remove-tracking-attribute.png",
+        "author_links": [
+            "https://github.com/solstice23"
+        ],
+        "slug": "remove-tracking-attribute",
+        "update_time": 1676985392,
+        "publish_time": 1676985392,
+        "repo": "BetterNCM/RemoveTrackingAttribute",
+        "stars": 3,
+        "file": "remove-tracking-attribute-1.0.plugin",
+        "file-url": "plugins/remove-tracking-attribute-1.0.plugin"
+    },
+    {
+        "name": "RevivedSource",
+        "author": "Revived@Unblocked",
+        "version": "0.1.0",
+        "description": "向插件商店中添加 Revive 源，包含无法上架至插件商店的某些插件。",
+        "requirements": [],
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/RevivedSource.svg",
+        "type": "extension",
+        "slug": "RevivedSource",
+        "update_time": 1682782235,
+        "publish_time": 1682782235,
+        "repo": "ReviveUnblockNCMInstaller/RevivedSource",
+        "stars": 6,
+        "file": "RevivedSource-0.1.0.plugin",
+        "file-url": "plugins/RevivedSource-0.1.0.plugin"
+    },
+    {
+        "name": "RoundCornerNCM",
+        "author": "MicroBlock",
+        "version": "0.1.2",
+        "description": "网易云窗口圆角。仅Win11。",
+        "betterncm_version": ">=0.2.5",
+        "preview": "previews/RoundCornerNCM.png",
+        "slug": "RoundCornerNCM",
+        "update_time": 1674960323,
+        "publish_time": 1672515583,
+        "repo": "BetterNCM/RoundCornerNCM",
+        "stars": 1,
+        "require_restart": true,
+        "file": "RoundCornerNCM-0.1.2.plugin",
+        "file-url": "plugins/RoundCornerNCM-0.1.2.plugin"
+    },
+    {
+        "name": "RuLyrics [支持11新/老任务栏]",
+        "author": "MicroBlock",
+        "version": "0.3.5",
+        "description": "桌面歌词插件，支持逐词，嵌入任务栏 【支持 Win11 新/老任务栏，Win10】",
+        "requirements": [
+            "liblyric"
+        ],
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/RuLyrics.png",
+        "author_links": [
+            "https://github.com/MicroCBer"
+        ],
+        "slug": "RuLyrics",
+        "update_time": 1681021577,
+        "publish_time": 1674390502,
+        "repo": "BetterNCM/RuLyric",
+        "stars": 10,
+        "native": true,
+        "file": "RuLyrics-0.3.5.plugin",
+        "file-url": "plugins/RuLyrics-0.3.5.plugin"
+    },
+    {
+        "name": "Search on osu!",
+        "author": "solstice23",
+        "version": "0.7.2.7",
+        "description": "在 osu! 中搜索当前播放的曲目",
+        "requirements": [],
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/search-on-osu.png",
+        "author_links": [
+            "https://github.com/solstice23"
+        ],
+        "slug": "search-on-osu",
+        "update_time": 1675852486,
+        "publish_time": 1675852486,
+        "repo": "solstice23/search-on-osu",
+        "stars": 8,
+        "file": "search-on-osu-0.7.2.7.plugin",
+        "file-url": "plugins/search-on-osu-0.7.2.7.plugin"
+    },
+    {
+        "name": "找到这个歌手",
+        "author": "xy_cloud",
+        "version": "0.0.2",
+        "description": "在5sing,微博,bilibili搜索歌手(5s钟内,我要这个人的所有信息!(×))",
+        "requirements": [],
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/search-this-singer.jpg",
+        "author_links": [
+            "https://github.com/xy-cloud-cn"
+        ],
+        "type": "extension",
+        "slug": "search-this-singer",
+        "update_time": 1679716271,
+        "publish_time": 1678770213,
+        "repo": "xy-cloud-cn/search-this-singer",
+        "stars": 3,
+        "file": "search-this-singer-0.0.2.plugin",
+        "file-url": "plugins/search-this-singer-0.0.2.plugin"
+    },
+    {
+        "name": "SimpleAudioVisualizer",
+        "author": "MicroBlock & woshizja",
+        "version": "0.1.3",
+        "description": "在播放页面显示音频可视化视效！",
+        "requirements": [
+            "LibFrontendPlay"
+        ],
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/SimpleAudioVisualizer.png",
+        "author_links": [
+            "https://github.com/woshizja/sound-processor"
+        ],
+        "slug": "SimpleAudioVisualizer",
+        "update_time": 1680277456,
+        "publish_time": 1673713908,
+        "repo": "BetterNCM/SimpleAudioVisualizer",
+        "stars": 7,
+        "file": "SimpleAudioVisualizer-0.1.3.plugin",
+        "file-url": "plugins/SimpleAudioVisualizer-0.1.3.plugin"
+    },
+    {
+        "name": "StyleSnippet",
+        "author": "MicroBlock",
+        "version": "0.2.1",
+        "description": "界面美化 CSS 片段，支持本地一键修改，应用。",
+        "betterncm_version": ">=0.2.5",
+        "preview": "previews/StyleSnippet.png",
+        "slug": "StyleSnippet",
+        "update_time": 1680617660,
+        "publish_time": 1672601649,
+        "repo": "BetterNCM/StyleSnippet",
+        "stars": 6,
+        "file": "StyleSnippet-0.2.1.plugin",
+        "file-url": "plugins/StyleSnippet-0.2.1.plugin"
+    },
+    {
+        "name": "StylesheetLoader",
+        "author": "MicroBlock",
+        "version": "0.1.3",
+        "description": "依赖库 用于统一加载样式表",
+        "betterncm_version": ">=1.0.0",
+        "type": "lib",
+        "slug": "StylesheetLoader",
+        "update_time": 1677320133,
+        "publish_time": 1670425948,
+        "repo": "BetterNCM/StylesheetLoader",
+        "file": "StylesheetLoader-0.1.3.plugin",
+        "file-url": "plugins/StylesheetLoader-0.1.3.plugin"
+    },
+    {
+        "name": "任务栏歌词",
+        "author": "沫烬染",
+        "version": "1.6.3",
+        "description": "在任务栏上嵌入歌词，目前仅建议Windows 11，且任务栏未被第三方软件修改",
+        "requirements": [
+            "liblyric"
+        ],
+        "preview": "previews/Taskbar-Lyrics.png",
+        "author_links": [
+            "https://github.com/mo-jinran"
+        ],
+        "type": "extension",
+        "slug": "Taskbar-Lyrics",
+        "update_time": 1683189838,
+        "publish_time": 1673622993,
+        "repo": "mo-jinran/Taskbar-Lyrics",
+        "stars": 59,
+        "file": "Taskbar-Lyrics-1.6.3.plugin",
+        "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
+    },
+    {
+        "name": "明/暗主题切换器",
+        "author": "MicroBlock",
+        "version": "0.1.3",
+        "description": "切换主题模式 （网易云自身 酷炫黑/白色）",
+        "requirements": [],
+        "betterncm_version": ">=1.0.0",
+        "author_links": [
+            "https://github.com/MicroCBer"
+        ],
+        "type": "framework",
+        "slug": "light-dark-theme-switcher",
+        "update_time": 1679066163,
+        "publish_time": 1677254264,
+        "repo": "BetterNCM/ThemeSwitcher",
+        "file": "light-dark-theme-switcher-0.1.3.plugin",
+        "file-url": "plugins/light-dark-theme-switcher-0.1.3.plugin"
+    },
+    {
+        "name": "TinyNCM",
+        "author": "MicroBlock",
+        "version": "1.0.0",
+        "description": "更改字体，更改颜色，删除无用组件",
+        "betterncm_version": ">=0.2.5",
+        "preview": "previews/TinyNCM.png",
+        "slug": "TinyNCM",
+        "update_time": 1679725086,
+        "publish_time": 1670689230,
+        "repo": "BetterNCM/TinyNCM",
+        "stars": 6,
+        "file": "TinyNCM-1.0.0.plugin",
+        "file-url": "plugins/TinyNCM-1.0.0.plugin"
+    },
+    {
+        "name": "Transmission",
+        "author": "MicroBlock",
+        "version": "0.1.3",
+        "description": "Transmission主题",
+        "requirements": [
+            "StylesheetLoader"
+        ],
+        "preview": "previews/Transmission.png",
+        "type": "theme",
+        "slug": "Transmission",
+        "update_time": 1671303424,
+        "publish_time": 1670425948,
+        "file": "Transmission-0.1.3.plugin",
+        "file-url": "plugins/Transmission-0.1.3.plugin"
+    },
+    {
+        "name": "Unbounded",
+        "author": "MicroBlock",
+        "version": "0.1.0",
+        "description": "Unbounded主题",
+        "requirements": [
+            "StylesheetLoader"
+        ],
+        "betterncm_version": ">=0.2.0",
+        "preview": "previews/Unbounded.png",
+        "type": "theme",
+        "slug": "Unbounded",
+        "update_time": 1671303424,
+        "publish_time": 1670425948,
+        "file": "Unbounded-0.1.0.plugin",
+        "file-url": "plugins/Unbounded-0.1.0.plugin"
+    },
+    {
+        "name": "可视化听歌排行",
+        "author": "沫烬染",
+        "version": "1.0.2",
+        "description": "在个人主页-听歌排行内查看",
+        "preview": "previews/VisualRecord.png",
+        "author_links": [
+            "https://github.com/mo-jinran"
+        ],
+        "type": "extension",
+        "slug": "VisualRecord",
+        "update_time": 1676053201,
+        "publish_time": 1670425948,
+        "repo": "mo-jinran/VisualRecord",
+        "stars": 1,
+        "file": "VisualRecord-1.0.2.plugin",
+        "file-url": "plugins/VisualRecord-1.0.2.plugin"
+    },
+    {
+        "name": "VocaloidInfo",
+        "author": "samyyc",
+        "version": "1.1.7",
+        "description": "通过VocaDB/Bilibili获取vocaloid歌曲数据并显示",
+        "preview": "previews/vocaloid-info.png",
+        "slug": "vocaloid-info",
+        "update_time": 1682788294,
+        "publish_time": 1679230174,
+        "repo": "samyycX/VocaloidInfo",
+        "stars": 3,
+        "file": "vocaloid-info-1.1.7.plugin",
+        "file-url": "plugins/vocaloid-info-1.1.7.plugin"
+    },
+    {
+        "name": "这首歌的封面是什么？",
+        "author": "沫烬染",
+        "version": "2.0.8",
+        "description": "歌曲列表添加封面，位置：每日推荐，听歌排行，搜索列表，歌手详情，音乐专辑，歌单列表",
+        "requirements": [
+            "list-scroll-fix"
+        ],
+        "preview": "previews/What-is-the-cover-of-this-music.png",
+        "author_links": [
+            "https://github.com/mo-jinran"
+        ],
+        "type": "extension",
+        "slug": "What-is-the-cover-of-this-music",
+        "update_time": 1679753235,
+        "publish_time": 1672504198,
+        "repo": "mo-jinran/What-is-the-cover-of-this-music",
+        "stars": 9,
+        "file": "What-is-the-cover-of-this-music-2.0.8.plugin",
+        "file-url": "plugins/What-is-the-cover-of-this-music-2.0.8.plugin"
+    },
+    {
+        "name": "←→0123456789JL+-,.↑↓FO",
+        "author": "solstice23",
+        "version": "0.2.0",
+        "description": "使用 ←→ 快退快进，0-9 跳转进度，+- 切换曲目，↑↓ 调整音量，,. 跳到开始和结尾，F 全屏，O 切换播放顺序",
+        "requirements": [],
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/keyboard-seek.svg",
+        "author_links": [
+            "https://github.com/solstice23"
+        ],
+        "slug": "keyboard-seek",
+        "update_time": 1683655534,
+        "publish_time": 1681021628,
+        "repo": "BetterNCM/keyboard-seek",
+        "stars": 3,
+        "file": "keyboard-seek-0.2.0.plugin",
+        "file-url": "plugins/keyboard-seek-0.2.0.plugin"
+    },
+    {
+        "name": "Microrange",
+        "author": "MicroBlock",
+        "version": "0.1.0",
+        "description": "Microrange主题",
+        "requirements": [
+            "StylesheetLoader"
+        ],
+        "betterncm_version": ">=0.2.0",
+        "preview": "previews/Microrange.png",
+        "type": "theme",
+        "slug": "Microrange",
+        "update_time": 1671303424,
+        "publish_time": 1670425948,
+        "file": "Microrange-0.1.0.plugin",
+        "file-url": "plugins/Microrange-0.1.0.plugin"
+    }
+]

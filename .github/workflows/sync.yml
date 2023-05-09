@@ -1,0 +1,20 @@
+
+name: Sync to gitee
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: sync-gitee-mirror
+        uses: abersheeran/sync-gitee-mirror@v1-beta
+        with:
+          repository: microblock/BetterNCMPluginsMarketData
+          username: ${{ secrets.USERNAME }}
+          password: ${{ secrets.PASSWORD }}
