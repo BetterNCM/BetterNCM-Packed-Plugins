@@ -32,7 +32,7 @@
         "update_time": 1681125080,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 123,
+        "stars": 126,
         "file": "Apple-Musiclike-lyrics-2.0.2.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.0.2.plugin"
     },
@@ -68,9 +68,29 @@
         "update_time": 1680621277,
         "publish_time": 1670425948,
         "repo": "BetterNCM/BGEnhanced",
-        "stars": 15,
+        "stars": 16,
         "file": "BGEnhanced-0.2.12.plugin",
         "file-url": "plugins/BGEnhanced-0.2.12.plugin"
+    },
+    {
+        "name": "BGEnhanced Extra",
+        "author": "沫烬染",
+        "version": "0.1.0",
+        "description": "让BGEnhanced插件的背景跟随鼠标缩放偏移",
+        "requirements": [
+            "BGEnhanced"
+        ],
+        "preview": "previews/BGEnhanced-Extra.gif",
+        "author_links": [
+            "https://github.com/mo-jinran"
+        ],
+        "type": "extension",
+        "slug": "BGEnhanced-Extra",
+        "update_time": 1684564518,
+        "publish_time": 1684564518,
+        "repo": "mo-jinran/BGEnhanced-Extra",
+        "file": "BGEnhanced-Extra-0.1.0.plugin",
+        "file-url": "plugins/BGEnhanced-Extra-0.1.0.plugin"
     },
     {
         "name": "CrashFix",
@@ -134,7 +154,7 @@
         "update_time": 1683650721,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
-        "stars": 9,
+        "stars": 10,
         "file": "elaina-theme-0.2.22.plugin",
         "file-url": "plugins/elaina-theme-0.2.22.plugin"
     },
@@ -221,7 +241,7 @@
         "update_time": 1682834525,
         "publish_time": 1673372080,
         "repo": "BetterNCM/InfinityLink",
-        "stars": 10,
+        "stars": 12,
         "native": true,
         "file": "InfLink-1.0.2.plugin",
         "file-url": "plugins/InfLink-1.0.2.plugin"
@@ -243,7 +263,7 @@
         "update_time": 1674485753,
         "publish_time": 1674485753,
         "repo": "BetterNCM/LibEAPIRequest",
-        "stars": 1,
+        "stars": 3,
         "file": "LibEAPIRequest-1.6.2.plugin",
         "file-url": "plugins/LibEAPIRequest-1.6.2.plugin"
     },
@@ -280,7 +300,7 @@
         "update_time": 1674374363,
         "publish_time": 1674374363,
         "repo": "Steve-xmh/LibLyric",
-        "stars": 9,
+        "stars": 10,
         "file": "liblyric-1.0.0.plugin",
         "file-url": "plugins/liblyric-1.0.0.plugin"
     },
@@ -354,7 +374,7 @@
         "update_time": 1682745175,
         "publish_time": 1677935011,
         "repo": "solstice23/lyric-bar-netease",
-        "stars": 11,
+        "stars": 12,
         "file": "LyricBar-0.3.6.plugin",
         "file-url": "plugins/LyricBar-0.3.6.plugin"
     },
@@ -376,7 +396,7 @@
         "update_time": 1682906932,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 98,
+        "stars": 97,
         "file": "MaterialYouTheme-2.8.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.8.0.plugin"
     },
@@ -419,7 +439,7 @@
         "update_time": 1679160831,
         "publish_time": 1670425948,
         "repo": "mo-jinran/MoTheme",
-        "stars": 19,
+        "stars": 20,
         "file": "MoTheme-1.2.3.plugin",
         "file-url": "plugins/MoTheme-1.2.3.plugin"
     },
@@ -525,7 +545,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 233,
+        "stars": 244,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -561,7 +581,7 @@
         "update_time": 1682782235,
         "publish_time": 1682782235,
         "repo": "ReviveUnblockNCMInstaller/RevivedSource",
-        "stars": 6,
+        "stars": 7,
         "file": "RevivedSource-0.1.0.plugin",
         "file-url": "plugins/RevivedSource-0.1.0.plugin"
     },
@@ -598,7 +618,7 @@
         "update_time": 1681021577,
         "publish_time": 1674390502,
         "repo": "BetterNCM/RuLyric",
-        "stars": 10,
+        "stars": 11,
         "native": true,
         "file": "RuLyrics-0.3.5.plugin",
         "file-url": "plugins/RuLyrics-0.3.5.plugin"
@@ -709,7 +729,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 59,
+        "stars": 62,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
@@ -793,7 +813,7 @@
         "update_time": 1676053201,
         "publish_time": 1670425948,
         "repo": "mo-jinran/VisualRecord",
-        "stars": 1,
+        "stars": 2,
         "file": "VisualRecord-1.0.2.plugin",
         "file-url": "plugins/VisualRecord-1.0.2.plugin"
     },
@@ -807,7 +827,7 @@
         "update_time": 1682788294,
         "publish_time": 1679230174,
         "repo": "samyycX/VocaloidInfo",
-        "stars": 3,
+        "stars": 4,
         "file": "vocaloid-info-1.1.7.plugin",
         "file-url": "plugins/vocaloid-info-1.1.7.plugin"
     },
