@@ -32,7 +32,7 @@
         "update_time": 1681125080,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 126,
+        "stars": 127,
         "file": "Apple-Musiclike-lyrics-2.0.2.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.0.2.plugin"
     },
@@ -146,18 +146,18 @@
     {
         "name": "ElainaTheme",
         "author": "keiko233",
-        "version": "0.2.22",
+        "version": "1.0.0",
         "description": "可爱的UI，伊蕾娜元素，还有一点自定义。",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/elaina-theme.png",
         "type": "theme",
         "slug": "elaina-theme",
-        "update_time": 1683650721,
+        "update_time": 1684685812,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
         "stars": 10,
-        "file": "elaina-theme-0.2.22.plugin",
-        "file-url": "plugins/elaina-theme-0.2.22.plugin"
+        "file": "elaina-theme-1.0.0.plugin",
+        "file-url": "plugins/elaina-theme-1.0.0.plugin"
     },
     {
         "name": "FluentMusicCover",
@@ -375,7 +375,7 @@
         "update_time": 1682745175,
         "publish_time": 1677935011,
         "repo": "solstice23/lyric-bar-netease",
-        "stars": 12,
+        "stars": 13,
         "file": "LyricBar-0.3.6.plugin",
         "file-url": "plugins/LyricBar-0.3.6.plugin"
     },
@@ -546,7 +546,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 244,
+        "stars": 245,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -582,7 +582,7 @@
         "update_time": 1682782235,
         "publish_time": 1682782235,
         "repo": "ReviveUnblockNCMInstaller/RevivedSource",
-        "stars": 7,
+        "stars": 8,
         "file": "RevivedSource-0.1.0.plugin",
         "file-url": "plugins/RevivedSource-0.1.0.plugin"
     },
@@ -730,7 +730,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 62,
+        "stars": 63,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
@@ -828,7 +828,7 @@
         "update_time": 1682788294,
         "publish_time": 1679230174,
         "repo": "samyycX/VocaloidInfo",
-        "stars": 4,
+        "stars": 5,
         "file": "vocaloid-info-1.1.7.plugin",
         "file-url": "plugins/vocaloid-info-1.1.7.plugin"
     },
