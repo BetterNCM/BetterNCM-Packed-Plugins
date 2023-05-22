@@ -75,8 +75,8 @@
     {
         "name": "BGEnhanced Extra",
         "author": "沫烬染",
-        "version": "0.1.1",
-        "description": "让BGEnhanced插件的背景跟随鼠标缩放偏移",
+        "version": "0.1.2",
+        "description": "让BGEnhanced插件的背景跟随鼠标缩放与移动",
         "requirements": [
             "BGEnhanced"
         ],
@@ -86,12 +86,12 @@
         ],
         "type": "extension",
         "slug": "BGEnhanced-Extra",
-        "update_time": 1684592915,
+        "update_time": 1684718090,
         "publish_time": 1684564518,
         "repo": "mo-jinran/BGEnhanced-Extra",
         "stars": 1,
-        "file": "BGEnhanced-Extra-0.1.1.plugin",
-        "file-url": "plugins/BGEnhanced-Extra-0.1.1.plugin"
+        "file": "BGEnhanced-Extra-0.1.2.plugin",
+        "file-url": "plugins/BGEnhanced-Extra-0.1.2.plugin"
     },
     {
         "name": "CrashFix",
