@@ -75,7 +75,7 @@
     {
         "name": "BGEnhanced Extra",
         "author": "沫烬染",
-        "version": "0.3.0",
+        "version": "0.4.0",
         "description": "让BGEnhanced插件的背景跟随指针变化，可简单自定义效果",
         "requirements": [
             "BGEnhanced"
@@ -86,12 +86,12 @@
         ],
         "type": "extension",
         "slug": "BGEnhanced-Extra",
-        "update_time": 1684941268,
+        "update_time": 1685013084,
         "publish_time": 1684564518,
         "repo": "mo-jinran/BGEnhanced-Extra",
         "stars": 3,
-        "file": "BGEnhanced-Extra-0.3.0.plugin",
-        "file-url": "plugins/BGEnhanced-Extra-0.3.0.plugin"
+        "file": "BGEnhanced-Extra-0.4.0.plugin",
+        "file-url": "plugins/BGEnhanced-Extra-0.4.0.plugin"
     },
     {
         "name": "CrashFix",
@@ -145,18 +145,18 @@
     {
         "name": "ElainaTheme",
         "author": "keiko233",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "description": "可爱的UI，伊蕾娜元素，还有一点自定义。",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/elaina-theme.png",
         "type": "theme",
         "slug": "elaina-theme",
-        "update_time": 1684685812,
+        "update_time": 1685020201,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
         "stars": 10,
-        "file": "elaina-theme-1.0.0.plugin",
-        "file-url": "plugins/elaina-theme-1.0.0.plugin"
+        "file": "elaina-theme-1.0.1.plugin",
+        "file-url": "plugins/elaina-theme-1.0.1.plugin"
     },
     {
         "name": "FluentMusicCover",
