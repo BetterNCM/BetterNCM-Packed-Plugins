@@ -16,7 +16,7 @@
     {
         "name": "Apple Music-like lyrics",
         "author": "SteveXMH",
-        "version": "2.0.2",
+        "version": "2.0.3",
         "description": "类 Apple Music 歌词页面插件|近乎完美的 Apple Music 歌词体验",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/Apple-Musiclike-lyrics.svg",
@@ -29,12 +29,12 @@
             "RefinedNowPlaying"
         ],
         "slug": "Apple-Musiclike-lyrics",
-        "update_time": 1681125080,
+        "update_time": 1685121188,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
         "stars": 127,
-        "file": "Apple-Musiclike-lyrics-2.0.2.plugin",
-        "file-url": "plugins/Apple-Musiclike-lyrics-2.0.2.plugin"
+        "file": "Apple-Musiclike-lyrics-2.0.3.plugin",
+        "file-url": "plugins/Apple-Musiclike-lyrics-2.0.3.plugin"
     },
     {
         "name": "Ark Theme",
@@ -187,7 +187,7 @@
         "update_time": 1682354039,
         "publish_time": 1673458219,
         "repo": "BetterNCM/FluentProgessBar",
-        "stars": 8,
+        "stars": 7,
         "file": "FluentProgressBar-1.0.3.plugin",
         "file-url": "plugins/FluentProgressBar-1.0.3.plugin"
     },
