@@ -32,7 +32,7 @@
         "update_time": 1685121188,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 127,
+        "stars": 129,
         "file": "Apple-Musiclike-lyrics-2.0.3.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.0.3.plugin"
     },
@@ -145,18 +145,18 @@
     {
         "name": "ElainaTheme",
         "author": "keiko233",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "description": "可爱的UI，伊蕾娜元素，还有一点自定义。",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/elaina-theme.png",
         "type": "theme",
         "slug": "elaina-theme",
-        "update_time": 1685020201,
+        "update_time": 1685259997,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
         "stars": 10,
-        "file": "elaina-theme-1.0.1.plugin",
-        "file-url": "plugins/elaina-theme-1.0.1.plugin"
+        "file": "elaina-theme-1.0.2.plugin",
+        "file-url": "plugins/elaina-theme-1.0.2.plugin"
     },
     {
         "name": "FluentMusicCover",
@@ -396,7 +396,7 @@
         "update_time": 1684719915,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 98,
+        "stars": 99,
         "file": "MaterialYouTheme-2.9.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.9.0.plugin"
     },
@@ -545,7 +545,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 245,
+        "stars": 246,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -729,7 +729,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 63,
+        "stars": 64,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
