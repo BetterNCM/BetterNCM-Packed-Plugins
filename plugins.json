@@ -32,7 +32,7 @@
         "update_time": 1685121188,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 129,
+        "stars": 132,
         "file": "Apple-Musiclike-lyrics-2.0.3.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.0.3.plugin"
     },
@@ -68,7 +68,7 @@
         "update_time": 1680621277,
         "publish_time": 1670425948,
         "repo": "BetterNCM/BGEnhanced",
-        "stars": 16,
+        "stars": 17,
         "file": "BGEnhanced-0.2.12.plugin",
         "file-url": "plugins/BGEnhanced-0.2.12.plugin"
     },
@@ -233,18 +233,18 @@
     {
         "name": "InfLink",
         "author": "MicroBlock",
-        "version": "1.0.2",
+        "version": "1.0.3",
         "description": "连接各种歌曲信息协议\n目前：SMTC（Windows自带）, Discord Rich Presence",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/InfLink.png",
         "slug": "InfLink",
-        "update_time": 1682834525,
+        "update_time": 1686132880,
         "publish_time": 1673372080,
         "repo": "BetterNCM/InfinityLink",
         "stars": 12,
         "native": true,
-        "file": "InfLink-1.0.2.plugin",
-        "file-url": "plugins/InfLink-1.0.2.plugin"
+        "file": "InfLink-1.0.3.plugin",
+        "file-url": "plugins/InfLink-1.0.3.plugin"
     },
     {
         "name": "LibEAPIRequest",
@@ -545,7 +545,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 246,
+        "stars": 250,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -581,7 +581,7 @@
         "update_time": 1682782235,
         "publish_time": 1682782235,
         "repo": "ReviveUnblockNCMInstaller/RevivedSource",
-        "stars": 8,
+        "stars": 9,
         "file": "RevivedSource-0.1.0.plugin",
         "file-url": "plugins/RevivedSource-0.1.0.plugin"
     },
@@ -729,7 +729,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 64,
+        "stars": 65,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
