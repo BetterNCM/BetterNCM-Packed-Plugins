@@ -32,7 +32,7 @@
         "update_time": 1685121188,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 132,
+        "stars": 135,
         "file": "Apple-Musiclike-lyrics-2.0.3.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.0.3.plugin"
     },
@@ -396,7 +396,7 @@
         "update_time": 1684719915,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 99,
+        "stars": 98,
         "file": "MaterialYouTheme-2.9.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.9.0.plugin"
     },
@@ -545,7 +545,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 250,
+        "stars": 256,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -754,17 +754,18 @@
     {
         "name": "TinyNCM",
         "author": "MicroBlock",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "description": "更改字体，更改颜色，删除无用组件",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/TinyNCM.png",
+        "ncm3-compatible": true,
         "slug": "TinyNCM",
-        "update_time": 1679725086,
+        "update_time": 1687428180,
         "publish_time": 1670689230,
         "repo": "BetterNCM/TinyNCM",
         "stars": 6,
-        "file": "TinyNCM-1.0.0.plugin",
-        "file-url": "plugins/TinyNCM-1.0.0.plugin"
+        "file": "TinyNCM-1.0.1.plugin",
+        "file-url": "plugins/TinyNCM-1.0.1.plugin"
     },
     {
         "name": "Transmission",
@@ -867,7 +868,7 @@
         "update_time": 1683655534,
         "publish_time": 1681021628,
         "repo": "BetterNCM/keyboard-seek",
-        "stars": 3,
+        "stars": 4,
         "file": "keyboard-seek-0.2.0.plugin",
         "file-url": "plugins/keyboard-seek-0.2.0.plugin"
     },
