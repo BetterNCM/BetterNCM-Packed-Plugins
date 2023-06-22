@@ -754,18 +754,18 @@
     {
         "name": "TinyNCM",
         "author": "MicroBlock",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "description": "更改字体，更改颜色，删除无用组件",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/TinyNCM.png",
         "ncm3-compatible": true,
         "slug": "TinyNCM",
-        "update_time": 1687428180,
+        "update_time": 1687428291,
         "publish_time": 1670689230,
         "repo": "BetterNCM/TinyNCM",
         "stars": 6,
-        "file": "TinyNCM-1.0.1.plugin",
-        "file-url": "plugins/TinyNCM-1.0.1.plugin"
+        "file": "TinyNCM-1.0.2.plugin",
+        "file-url": "plugins/TinyNCM-1.0.2.plugin"
     },
     {
         "name": "Transmission",
