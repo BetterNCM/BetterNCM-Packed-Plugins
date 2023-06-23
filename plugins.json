@@ -32,7 +32,7 @@
         "update_time": 1685121188,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 135,
+        "stars": 137,
         "file": "Apple-Musiclike-lyrics-2.0.3.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.0.3.plugin"
     },
@@ -68,7 +68,7 @@
         "update_time": 1680621277,
         "publish_time": 1670425948,
         "repo": "BetterNCM/BGEnhanced",
-        "stars": 17,
+        "stars": 16,
         "file": "BGEnhanced-0.2.12.plugin",
         "file-url": "plugins/BGEnhanced-0.2.12.plugin"
     },
@@ -552,7 +552,7 @@
     {
         "name": "纯净分享链接",
         "author": "solstice23",
-        "version": "1.0",
+        "version": "1.0.1",
         "description": "移除分享链接中的追踪参数",
         "requirements": [],
         "betterncm_version": ">=1.0.0",
@@ -560,30 +560,32 @@
         "author_links": [
             "https://github.com/solstice23"
         ],
+        "ncm3-compatible": true,
         "slug": "remove-tracking-attribute",
-        "update_time": 1676985392,
+        "update_time": 1687526651,
         "publish_time": 1676985392,
         "repo": "BetterNCM/RemoveTrackingAttribute",
         "stars": 3,
-        "file": "remove-tracking-attribute-1.0.plugin",
-        "file-url": "plugins/remove-tracking-attribute-1.0.plugin"
+        "file": "remove-tracking-attribute-1.0.1.plugin",
+        "file-url": "plugins/remove-tracking-attribute-1.0.1.plugin"
     },
     {
         "name": "RevivedSource",
         "author": "Revived@Unblocked",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "description": "向插件商店中添加 Revive 源，包含无法上架至插件商店的某些插件。",
         "requirements": [],
         "betterncm_version": ">=1.0.0",
         "preview": "previews/RevivedSource.svg",
         "type": "extension",
+        "ncm3-compatible": true,
         "slug": "RevivedSource",
-        "update_time": 1682782235,
+        "update_time": 1687526656,
         "publish_time": 1682782235,
         "repo": "ReviveUnblockNCMInstaller/RevivedSource",
         "stars": 9,
-        "file": "RevivedSource-0.1.0.plugin",
-        "file-url": "plugins/RevivedSource-0.1.0.plugin"
+        "file": "RevivedSource-0.1.1.plugin",
+        "file-url": "plugins/RevivedSource-0.1.1.plugin"
     },
     {
         "name": "RoundCornerNCM",
