@@ -16,7 +16,7 @@
     {
         "name": "Apple Music-like lyrics",
         "author": "SteveXMH",
-        "version": "2.1.1",
+        "version": "2.1.2",
         "description": "类 Apple Music 歌词页面插件|近乎完美的 Apple Music 歌词体验",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/Apple-Musiclike-lyrics.svg",
@@ -27,12 +27,12 @@
         "type": "extension",
         "ncm3-compatible": true,
         "slug": "Apple-Musiclike-lyrics",
-        "update_time": 1687539882,
+        "update_time": 1687544352,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 137,
-        "file": "Apple-Musiclike-lyrics-2.1.1.plugin",
-        "file-url": "plugins/Apple-Musiclike-lyrics-2.1.1.plugin"
+        "stars": 138,
+        "file": "Apple-Musiclike-lyrics-2.1.2.plugin",
+        "file-url": "plugins/Apple-Musiclike-lyrics-2.1.2.plugin"
     },
     {
         "name": "Ark Theme",
@@ -581,7 +581,7 @@
         "update_time": 1687526656,
         "publish_time": 1682782235,
         "repo": "ReviveUnblockNCMInstaller/RevivedSource",
-        "stars": 9,
+        "stars": 10,
         "file": "RevivedSource-0.1.1.plugin",
         "file-url": "plugins/RevivedSource-0.1.1.plugin"
     },
