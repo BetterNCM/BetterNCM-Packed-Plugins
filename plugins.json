@@ -30,7 +30,7 @@
         "update_time": 1687605941,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 141,
+        "stars": 143,
         "file": "Apple-Musiclike-lyrics-2.1.5.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.1.5.plugin"
     },
@@ -92,6 +92,21 @@
         "file-url": "plugins/BGEnhanced-Extra-0.4.0.plugin"
     },
     {
+        "name": "BeatSaver",
+        "author": "keiko233",
+        "version": "0.1.0",
+        "description": "BeatSaver 一键快速搜索。",
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/beat-saver.png",
+        "type": "extension",
+        "slug": "beat-saver",
+        "update_time": 1687704807,
+        "publish_time": 1687704807,
+        "repo": "keiko233/beatsaver-plugin-netease",
+        "file": "beat-saver-0.1.0.plugin",
+        "file-url": "plugins/beat-saver-0.1.0.plugin"
+    },
+    {
         "name": "CrashFix",
         "author": "MicroBlock",
         "version": "0.1.3",
@@ -143,18 +158,18 @@
     {
         "name": "ElainaTheme",
         "author": "keiko233",
-        "version": "1.0.2",
+        "version": "1.0.3",
         "description": "可爱的UI，伊蕾娜元素，还有一点自定义。",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/elaina-theme.png",
         "type": "theme",
         "slug": "elaina-theme",
-        "update_time": 1685259997,
+        "update_time": 1687666720,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
         "stars": 10,
-        "file": "elaina-theme-1.0.2.plugin",
-        "file-url": "plugins/elaina-theme-1.0.2.plugin"
+        "file": "elaina-theme-1.0.3.plugin",
+        "file-url": "plugins/elaina-theme-1.0.3.plugin"
     },
     {
         "name": "FluentMusicCover",
