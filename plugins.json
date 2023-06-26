@@ -30,7 +30,7 @@
         "update_time": 1687605941,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 143,
+        "stars": 144,
         "file": "Apple-Musiclike-lyrics-2.1.5.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.1.5.plugin"
     },
@@ -94,17 +94,17 @@
     {
         "name": "BeatSaver",
         "author": "keiko233",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "description": "BeatSaver 一键快速搜索。",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/beat-saver.png",
         "type": "extension",
         "slug": "beat-saver",
-        "update_time": 1687704807,
+        "update_time": 1687709967,
         "publish_time": 1687704807,
         "repo": "keiko233/beatsaver-plugin-netease",
-        "file": "beat-saver-0.1.0.plugin",
-        "file-url": "plugins/beat-saver-0.1.0.plugin"
+        "file": "beat-saver-0.1.1.plugin",
+        "file-url": "plugins/beat-saver-0.1.1.plugin"
     },
     {
         "name": "CrashFix",
@@ -254,7 +254,7 @@
         "update_time": 1686132880,
         "publish_time": 1673372080,
         "repo": "BetterNCM/InfinityLink",
-        "stars": 12,
+        "stars": 13,
         "native": true,
         "file": "InfLink-1.0.3.plugin",
         "file-url": "plugins/InfLink-1.0.3.plugin"
