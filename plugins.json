@@ -30,7 +30,7 @@
         "update_time": 1687950796,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 152,
+        "stars": 180,
         "file": "Apple-Musiclike-lyrics-2.1.7.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.1.7.plugin"
     },
@@ -87,7 +87,7 @@
         "update_time": 1685013084,
         "publish_time": 1684564518,
         "repo": "mo-jinran/BGEnhanced-Extra",
-        "stars": 3,
+        "stars": 2,
         "file": "BGEnhanced-Extra-0.4.0.plugin",
         "file-url": "plugins/BGEnhanced-Extra-0.4.0.plugin"
     },
@@ -167,7 +167,7 @@
         "update_time": 1687666720,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
-        "stars": 10,
+        "stars": 12,
         "file": "elaina-theme-1.0.3.plugin",
         "file-url": "plugins/elaina-theme-1.0.3.plugin"
     },
@@ -409,7 +409,7 @@
         "update_time": 1684719915,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 99,
+        "stars": 100,
         "file": "MaterialYouTheme-2.9.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.9.0.plugin"
     },
@@ -501,12 +501,12 @@
     {
         "name": "PluginMarket",
         "author": "BetterNCM",
-        "version": "0.6.8",
+        "version": "0.6.9",
         "hide": true,
         "force-update": "*",
         "force-install": true,
         "slug": "PluginMarket",
-        "update_time": 1687432309,
+        "update_time": 1690268109,
         "publish_time": 1680372961,
         "repo": "BetterNCM/Plugin-Market",
         "file": "PluginMarket.plugin",
@@ -558,7 +558,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 258,
+        "stars": 269,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -633,7 +633,7 @@
         "update_time": 1681021577,
         "publish_time": 1674390502,
         "repo": "BetterNCM/RuLyric",
-        "stars": 11,
+        "stars": 13,
         "native": true,
         "file": "RuLyrics-0.3.5.plugin",
         "file-url": "plugins/RuLyrics-0.3.5.plugin"
@@ -694,7 +694,7 @@
         "update_time": 1680277456,
         "publish_time": 1673713908,
         "repo": "BetterNCM/SimpleAudioVisualizer",
-        "stars": 7,
+        "stars": 8,
         "file": "SimpleAudioVisualizer-0.1.3.plugin",
         "file-url": "plugins/SimpleAudioVisualizer-0.1.3.plugin"
     },
@@ -744,7 +744,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 65,
+        "stars": 70,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
@@ -864,7 +864,7 @@
         "update_time": 1679753235,
         "publish_time": 1672504198,
         "repo": "mo-jinran/What-is-the-cover-of-this-music",
-        "stars": 9,
+        "stars": 8,
         "file": "What-is-the-cover-of-this-music-2.0.8.plugin",
         "file-url": "plugins/What-is-the-cover-of-this-music-2.0.8.plugin"
     },
