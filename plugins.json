@@ -30,7 +30,7 @@
         "update_time": 1687950796,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 180,
+        "stars": 181,
         "file": "Apple-Musiclike-lyrics-2.1.7.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.1.7.plugin"
     },
@@ -409,7 +409,7 @@
         "update_time": 1684719915,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 100,
+        "stars": 99,
         "file": "MaterialYouTheme-2.9.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.9.0.plugin"
     },
@@ -452,7 +452,7 @@
         "update_time": 1679160831,
         "publish_time": 1670425948,
         "repo": "mo-jinran/MoTheme",
-        "stars": 20,
+        "stars": 19,
         "file": "MoTheme-1.2.3.plugin",
         "file-url": "plugins/MoTheme-1.2.3.plugin"
     },
@@ -701,17 +701,18 @@
     {
         "name": "StyleSnippet",
         "author": "MicroBlock",
-        "version": "0.2.1",
+        "version": "0.2.2",
         "description": "界面美化 CSS 片段，支持本地一键修改，应用。",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/StyleSnippet.png",
+        "ncm3-compatible": true,
         "slug": "StyleSnippet",
-        "update_time": 1680617660,
+        "update_time": 1690268096,
         "publish_time": 1672601649,
         "repo": "BetterNCM/StyleSnippet",
         "stars": 6,
-        "file": "StyleSnippet-0.2.1.plugin",
-        "file-url": "plugins/StyleSnippet-0.2.1.plugin"
+        "file": "StyleSnippet-0.2.2.plugin",
+        "file-url": "plugins/StyleSnippet-0.2.2.plugin"
     },
     {
         "name": "StylesheetLoader",
@@ -744,7 +745,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 70,
+        "stars": 69,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
