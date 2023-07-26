@@ -245,22 +245,6 @@
         "file-url": "plugins/HideScrollbar-2.0.2.plugin"
     },
     {
-        "name": "InfLink",
-        "author": "MicroBlock",
-        "version": "1.0.3",
-        "description": "连接各种歌曲信息协议\n目前：SMTC（Windows自带）, Discord Rich Presence",
-        "betterncm_version": ">=1.0.0",
-        "preview": "previews/InfLink.png",
-        "slug": "InfLink",
-        "update_time": 1686132880,
-        "publish_time": 1673372080,
-        "repo": "BetterNCM/InfinityLink",
-        "stars": 13,
-        "native": true,
-        "file": "InfLink-1.0.3.plugin",
-        "file-url": "plugins/InfLink-1.0.3.plugin"
-    },
-    {
         "name": "LibEAPIRequest",
         "author": "SteveXMH",
         "version": "1.6.2",
