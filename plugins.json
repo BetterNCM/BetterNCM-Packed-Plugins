@@ -58,17 +58,18 @@
     {
         "name": "BGEnhanced",
         "author": "MicroBlock",
-        "version": "0.2.12",
+        "version": "0.3.1",
         "description": "自定义网易云背景！（需安装任意主题）",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/BGEnhanced.png",
+        "ncm3-compatible": true,
         "slug": "BGEnhanced",
-        "update_time": 1680621277,
+        "update_time": 1690355569,
         "publish_time": 1670425948,
         "repo": "BetterNCM/BGEnhanced",
         "stars": 16,
-        "file": "BGEnhanced-0.2.12.plugin",
-        "file-url": "plugins/BGEnhanced-0.2.12.plugin"
+        "file": "BGEnhanced-0.3.1.plugin",
+        "file-url": "plugins/BGEnhanced-0.3.1.plugin"
     },
     {
         "name": "BGEnhanced Extra",
