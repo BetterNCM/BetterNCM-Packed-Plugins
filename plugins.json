@@ -30,7 +30,7 @@
         "update_time": 1687950796,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 181,
+        "stars": 182,
         "file": "Apple-Musiclike-lyrics-2.1.7.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.1.7.plugin"
     },
@@ -58,18 +58,18 @@
     {
         "name": "BGEnhanced",
         "author": "MicroBlock",
-        "version": "0.3.2",
+        "version": "0.3.5",
         "description": "自定义网易云背景！（需安装任意主题）",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/BGEnhanced.png",
         "ncm3-compatible": true,
         "slug": "BGEnhanced",
-        "update_time": 1690384453,
+        "update_time": 1690456269,
         "publish_time": 1670425948,
         "repo": "BetterNCM/BGEnhanced",
         "stars": 16,
-        "file": "BGEnhanced-0.3.2.plugin",
-        "file-url": "plugins/BGEnhanced-0.3.2.plugin"
+        "file": "BGEnhanced-0.3.5.plugin",
+        "file-url": "plugins/BGEnhanced-0.3.5.plugin"
     },
     {
         "name": "BGEnhanced Extra",
