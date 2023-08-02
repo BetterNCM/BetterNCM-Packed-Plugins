@@ -30,7 +30,7 @@
         "update_time": 1687950796,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 182,
+        "stars": 183,
         "file": "Apple-Musiclike-lyrics-2.1.7.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.1.7.plugin"
     },
@@ -67,7 +67,7 @@
         "update_time": 1690460915,
         "publish_time": 1670425948,
         "repo": "BetterNCM/BGEnhanced",
-        "stars": 16,
+        "stars": 17,
         "file": "BGEnhanced-0.3.6.plugin",
         "file-url": "plugins/BGEnhanced-0.3.6.plugin"
     },
@@ -159,18 +159,18 @@
     {
         "name": "ElainaTheme",
         "author": "keiko233",
-        "version": "1.0.3",
+        "version": "1.0.4",
         "description": "可爱的UI，伊蕾娜元素，还有一点自定义。",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/elaina-theme.png",
         "type": "theme",
         "slug": "elaina-theme",
-        "update_time": 1687666720,
+        "update_time": 1690697772,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
         "stars": 12,
-        "file": "elaina-theme-1.0.3.plugin",
-        "file-url": "plugins/elaina-theme-1.0.3.plugin"
+        "file": "elaina-theme-1.0.4.plugin",
+        "file-url": "plugins/elaina-theme-1.0.4.plugin"
     },
     {
         "name": "FluentMusicCover",
@@ -560,7 +560,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 269,
+        "stars": 271,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
