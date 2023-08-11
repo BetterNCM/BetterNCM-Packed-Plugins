@@ -30,7 +30,7 @@
         "update_time": 1687950796,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 183,
+        "stars": 190,
         "file": "Apple-Musiclike-lyrics-2.1.7.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.1.7.plugin"
     },
@@ -256,7 +256,7 @@
         "update_time": 1690385511,
         "publish_time": 1673372080,
         "repo": "BetterNCM/InfinityLink",
-        "stars": 13,
+        "stars": 14,
         "native": true,
         "file": "InfLink-1.0.5.plugin",
         "file-url": "plugins/InfLink-1.0.5.plugin"
@@ -278,7 +278,7 @@
         "update_time": 1674485753,
         "publish_time": 1674485753,
         "repo": "BetterNCM/LibEAPIRequest",
-        "stars": 3,
+        "stars": 4,
         "file": "LibEAPIRequest-1.6.2.plugin",
         "file-url": "plugins/LibEAPIRequest-1.6.2.plugin"
     },
@@ -292,7 +292,7 @@
         "update_time": 1680277444,
         "publish_time": 1673713536,
         "repo": "BetterNCM/LibFrontendPlay",
-        "stars": 4,
+        "stars": 6,
         "file": "LibFrontendPlay-1.1.0.plugin",
         "file-url": "plugins/LibFrontendPlay-1.1.0.plugin"
     },
@@ -372,6 +372,20 @@
         "file-url": "plugins/LiveSongPlayer-0.1.7.plugin"
     },
     {
+        "name": "LogCleaner",
+        "author": "MicroBlock",
+        "version": "0.0.1",
+        "description": "每次退出后自动删除日志，节省（很多）硬盘空间",
+        "betterncm_version": ">=0.2.5",
+        "preview": "previews/LogCleaner.png",
+        "slug": "LogCleaner",
+        "update_time": 1691758406,
+        "publish_time": 1691758406,
+        "repo": "BetterNCM/LogCleaner",
+        "file": "LogCleaner-0.0.1.plugin",
+        "file-url": "plugins/LogCleaner-0.0.1.plugin"
+    },
+    {
         "name": "LyricBar",
         "author": "solstice23",
         "version": "0.3.6",
@@ -411,7 +425,7 @@
         "update_time": 1684719915,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 99,
+        "stars": 100,
         "file": "MaterialYouTheme-2.9.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.9.0.plugin"
     },
@@ -454,7 +468,7 @@
         "update_time": 1679160831,
         "publish_time": 1670425948,
         "repo": "mo-jinran/MoTheme",
-        "stars": 19,
+        "stars": 20,
         "file": "MoTheme-1.2.3.plugin",
         "file-url": "plugins/MoTheme-1.2.3.plugin"
     },
@@ -560,7 +574,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 271,
+        "stars": 275,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -747,7 +761,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 69,
+        "stars": 70,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
