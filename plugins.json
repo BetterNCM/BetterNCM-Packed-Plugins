@@ -16,7 +16,7 @@
     {
         "name": "Apple Music-like lyrics",
         "author": "SteveXMH",
-        "version": "2.1.7",
+        "version": "2.1.8",
         "description": "类 Apple Music 歌词页面插件|近乎完美的 Apple Music 歌词体验",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/Apple-Musiclike-lyrics.svg",
@@ -27,12 +27,12 @@
         "type": "extension",
         "ncm3-compatible": true,
         "slug": "Apple-Musiclike-lyrics",
-        "update_time": 1687950796,
+        "update_time": 1691957558,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 190,
-        "file": "Apple-Musiclike-lyrics-2.1.7.plugin",
-        "file-url": "plugins/Apple-Musiclike-lyrics-2.1.7.plugin"
+        "stars": 191,
+        "file": "Apple-Musiclike-lyrics-2.1.8.plugin",
+        "file-url": "plugins/Apple-Musiclike-lyrics-2.1.8.plugin"
     },
     {
         "name": "Ark Theme",
@@ -168,7 +168,7 @@
         "update_time": 1690697772,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
-        "stars": 12,
+        "stars": 13,
         "file": "elaina-theme-1.0.4.plugin",
         "file-url": "plugins/elaina-theme-1.0.4.plugin"
     },
@@ -574,7 +574,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 275,
+        "stars": 276,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
