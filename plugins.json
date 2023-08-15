@@ -30,7 +30,7 @@
         "update_time": 1691957558,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 191,
+        "stars": 193,
         "file": "Apple-Musiclike-lyrics-2.1.8.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.1.8.plugin"
     },
@@ -159,18 +159,18 @@
     {
         "name": "ElainaTheme",
         "author": "keiko233",
-        "version": "1.0.4",
+        "version": "1.0.5",
         "description": "可爱的UI，伊蕾娜元素，还有一点自定义。",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/elaina-theme.png",
         "type": "theme",
         "slug": "elaina-theme",
-        "update_time": 1690697772,
+        "update_time": 1692018955,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
         "stars": 13,
-        "file": "elaina-theme-1.0.4.plugin",
-        "file-url": "plugins/elaina-theme-1.0.4.plugin"
+        "file": "elaina-theme-1.0.5.plugin",
+        "file-url": "plugins/elaina-theme-1.0.5.plugin"
     },
     {
         "name": "FluentMusicCover",
@@ -425,7 +425,7 @@
         "update_time": 1684719915,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 100,
+        "stars": 101,
         "file": "MaterialYouTheme-2.9.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.9.0.plugin"
     },
@@ -445,7 +445,7 @@
         "update_time": 1675509124,
         "publish_time": 1670425948,
         "repo": "miku3333/miku-plugin",
-        "stars": 11,
+        "stars": 12,
         "file": "MikuPlugin-0.1.2.plugin",
         "file-url": "plugins/MikuPlugin-0.1.2.plugin"
     },
@@ -574,7 +574,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 276,
+        "stars": 278,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
