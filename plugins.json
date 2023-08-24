@@ -30,7 +30,7 @@
         "update_time": 1691957558,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 193,
+        "stars": 197,
         "file": "Apple-Musiclike-lyrics-2.1.8.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.1.8.plugin"
     },
@@ -168,7 +168,7 @@
         "update_time": 1692018955,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
-        "stars": 13,
+        "stars": 14,
         "file": "elaina-theme-1.0.5.plugin",
         "file-url": "plugins/elaina-theme-1.0.5.plugin"
     },
@@ -256,7 +256,7 @@
         "update_time": 1690385511,
         "publish_time": 1673372080,
         "repo": "BetterNCM/InfinityLink",
-        "stars": 14,
+        "stars": 15,
         "native": true,
         "file": "InfLink-1.0.5.plugin",
         "file-url": "plugins/InfLink-1.0.5.plugin"
@@ -374,16 +374,16 @@
     {
         "name": "LogCleaner",
         "author": "MicroBlock",
-        "version": "0.0.1",
-        "description": "每次退出后自动删除日志，节省（很多）硬盘空间",
+        "version": "0.0.2",
+        "description": "拦截网易云日志，节省（很多）硬盘空间",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/LogCleaner.png",
         "slug": "LogCleaner",
-        "update_time": 1691758406,
+        "update_time": 1692717215,
         "publish_time": 1691758406,
         "repo": "BetterNCM/LogCleaner",
-        "file": "LogCleaner-0.0.1.plugin",
-        "file-url": "plugins/LogCleaner-0.0.1.plugin"
+        "file": "LogCleaner-0.0.2.plugin",
+        "file-url": "plugins/LogCleaner-0.0.2.plugin"
     },
     {
         "name": "LyricBar",
@@ -425,7 +425,7 @@
         "update_time": 1684719915,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 101,
+        "stars": 102,
         "file": "MaterialYouTheme-2.9.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.9.0.plugin"
     },
@@ -574,7 +574,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 278,
+        "stars": 281,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
