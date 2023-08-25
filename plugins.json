@@ -30,7 +30,7 @@
         "update_time": 1691957558,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 197,
+        "stars": 198,
         "file": "Apple-Musiclike-lyrics-2.1.8.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.1.8.plugin"
     },
@@ -374,16 +374,17 @@
     {
         "name": "LogCleaner",
         "author": "MicroBlock",
-        "version": "0.0.2",
+        "version": "0.0.3",
         "description": "拦截网易云日志，节省（很多）硬盘空间",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/LogCleaner.png",
+        "force-update": "<= 0.0.2",
         "slug": "LogCleaner",
-        "update_time": 1692717215,
+        "update_time": 1692940576,
         "publish_time": 1691758406,
         "repo": "BetterNCM/LogCleaner",
-        "file": "LogCleaner-0.0.2.plugin",
-        "file-url": "plugins/LogCleaner-0.0.2.plugin"
+        "file": "LogCleaner-0.0.3.plugin",
+        "file-url": "plugins/LogCleaner-0.0.3.plugin"
     },
     {
         "name": "LyricBar",
@@ -761,7 +762,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 70,
+        "stars": 71,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
