@@ -374,17 +374,17 @@
     {
         "name": "LogCleaner",
         "author": "MicroBlock",
-        "version": "0.0.3",
+        "version": "0.0.4",
         "description": "拦截网易云日志，节省（很多）硬盘空间",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/LogCleaner.png",
-        "force-update": "<= 0.0.2",
+        "force-update": "<= 0.0.3",
         "slug": "LogCleaner",
-        "update_time": 1692940576,
+        "update_time": 1692957445,
         "publish_time": 1691758406,
         "repo": "BetterNCM/LogCleaner",
-        "file": "LogCleaner-0.0.3.plugin",
-        "file-url": "plugins/LogCleaner-0.0.3.plugin"
+        "file": "LogCleaner-0.0.4.plugin",
+        "file-url": "plugins/LogCleaner-0.0.4.plugin"
     },
     {
         "name": "LyricBar",
