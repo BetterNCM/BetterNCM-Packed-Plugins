@@ -30,7 +30,7 @@
         "update_time": 1691957558,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 198,
+        "stars": 200,
         "file": "Apple-Musiclike-lyrics-2.1.8.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.1.8.plugin"
     },
@@ -67,7 +67,7 @@
         "update_time": 1690460915,
         "publish_time": 1670425948,
         "repo": "BetterNCM/BGEnhanced",
-        "stars": 17,
+        "stars": 19,
         "file": "BGEnhanced-0.3.6.plugin",
         "file-url": "plugins/BGEnhanced-0.3.6.plugin"
     },
@@ -374,17 +374,17 @@
     {
         "name": "LogCleaner",
         "author": "MicroBlock",
-        "version": "0.0.4",
+        "version": "0.0.5",
         "description": "拦截网易云日志，节省（很多）硬盘空间",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/LogCleaner.png",
-        "force-update": "<= 0.0.3",
+        "force-update": "<= 0.0.4",
         "slug": "LogCleaner",
-        "update_time": 1692957445,
+        "update_time": 1693574183,
         "publish_time": 1691758406,
         "repo": "BetterNCM/LogCleaner",
-        "file": "LogCleaner-0.0.4.plugin",
-        "file-url": "plugins/LogCleaner-0.0.4.plugin"
+        "file": "LogCleaner-0.0.5.plugin",
+        "file-url": "plugins/LogCleaner-0.0.5.plugin"
     },
     {
         "name": "LyricBar",
@@ -426,7 +426,7 @@
         "update_time": 1684719915,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 102,
+        "stars": 101,
         "file": "MaterialYouTheme-2.9.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.9.0.plugin"
     },
@@ -575,7 +575,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 281,
+        "stars": 284,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -762,7 +762,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 71,
+        "stars": 74,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
