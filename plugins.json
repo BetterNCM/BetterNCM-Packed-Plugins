@@ -16,7 +16,7 @@
     {
         "name": "Apple Music-like lyrics",
         "author": "SteveXMH",
-        "version": "2.1.8",
+        "version": "2.1.9",
         "description": "类 Apple Music 歌词页面插件|近乎完美的 Apple Music 歌词体验",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/Apple-Musiclike-lyrics.svg",
@@ -27,12 +27,12 @@
         "type": "extension",
         "ncm3-compatible": true,
         "slug": "Apple-Musiclike-lyrics",
-        "update_time": 1691957558,
+        "update_time": 1695459806,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 200,
-        "file": "Apple-Musiclike-lyrics-2.1.8.plugin",
-        "file-url": "plugins/Apple-Musiclike-lyrics-2.1.8.plugin"
+        "stars": 204,
+        "file": "Apple-Musiclike-lyrics-2.1.9.plugin",
+        "file-url": "plugins/Apple-Musiclike-lyrics-2.1.9.plugin"
     },
     {
         "name": "Ark Theme",
@@ -67,7 +67,7 @@
         "update_time": 1690460915,
         "publish_time": 1670425948,
         "repo": "BetterNCM/BGEnhanced",
-        "stars": 19,
+        "stars": 18,
         "file": "BGEnhanced-0.3.6.plugin",
         "file-url": "plugins/BGEnhanced-0.3.6.plugin"
     },
@@ -168,7 +168,7 @@
         "update_time": 1692018955,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
-        "stars": 14,
+        "stars": 15,
         "file": "elaina-theme-1.0.5.plugin",
         "file-url": "plugins/elaina-theme-1.0.5.plugin"
     },
@@ -469,7 +469,7 @@
         "update_time": 1679160831,
         "publish_time": 1670425948,
         "repo": "mo-jinran/MoTheme",
-        "stars": 20,
+        "stars": 19,
         "file": "MoTheme-1.2.3.plugin",
         "file-url": "plugins/MoTheme-1.2.3.plugin"
     },
@@ -552,7 +552,7 @@
         "update_time": 1683442338,
         "publish_time": 1676203250,
         "repo": "FlysoftBeta/ReLive",
-        "stars": 10,
+        "stars": 9,
         "file": "relive-theme-0.6.0.plugin",
         "file-url": "plugins/relive-theme-0.6.0.plugin"
     },
@@ -727,7 +727,7 @@
         "update_time": 1690268096,
         "publish_time": 1672601649,
         "repo": "BetterNCM/StyleSnippet",
-        "stars": 6,
+        "stars": 5,
         "file": "StyleSnippet-0.2.2.plugin",
         "file-url": "plugins/StyleSnippet-0.2.2.plugin"
     },
