@@ -2,16 +2,16 @@
     {
         "name": "ActionEnhancement",
         "author": "MicroBlock",
-        "version": "0.1.7",
-        "description": "右键“分享”复制歌曲ID，右键“下载”打开歌曲外链，鼠标在声音图标上滚轮调节音量",
+        "version": "0.1.8",
+        "description": "粘贴歌曲链接自动搜索，右键“分享”复制歌曲ID，鼠标在声音图标上滚轮调节音量",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/ActionEnhancement.png",
         "slug": "ActionEnhancement",
-        "update_time": 1682921901,
+        "update_time": 1696414493,
         "publish_time": 1670980621,
         "repo": "BetterNCM/ActionEnhancement",
-        "file": "ActionEnhancement-0.1.7.plugin",
-        "file-url": "plugins/ActionEnhancement-0.1.7.plugin"
+        "file": "ActionEnhancement-0.1.8.plugin",
+        "file-url": "plugins/ActionEnhancement-0.1.8.plugin"
     },
     {
         "name": "Apple Music-like lyrics",
@@ -30,7 +30,7 @@
         "update_time": 1695459806,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 204,
+        "stars": 209,
         "file": "Apple-Musiclike-lyrics-2.1.9.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.1.9.plugin"
     },
@@ -256,7 +256,7 @@
         "update_time": 1690385511,
         "publish_time": 1673372080,
         "repo": "BetterNCM/InfinityLink",
-        "stars": 15,
+        "stars": 16,
         "native": true,
         "file": "InfLink-1.0.5.plugin",
         "file-url": "plugins/InfLink-1.0.5.plugin"
@@ -575,7 +575,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 285,
+        "stars": 290,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -613,7 +613,7 @@
         "update_time": 1687526656,
         "publish_time": 1682782235,
         "repo": "ReviveUnblockNCMInstaller/RevivedSource",
-        "stars": 10,
+        "stars": 11,
         "file": "RevivedSource-0.1.1.plugin",
         "file-url": "plugins/RevivedSource-0.1.1.plugin"
     },
@@ -670,7 +670,7 @@
         "update_time": 1675852486,
         "publish_time": 1675852486,
         "repo": "solstice23/search-on-osu",
-        "stars": 8,
+        "stars": 9,
         "file": "search-on-osu-0.7.2.7.plugin",
         "file-url": "plugins/search-on-osu-0.7.2.7.plugin"
     },
@@ -861,7 +861,7 @@
         "update_time": 1686489320,
         "publish_time": 1679230174,
         "repo": "samyycX/VocaloidInfo",
-        "stars": 5,
+        "stars": 6,
         "file": "vocaloid-info-2.0.2.plugin",
         "file-url": "plugins/vocaloid-info-2.0.2.plugin"
     },
