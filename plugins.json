@@ -30,9 +30,30 @@
         "update_time": 1695459806,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 209,
+        "stars": 213,
         "file": "Apple-Musiclike-lyrics-2.1.9.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.1.9.plugin"
+    },
+    {
+        "name": "Apple Music-like lyrics 2.0 Beta",
+        "author": "SteveXMH",
+        "version": "0.0.4",
+        "description": "类 Apple Music 歌词页面插件|测试版|近乎完美的 Apple Music 歌词体验",
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/Apple-Musiclike-lyrics-2-0-Beta.svg",
+        "author_links": [
+            "https://github.com/Steve-xmh",
+            "https://github.com/Steve-xmh/applemusic-like-lyrics"
+        ],
+        "type": "extension",
+        "incompatible": [
+            "RefinedNowPlaying"
+        ],
+        "slug": "Apple-Musiclike-lyrics-2-0-Beta",
+        "update_time": 1680109236,
+        "publish_time": 1678548311,
+        "file": "Apple-Musiclike-lyrics-2-0-Beta-0.0.4.plugin",
+        "file-url": "plugins/Apple-Musiclike-lyrics-2-0-Beta-0.0.4.plugin"
     },
     {
         "name": "Ark Theme",
@@ -51,7 +72,7 @@
         "update_time": 1678537236,
         "publish_time": 1676039117,
         "repo": "BetterNCM/ArkTheme",
-        "stars": 5,
+        "stars": 6,
         "file": "ark-theme-0.2.10.plugin",
         "file-url": "plugins/ark-theme-0.2.10.plugin"
     },
@@ -106,6 +127,20 @@
         "repo": "keiko233/beatsaver-plugin-netease",
         "file": "beat-saver-0.1.1.plugin",
         "file-url": "plugins/beat-saver-0.1.1.plugin"
+    },
+    {
+        "name": "CppLyrics ⚠ 开发中 ⚠",
+        "author": "MicroBlock",
+        "version": "0.0.1",
+        "description": "⚠ 开发中 ⚠\n最快，最流畅的歌词插件",
+        "betterncm_version": ">=9.0.0",
+        "slug": "CppLyrics---",
+        "update_time": 1697360951,
+        "publish_time": 1697360951,
+        "repo": "BetterNCM/CppLyrics-Plugin",
+        "native": true,
+        "file": "CppLyrics----0.0.1.plugin",
+        "file-url": "plugins/CppLyrics----0.0.1.plugin"
     },
     {
         "name": "CrashFix",
@@ -256,7 +291,7 @@
         "update_time": 1690385511,
         "publish_time": 1673372080,
         "repo": "BetterNCM/InfinityLink",
-        "stars": 16,
+        "stars": 17,
         "native": true,
         "file": "InfLink-1.0.5.plugin",
         "file-url": "plugins/InfLink-1.0.5.plugin"
@@ -426,7 +461,7 @@
         "update_time": 1684719915,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 101,
+        "stars": 103,
         "file": "MaterialYouTheme-2.9.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.9.0.plugin"
     },
@@ -575,7 +610,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 290,
+        "stars": 294,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -613,7 +648,7 @@
         "update_time": 1687526656,
         "publish_time": 1682782235,
         "repo": "ReviveUnblockNCMInstaller/RevivedSource",
-        "stars": 11,
+        "stars": 12,
         "file": "RevivedSource-0.1.1.plugin",
         "file-url": "plugins/RevivedSource-0.1.1.plugin"
     },
@@ -650,7 +685,7 @@
         "update_time": 1681021577,
         "publish_time": 1674390502,
         "repo": "BetterNCM/RuLyric",
-        "stars": 13,
+        "stars": 14,
         "native": true,
         "file": "RuLyrics-0.3.5.plugin",
         "file-url": "plugins/RuLyrics-0.3.5.plugin"
@@ -762,7 +797,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 74,
+        "stars": 75,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
