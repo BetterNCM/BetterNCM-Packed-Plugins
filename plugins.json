@@ -30,7 +30,7 @@
         "update_time": 1695459806,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 218,
+        "stars": 223,
         "file": "Apple-Musiclike-lyrics-2.1.9.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.1.9.plugin"
     },
@@ -131,16 +131,16 @@
     {
         "name": "CppLyrics ⚠ 开发中 ⚠",
         "author": "MicroBlock",
-        "version": "0.0.2",
+        "version": "0.0.3",
         "description": "⚠ 开发中 ⚠\n最快，最流畅的歌词插件",
         "betterncm_version": ">=1.0.0",
         "slug": "CppLyrics---",
-        "update_time": 1697962539,
+        "update_time": 1698433754,
         "publish_time": 1697360951,
         "repo": "BetterNCM/CppLyrics-Plugin",
         "native": true,
-        "file": "CppLyrics----0.0.2.plugin",
-        "file-url": "plugins/CppLyrics----0.0.2.plugin"
+        "file": "CppLyrics----0.0.3.plugin",
+        "file-url": "plugins/CppLyrics----0.0.3.plugin"
     },
     {
         "name": "CrashFix",
@@ -610,7 +610,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 294,
+        "stars": 295,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
