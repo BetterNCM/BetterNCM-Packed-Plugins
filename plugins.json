@@ -30,7 +30,7 @@
         "update_time": 1695459806,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 223,
+        "stars": 236,
         "file": "Apple-Musiclike-lyrics-2.1.9.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.1.9.plugin"
     },
@@ -131,16 +131,17 @@
     {
         "name": "CppLyrics ⚠ 开发中 ⚠",
         "author": "MicroBlock",
-        "version": "0.0.3",
+        "version": "0.0.4",
         "description": "⚠ 开发中 ⚠\n最快，最流畅的歌词插件",
         "betterncm_version": ">=1.0.0",
         "slug": "CppLyrics---",
-        "update_time": 1698433754,
+        "update_time": 1699269126,
         "publish_time": 1697360951,
         "repo": "BetterNCM/CppLyrics-Plugin",
+        "stars": 2,
         "native": true,
-        "file": "CppLyrics----0.0.3.plugin",
-        "file-url": "plugins/CppLyrics----0.0.3.plugin"
+        "file": "CppLyrics----0.0.4.plugin",
+        "file-url": "plugins/CppLyrics----0.0.4.plugin"
     },
     {
         "name": "CrashFix",
@@ -291,7 +292,7 @@
         "update_time": 1690385511,
         "publish_time": 1673372080,
         "repo": "BetterNCM/InfinityLink",
-        "stars": 17,
+        "stars": 18,
         "native": true,
         "file": "InfLink-1.0.5.plugin",
         "file-url": "plugins/InfLink-1.0.5.plugin"
@@ -461,7 +462,7 @@
         "update_time": 1684719915,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 104,
+        "stars": 103,
         "file": "MaterialYouTheme-2.9.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.9.0.plugin"
     },
@@ -610,7 +611,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 295,
+        "stars": 300,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
