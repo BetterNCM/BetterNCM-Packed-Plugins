@@ -30,7 +30,7 @@
         "update_time": 1695459806,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 236,
+        "stars": 238,
         "file": "Apple-Musiclike-lyrics-2.1.9.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.1.9.plugin"
     },
@@ -244,17 +244,17 @@
     {
         "name": "Furigana",
         "author": "Mutton_String",
-        "version": "0.0.1",
-        "description": "给日文歌词的汉字标注假名。不兼容网易云音乐2.x。",
-        "betterncm_version": ">=1.3.0",
+        "version": "0.1.1",
+        "description": "给日文歌词的汉字标注假名",
+        "betterncm_version": ">=1.0.0",
         "preview": "previews/Furigana.jpg",
         "ncm3-compatible": true,
         "slug": "Furigana",
-        "update_time": 1699078599,
+        "update_time": 1700025189,
         "publish_time": 1699078599,
         "repo": "MuttonString/Furigana",
-        "file": "Furigana-0.0.1.plugin",
-        "file-url": "plugins/Furigana-0.0.1.plugin"
+        "file": "Furigana-0.1.1.plugin",
+        "file-url": "plugins/Furigana-0.1.1.plugin"
     },
     {
         "name": "GPT Trans",
@@ -626,7 +626,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 300,
+        "stars": 302,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -778,7 +778,7 @@
         "update_time": 1690268096,
         "publish_time": 1672601649,
         "repo": "BetterNCM/StyleSnippet",
-        "stars": 5,
+        "stars": 6,
         "file": "StyleSnippet-0.2.2.plugin",
         "file-url": "plugins/StyleSnippet-0.2.2.plugin"
     },
@@ -813,7 +813,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 77,
+        "stars": 78,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
