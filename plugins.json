@@ -16,9 +16,10 @@
     {
         "name": "类苹果歌词",
         "author": "SteveXMH",
-        "version": "3.0.0",
+        "version": "3.0.1",
         "description": "类 Apple Music 歌词页面插件|近乎完美的 Apple Music 歌词体验",
         "betterncm_version": ">=1.0.0",
+        "preview": "previews/Apple-Musiclike-lyrics.svg",
         "author_links": [
             "https://github.com/Steve-xmh",
             "https://github.com/Steve-xmh/applemusic-like-lyrics"
@@ -26,12 +27,12 @@
         "type": "extension",
         "ncm3-compatible": true,
         "slug": "Apple-Musiclike-lyrics",
-        "update_time": 1700749219,
+        "update_time": 1700750513,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
         "stars": 243,
-        "file": "Apple-Musiclike-lyrics-3.0.0.plugin",
-        "file-url": "plugins/Apple-Musiclike-lyrics-3.0.0.plugin"
+        "file": "Apple-Musiclike-lyrics-3.0.1.plugin",
+        "file-url": "plugins/Apple-Musiclike-lyrics-3.0.1.plugin"
     },
     {
         "name": "Apple Music-like lyrics 2.0 Beta",
