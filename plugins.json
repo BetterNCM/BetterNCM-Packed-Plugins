@@ -14,12 +14,11 @@
         "file-url": "plugins/ActionEnhancement-0.1.8.plugin"
     },
     {
-        "name": "Apple Music-like lyrics",
+        "name": "类苹果歌词",
         "author": "SteveXMH",
-        "version": "2.1.9",
+        "version": "3.0.0",
         "description": "类 Apple Music 歌词页面插件|近乎完美的 Apple Music 歌词体验",
         "betterncm_version": ">=1.0.0",
-        "preview": "previews/Apple-Musiclike-lyrics.svg",
         "author_links": [
             "https://github.com/Steve-xmh",
             "https://github.com/Steve-xmh/applemusic-like-lyrics"
@@ -27,12 +26,12 @@
         "type": "extension",
         "ncm3-compatible": true,
         "slug": "Apple-Musiclike-lyrics",
-        "update_time": 1695459806,
+        "update_time": 1700749219,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 238,
-        "file": "Apple-Musiclike-lyrics-2.1.9.plugin",
-        "file-url": "plugins/Apple-Musiclike-lyrics-2.1.9.plugin"
+        "stars": 243,
+        "file": "Apple-Musiclike-lyrics-3.0.0.plugin",
+        "file-url": "plugins/Apple-Musiclike-lyrics-3.0.0.plugin"
     },
     {
         "name": "Apple Music-like lyrics 2.0 Beta",
@@ -88,7 +87,7 @@
         "update_time": 1690460915,
         "publish_time": 1670425948,
         "repo": "BetterNCM/BGEnhanced",
-        "stars": 18,
+        "stars": 19,
         "file": "BGEnhanced-0.3.6.plugin",
         "file-url": "plugins/BGEnhanced-0.3.6.plugin"
     },
@@ -138,7 +137,7 @@
         "update_time": 1699269126,
         "publish_time": 1697360951,
         "repo": "BetterNCM/CppLyrics-Plugin",
-        "stars": 2,
+        "stars": 3,
         "native": true,
         "file": "CppLyrics----0.0.4.plugin",
         "file-url": "plugins/CppLyrics----0.0.4.plugin"
@@ -204,7 +203,7 @@
         "update_time": 1692018955,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
-        "stars": 15,
+        "stars": 16,
         "file": "elaina-theme-1.0.5.plugin",
         "file-url": "plugins/elaina-theme-1.0.5.plugin"
     },
@@ -253,6 +252,7 @@
         "update_time": 1700025189,
         "publish_time": 1699078599,
         "repo": "MuttonString/Furigana",
+        "stars": 1,
         "file": "Furigana-0.1.1.plugin",
         "file-url": "plugins/Furigana-0.1.1.plugin"
     },
@@ -307,7 +307,7 @@
         "update_time": 1690385511,
         "publish_time": 1673372080,
         "repo": "BetterNCM/InfinityLink",
-        "stars": 18,
+        "stars": 19,
         "native": true,
         "file": "InfLink-1.0.5.plugin",
         "file-url": "plugins/InfLink-1.0.5.plugin"
@@ -626,7 +626,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 302,
+        "stars": 305,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -813,7 +813,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 78,
+        "stars": 79,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
@@ -933,7 +933,7 @@
         "update_time": 1679753235,
         "publish_time": 1672504198,
         "repo": "mo-jinran/What-is-the-cover-of-this-music",
-        "stars": 8,
+        "stars": 9,
         "file": "What-is-the-cover-of-this-music-2.0.8.plugin",
         "file-url": "plugins/What-is-the-cover-of-this-music-2.0.8.plugin"
     },
