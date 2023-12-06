@@ -16,7 +16,7 @@
     {
         "name": "类苹果歌词",
         "author": "SteveXMH",
-        "version": "3.0.1",
+        "version": "3.0.2",
         "description": "类 Apple Music 歌词页面插件|近乎完美的 Apple Music 歌词体验",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/Apple-Musiclike-lyrics.svg",
@@ -27,12 +27,12 @@
         "type": "extension",
         "ncm3-compatible": true,
         "slug": "Apple-Musiclike-lyrics",
-        "update_time": 1700750513,
+        "update_time": 1701886699,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 243,
-        "file": "Apple-Musiclike-lyrics-3.0.1.plugin",
-        "file-url": "plugins/Apple-Musiclike-lyrics-3.0.1.plugin"
+        "stars": 261,
+        "file": "Apple-Musiclike-lyrics-3.0.2.plugin",
+        "file-url": "plugins/Apple-Musiclike-lyrics-3.0.2.plugin"
     },
     {
         "name": "Apple Music-like lyrics 2.0 Beta",
@@ -72,7 +72,7 @@
         "update_time": 1678537236,
         "publish_time": 1676039117,
         "repo": "BetterNCM/ArkTheme",
-        "stars": 6,
+        "stars": 7,
         "file": "ark-theme-0.2.10.plugin",
         "file-url": "plugins/ark-theme-0.2.10.plugin"
     },
@@ -138,7 +138,7 @@
         "update_time": 1699269126,
         "publish_time": 1697360951,
         "repo": "BetterNCM/CppLyrics-Plugin",
-        "stars": 3,
+        "stars": 4,
         "native": true,
         "file": "CppLyrics----0.0.4.plugin",
         "file-url": "plugins/CppLyrics----0.0.4.plugin"
@@ -204,7 +204,7 @@
         "update_time": 1692018955,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
-        "stars": 16,
+        "stars": 17,
         "file": "elaina-theme-1.0.5.plugin",
         "file-url": "plugins/elaina-theme-1.0.5.plugin"
     },
@@ -330,7 +330,7 @@
         "update_time": 1674485753,
         "publish_time": 1674485753,
         "repo": "BetterNCM/LibEAPIRequest",
-        "stars": 4,
+        "stars": 3,
         "file": "LibEAPIRequest-1.6.2.plugin",
         "file-url": "plugins/LibEAPIRequest-1.6.2.plugin"
     },
@@ -367,7 +367,7 @@
         "update_time": 1674374363,
         "publish_time": 1674374363,
         "repo": "Steve-xmh/LibLyric",
-        "stars": 10,
+        "stars": 9,
         "file": "liblyric-1.0.0.plugin",
         "file-url": "plugins/liblyric-1.0.0.plugin"
     },
@@ -627,7 +627,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 305,
+        "stars": 309,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -814,7 +814,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 79,
+        "stars": 80,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
