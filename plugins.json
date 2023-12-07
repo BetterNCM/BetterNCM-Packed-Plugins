@@ -16,7 +16,7 @@
     {
         "name": "类苹果歌词",
         "author": "SteveXMH",
-        "version": "3.0.2",
+        "version": "3.0.3",
         "description": "类 Apple Music 歌词页面插件|近乎完美的 Apple Music 歌词体验",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/Apple-Musiclike-lyrics.svg",
@@ -27,12 +27,12 @@
         "type": "extension",
         "ncm3-compatible": true,
         "slug": "Apple-Musiclike-lyrics",
-        "update_time": 1701886699,
+        "update_time": 1701960807,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 261,
-        "file": "Apple-Musiclike-lyrics-3.0.2.plugin",
-        "file-url": "plugins/Apple-Musiclike-lyrics-3.0.2.plugin"
+        "stars": 260,
+        "file": "Apple-Musiclike-lyrics-3.0.3.plugin",
+        "file-url": "plugins/Apple-Musiclike-lyrics-3.0.3.plugin"
     },
     {
         "name": "Apple Music-like lyrics 2.0 Beta",
@@ -253,7 +253,7 @@
         "update_time": 1700025189,
         "publish_time": 1699078599,
         "repo": "MuttonString/Furigana",
-        "stars": 1,
+        "stars": 2,
         "file": "Furigana-0.1.1.plugin",
         "file-url": "plugins/Furigana-0.1.1.plugin"
     },
@@ -627,7 +627,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 309,
+        "stars": 308,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
