@@ -2,16 +2,17 @@
     {
         "name": "ActionEnhancement",
         "author": "MicroBlock",
-        "version": "0.1.8",
+        "version": "0.1.9",
         "description": "粘贴歌曲链接自动搜索，右键“分享”复制歌曲ID，鼠标在声音图标上滚轮调节音量",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/ActionEnhancement.png",
+        "ncm3-compatible": true,
         "slug": "ActionEnhancement",
-        "update_time": 1696414493,
+        "update_time": 1702789982,
         "publish_time": 1670980621,
         "repo": "BetterNCM/ActionEnhancement",
-        "file": "ActionEnhancement-0.1.8.plugin",
-        "file-url": "plugins/ActionEnhancement-0.1.8.plugin"
+        "file": "ActionEnhancement-0.1.9.plugin",
+        "file-url": "plugins/ActionEnhancement-0.1.9.plugin"
     },
     {
         "name": "类苹果歌词",
@@ -30,7 +31,7 @@
         "update_time": 1701960807,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 263,
+        "stars": 269,
         "file": "Apple-Musiclike-lyrics-3.0.3.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.0.3.plugin"
     },
@@ -125,6 +126,7 @@
         "update_time": 1687709967,
         "publish_time": 1687704807,
         "repo": "keiko233/beatsaver-plugin-netease",
+        "stars": 1,
         "file": "beat-saver-0.1.1.plugin",
         "file-url": "plugins/beat-saver-0.1.1.plugin"
     },
@@ -204,7 +206,7 @@
         "update_time": 1702185167,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
-        "stars": 17,
+        "stars": 18,
         "file": "elaina-theme-1.0.6.plugin",
         "file-url": "plugins/elaina-theme-1.0.6.plugin"
     },
@@ -478,7 +480,7 @@
         "update_time": 1684719915,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 103,
+        "stars": 104,
         "file": "MaterialYouTheme-2.9.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.9.0.plugin"
     },
@@ -627,7 +629,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 309,
+        "stars": 311,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
