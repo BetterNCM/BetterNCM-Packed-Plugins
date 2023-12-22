@@ -31,7 +31,7 @@
         "update_time": 1701960807,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 270,
+        "stars": 282,
         "file": "Apple-Musiclike-lyrics-3.0.3.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.0.3.plugin"
     },
@@ -428,17 +428,17 @@
     {
         "name": "LogCleaner",
         "author": "MicroBlock",
-        "version": "0.0.6",
+        "version": "0.0.7",
         "description": "拦截网易云日志，节省（很多）硬盘空间",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/LogCleaner.png",
         "force-update": "<= 0.0.4",
         "slug": "LogCleaner",
-        "update_time": 1693714513,
+        "update_time": 1703268511,
         "publish_time": 1691758406,
         "repo": "BetterNCM/LogCleaner",
-        "file": "LogCleaner-0.0.6.plugin",
-        "file-url": "plugins/LogCleaner-0.0.6.plugin"
+        "file": "LogCleaner-0.0.7.plugin",
+        "file-url": "plugins/LogCleaner-0.0.7.plugin"
     },
     {
         "name": "LyricBar",
@@ -572,13 +572,12 @@
     {
         "name": "PluginMarket",
         "author": "BetterNCM",
-        "version": "0.7.1",
+        "version": "0.7.2",
         "hide": true,
         "force-update": "*",
-        "force-install": true,
         "ncm3-compatible": true,
         "slug": "PluginMarket",
-        "update_time": 1702902500,
+        "update_time": 1703268523,
         "publish_time": 1680372961,
         "repo": "BetterNCM/Plugin-Market",
         "file": "PluginMarket.plugin",
@@ -630,7 +629,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 313,
+        "stars": 314,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -683,7 +682,7 @@
         "update_time": 1702361945,
         "publish_time": 1672515583,
         "repo": "BetterNCM/RoundCornerNCM",
-        "stars": 3,
+        "stars": 4,
         "require_restart": true,
         "file": "RoundCornerNCM-0.1.3.plugin",
         "file-url": "plugins/RoundCornerNCM-0.1.3.plugin"
@@ -766,7 +765,7 @@
         "update_time": 1680277456,
         "publish_time": 1673713908,
         "repo": "BetterNCM/SimpleAudioVisualizer",
-        "stars": 9,
+        "stars": 10,
         "file": "SimpleAudioVisualizer-0.1.3.plugin",
         "file-url": "plugins/SimpleAudioVisualizer-0.1.3.plugin"
     },
