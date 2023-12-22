@@ -13,4 +13,5 @@ jobs:
 
     steps:
       - run: |
+          cd $GITHUB_WORKSPACE
           git push --mirror https://oauth2:${{ secrets.ACCESS_TOKEN }}@gitcode.net/qq_21551787/bncm-plugin-packed.git
