@@ -197,17 +197,17 @@
     {
         "name": "DowngradeOK",
         "author": "MicroBlock",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "description": "降级网易云至 2.10.12，并干掉自动更新",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/DowngradeOK.png",
         "ncm3-compatible": true,
         "slug": "DowngradeOK",
-        "update_time": 1703317509,
+        "update_time": 1703327752,
         "publish_time": 1703317509,
         "repo": "BetterNCM/DowngradeOK",
-        "file": "DowngradeOK-0.0.1.plugin",
-        "file-url": "plugins/DowngradeOK-0.0.1.plugin"
+        "file": "DowngradeOK-0.0.2.plugin",
+        "file-url": "plugins/DowngradeOK-0.0.2.plugin"
     },
     {
         "name": "ElainaTheme",
