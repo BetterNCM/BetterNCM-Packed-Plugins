@@ -31,7 +31,7 @@
         "update_time": 1701960807,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 282,
+        "stars": 302,
         "file": "Apple-Musiclike-lyrics-3.0.3.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.0.3.plugin"
     },
@@ -89,7 +89,7 @@
         "update_time": 1690460915,
         "publish_time": 1670425948,
         "repo": "BetterNCM/BGEnhanced",
-        "stars": 19,
+        "stars": 20,
         "file": "BGEnhanced-0.3.6.plugin",
         "file-url": "plugins/BGEnhanced-0.3.6.plugin"
     },
@@ -140,7 +140,7 @@
         "update_time": 1699269126,
         "publish_time": 1697360951,
         "repo": "BetterNCM/CppLyrics-Plugin",
-        "stars": 4,
+        "stars": 5,
         "native": true,
         "file": "CppLyrics----0.0.4.plugin",
         "file-url": "plugins/CppLyrics----0.0.4.plugin"
@@ -261,18 +261,18 @@
     {
         "name": "Furigana",
         "author": "Mutton_String",
-        "version": "0.1.1",
+        "version": "0.2.0",
         "description": "给日文歌词的汉字标注假名",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/Furigana.jpg",
         "ncm3-compatible": true,
         "slug": "Furigana",
-        "update_time": 1700025189,
+        "update_time": 1704049851,
         "publish_time": 1699078599,
         "repo": "MuttonString/Furigana",
-        "stars": 2,
-        "file": "Furigana-0.1.1.plugin",
-        "file-url": "plugins/Furigana-0.1.1.plugin"
+        "stars": 3,
+        "file": "Furigana-0.2.0.plugin",
+        "file-url": "plugins/Furigana-0.2.0.plugin"
     },
     {
         "name": "GPT Trans",
@@ -361,7 +361,7 @@
         "update_time": 1680277444,
         "publish_time": 1673713536,
         "repo": "BetterNCM/LibFrontendPlay",
-        "stars": 6,
+        "stars": 7,
         "file": "LibFrontendPlay-1.1.0.plugin",
         "file-url": "plugins/LibFrontendPlay-1.1.0.plugin"
     },
@@ -831,7 +831,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 82,
+        "stars": 85,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
