@@ -31,7 +31,7 @@
         "update_time": 1701960807,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 312,
+        "stars": 343,
         "file": "Apple-Musiclike-lyrics-3.0.3.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.0.3.plugin"
     },
@@ -206,6 +206,7 @@
         "update_time": 1703328478,
         "publish_time": 1703317509,
         "repo": "BetterNCM/DowngradeOK",
+        "stars": 1,
         "file": "DowngradeOK-0.0.3.plugin",
         "file-url": "plugins/DowngradeOK-0.0.3.plugin"
     },
@@ -261,18 +262,18 @@
     {
         "name": "Furigana",
         "author": "Mutton_String",
-        "version": "0.2.1",
+        "version": "0.2.2",
         "description": "给日文歌词的汉字标注假名",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/Furigana.jpg",
         "ncm3-compatible": true,
         "slug": "Furigana",
-        "update_time": 1704208484,
+        "update_time": 1705310124,
         "publish_time": 1699078599,
         "repo": "MuttonString/Furigana",
         "stars": 3,
-        "file": "Furigana-0.2.1.plugin",
-        "file-url": "plugins/Furigana-0.2.1.plugin"
+        "file": "Furigana-0.2.2.plugin",
+        "file-url": "plugins/Furigana-0.2.2.plugin"
     },
     {
         "name": "GPT Trans",
@@ -436,7 +437,7 @@
         "update_time": 1676099592,
         "publish_time": 1673944958,
         "repo": "MicroCBer/LiveSongPlayer-MKII",
-        "stars": 1,
+        "stars": 2,
         "file": "LiveSongPlayer-0.1.7.plugin",
         "file-url": "plugins/LiveSongPlayer-0.1.7.plugin"
     },
@@ -644,7 +645,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 314,
+        "stars": 316,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -739,7 +740,7 @@
         "update_time": 1675852486,
         "publish_time": 1675852486,
         "repo": "solstice23/search-on-osu",
-        "stars": 9,
+        "stars": 10,
         "file": "search-on-osu-0.7.2.7.plugin",
         "file-url": "plugins/search-on-osu-0.7.2.7.plugin"
     },
@@ -831,7 +832,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 85,
+        "stars": 86,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
