@@ -31,7 +31,7 @@
         "update_time": 1701960807,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 343,
+        "stars": 344,
         "file": "Apple-Musiclike-lyrics-3.0.3.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.0.3.plugin"
     },
@@ -262,18 +262,18 @@
     {
         "name": "Furigana",
         "author": "Mutton_String",
-        "version": "0.2.2",
+        "version": "0.2.3",
         "description": "给日文歌词的汉字标注假名",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/Furigana.jpg",
         "ncm3-compatible": true,
         "slug": "Furigana",
-        "update_time": 1705310124,
+        "update_time": 1705400140,
         "publish_time": 1699078599,
         "repo": "MuttonString/Furigana",
         "stars": 3,
-        "file": "Furigana-0.2.2.plugin",
-        "file-url": "plugins/Furigana-0.2.2.plugin"
+        "file": "Furigana-0.2.3.plugin",
+        "file-url": "plugins/Furigana-0.2.3.plugin"
     },
     {
         "name": "GPT Trans",
