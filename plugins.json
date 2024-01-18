@@ -31,7 +31,7 @@
         "update_time": 1701960807,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 344,
+        "stars": 348,
         "file": "Apple-Musiclike-lyrics-3.0.3.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.0.3.plugin"
     },
@@ -262,18 +262,18 @@
     {
         "name": "Furigana",
         "author": "Mutton_String",
-        "version": "0.2.3",
+        "version": "0.3.0",
         "description": "给日文歌词的汉字标注假名",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/Furigana.jpg",
         "ncm3-compatible": true,
         "slug": "Furigana",
-        "update_time": 1705400140,
+        "update_time": 1705489941,
         "publish_time": 1699078599,
         "repo": "MuttonString/Furigana",
         "stars": 3,
-        "file": "Furigana-0.2.3.plugin",
-        "file-url": "plugins/Furigana-0.2.3.plugin"
+        "file": "Furigana-0.3.0.plugin",
+        "file-url": "plugins/Furigana-0.3.0.plugin"
     },
     {
         "name": "GPT Trans",
@@ -326,7 +326,7 @@
         "update_time": 1690385511,
         "publish_time": 1673372080,
         "repo": "BetterNCM/InfinityLink",
-        "stars": 19,
+        "stars": 20,
         "native": true,
         "file": "InfLink-1.0.5.plugin",
         "file-url": "plugins/InfLink-1.0.5.plugin"
@@ -362,7 +362,7 @@
         "update_time": 1680277444,
         "publish_time": 1673713536,
         "repo": "BetterNCM/LibFrontendPlay",
-        "stars": 7,
+        "stars": 8,
         "file": "LibFrontendPlay-1.1.0.plugin",
         "file-url": "plugins/LibFrontendPlay-1.1.0.plugin"
     },
