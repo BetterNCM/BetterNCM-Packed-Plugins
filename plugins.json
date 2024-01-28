@@ -31,7 +31,7 @@
         "update_time": 1701960807,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 348,
+        "stars": 380,
         "file": "Apple-Musiclike-lyrics-3.0.3.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.0.3.plugin"
     },
@@ -133,17 +133,17 @@
     {
         "name": "CppLyrics ⚠ 开发中 ⚠",
         "author": "MicroBlock",
-        "version": "0.0.4",
+        "version": "0.0.5",
         "description": "⚠ 开发中 ⚠\n最快，最流畅的歌词插件",
         "betterncm_version": ">=1.0.0",
         "slug": "CppLyrics---",
-        "update_time": 1699269126,
+        "update_time": 1706433198,
         "publish_time": 1697360951,
         "repo": "BetterNCM/CppLyrics-Plugin",
         "stars": 5,
         "native": true,
-        "file": "CppLyrics----0.0.4.plugin",
-        "file-url": "plugins/CppLyrics----0.0.4.plugin"
+        "file": "CppLyrics----0.0.5.plugin",
+        "file-url": "plugins/CppLyrics----0.0.5.plugin"
     },
     {
         "name": "CrashFix",
@@ -222,7 +222,7 @@
         "update_time": 1702185167,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
-        "stars": 18,
+        "stars": 19,
         "file": "elaina-theme-1.0.6.plugin",
         "file-url": "plugins/elaina-theme-1.0.6.plugin"
     },
@@ -271,7 +271,7 @@
         "update_time": 1705489941,
         "publish_time": 1699078599,
         "repo": "MuttonString/Furigana",
-        "stars": 3,
+        "stars": 5,
         "file": "Furigana-0.3.0.plugin",
         "file-url": "plugins/Furigana-0.3.0.plugin"
     },
@@ -348,7 +348,7 @@
         "update_time": 1674485753,
         "publish_time": 1674485753,
         "repo": "BetterNCM/LibEAPIRequest",
-        "stars": 3,
+        "stars": 4,
         "file": "LibEAPIRequest-1.6.2.plugin",
         "file-url": "plugins/LibEAPIRequest-1.6.2.plugin"
     },
@@ -496,7 +496,7 @@
         "update_time": 1684719915,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 104,
+        "stars": 105,
         "file": "MaterialYouTheme-2.9.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.9.0.plugin"
     },
@@ -622,7 +622,7 @@
         "update_time": 1683442338,
         "publish_time": 1676203250,
         "repo": "FlysoftBeta/ReLive",
-        "stars": 9,
+        "stars": 10,
         "file": "relive-theme-0.6.0.plugin",
         "file-url": "plugins/relive-theme-0.6.0.plugin"
     },
@@ -645,7 +645,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 316,
+        "stars": 319,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -683,7 +683,7 @@
         "update_time": 1687526656,
         "publish_time": 1682782235,
         "repo": "ReviveUnblockNCMInstaller/RevivedSource",
-        "stars": 12,
+        "stars": 14,
         "file": "RevivedSource-0.1.1.plugin",
         "file-url": "plugins/RevivedSource-0.1.1.plugin"
     },
@@ -832,7 +832,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 86,
+        "stars": 87,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
