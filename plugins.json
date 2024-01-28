@@ -133,17 +133,17 @@
     {
         "name": "CppLyrics ⚠ 开发中 ⚠",
         "author": "MicroBlock",
-        "version": "0.0.6",
+        "version": "0.0.7",
         "description": "⚠ 开发中 ⚠\n最快，最流畅的歌词插件",
         "betterncm_version": ">=9.0.0",
         "slug": "cpplyrics",
-        "update_time": 1706450087,
+        "update_time": 1706450369,
         "publish_time": 1697360951,
         "repo": "BetterNCM/CppLyrics-Plugin",
         "stars": 5,
         "native": true,
-        "file": "cpplyrics-0.0.6.plugin",
-        "file-url": "plugins/cpplyrics-0.0.6.plugin"
+        "file": "cpplyrics-0.0.7.plugin",
+        "file-url": "plugins/cpplyrics-0.0.7.plugin"
     },
     {
         "name": "CrashFix",
