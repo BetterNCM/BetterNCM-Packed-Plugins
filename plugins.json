@@ -31,7 +31,7 @@
         "update_time": 1701960807,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 380,
+        "stars": 381,
         "file": "Apple-Musiclike-lyrics-3.0.3.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.0.3.plugin"
     },
@@ -133,17 +133,17 @@
     {
         "name": "CppLyrics ⚠ 开发中 ⚠",
         "author": "MicroBlock",
-        "version": "0.0.5",
+        "version": "0.0.6",
         "description": "⚠ 开发中 ⚠\n最快，最流畅的歌词插件",
-        "betterncm_version": ">=1.0.0",
-        "slug": "CppLyrics---",
-        "update_time": 1706433198,
+        "betterncm_version": ">=9.0.0",
+        "slug": "cpplyrics",
+        "update_time": 1706450087,
         "publish_time": 1697360951,
         "repo": "BetterNCM/CppLyrics-Plugin",
         "stars": 5,
         "native": true,
-        "file": "CppLyrics----0.0.5.plugin",
-        "file-url": "plugins/CppLyrics----0.0.5.plugin"
+        "file": "cpplyrics-0.0.6.plugin",
+        "file-url": "plugins/cpplyrics-0.0.6.plugin"
     },
     {
         "name": "CrashFix",
