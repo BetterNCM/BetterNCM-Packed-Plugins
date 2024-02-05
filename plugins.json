@@ -31,7 +31,7 @@
         "update_time": 1701960807,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 382,
+        "stars": 393,
         "file": "Apple-Musiclike-lyrics-3.0.3.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.0.3.plugin"
     },
@@ -80,18 +80,18 @@
     {
         "name": "BGEnhanced",
         "author": "MicroBlock",
-        "version": "0.3.6",
+        "version": "0.3.7",
         "description": "自定义网易云背景！（需安装任意主题）",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/BGEnhanced.png",
         "ncm3-compatible": true,
         "slug": "BGEnhanced",
-        "update_time": 1690460915,
+        "update_time": 1707124446,
         "publish_time": 1670425948,
         "repo": "BetterNCM/BGEnhanced",
         "stars": 20,
-        "file": "BGEnhanced-0.3.6.plugin",
-        "file-url": "plugins/BGEnhanced-0.3.6.plugin"
+        "file": "BGEnhanced-0.3.7.plugin",
+        "file-url": "plugins/BGEnhanced-0.3.7.plugin"
     },
     {
         "name": "BGEnhanced Extra",
@@ -140,7 +140,7 @@
         "update_time": 1706451060,
         "publish_time": 1697360951,
         "repo": "BetterNCM/CppLyrics-Plugin",
-        "stars": 5,
+        "stars": 6,
         "native": true,
         "file": "cpplyrics-0.0.8.plugin",
         "file-url": "plugins/cpplyrics-0.0.8.plugin"
@@ -206,7 +206,7 @@
         "update_time": 1703328478,
         "publish_time": 1703317509,
         "repo": "BetterNCM/DowngradeOK",
-        "stars": 1,
+        "stars": 2,
         "file": "DowngradeOK-0.0.3.plugin",
         "file-url": "plugins/DowngradeOK-0.0.3.plugin"
     },
@@ -496,7 +496,7 @@
         "update_time": 1684719915,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 105,
+        "stars": 106,
         "file": "MaterialYouTheme-2.9.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.9.0.plugin"
     },
@@ -645,7 +645,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 320,
+        "stars": 323,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -797,7 +797,7 @@
         "update_time": 1690268096,
         "publish_time": 1672601649,
         "repo": "BetterNCM/StyleSnippet",
-        "stars": 6,
+        "stars": 7,
         "file": "StyleSnippet-0.2.2.plugin",
         "file-url": "plugins/StyleSnippet-0.2.2.plugin"
     },
@@ -857,18 +857,18 @@
     {
         "name": "TinyNCM",
         "author": "MicroBlock",
-        "version": "1.0.2",
+        "version": "1.0.3",
         "description": "更改字体，更改颜色，删除无用组件",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/TinyNCM.png",
         "ncm3-compatible": true,
         "slug": "TinyNCM",
-        "update_time": 1687428291,
+        "update_time": 1707124451,
         "publish_time": 1670689230,
         "repo": "BetterNCM/TinyNCM",
         "stars": 7,
-        "file": "TinyNCM-1.0.2.plugin",
-        "file-url": "plugins/TinyNCM-1.0.2.plugin"
+        "file": "TinyNCM-1.0.3.plugin",
+        "file-url": "plugins/TinyNCM-1.0.3.plugin"
     },
     {
         "name": "Transmission",
