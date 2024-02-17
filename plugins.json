@@ -262,18 +262,18 @@
     {
         "name": "Furigana",
         "author": "Mutton_String",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "description": "给日文歌词的汉字标注假名",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/Furigana.png",
         "ncm3-compatible": true,
         "slug": "Furigana",
-        "update_time": 1708164803,
+        "update_time": 1708200784,
         "publish_time": 1699078599,
         "repo": "MuttonString/Furigana",
         "stars": 6,
-        "file": "Furigana-1.0.0.plugin",
-        "file-url": "plugins/Furigana-1.0.0.plugin"
+        "file": "Furigana-1.0.1.plugin",
+        "file-url": "plugins/Furigana-1.0.1.plugin"
     },
     {
         "name": "GPT Trans",
