@@ -31,7 +31,7 @@
         "update_time": 1701960807,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 393,
+        "stars": 416,
         "file": "Apple-Musiclike-lyrics-3.0.3.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.0.3.plugin"
     },
@@ -140,7 +140,7 @@
         "update_time": 1706451060,
         "publish_time": 1697360951,
         "repo": "BetterNCM/CppLyrics-Plugin",
-        "stars": 6,
+        "stars": 8,
         "native": true,
         "file": "cpplyrics-0.0.8.plugin",
         "file-url": "plugins/cpplyrics-0.0.8.plugin"
@@ -206,7 +206,7 @@
         "update_time": 1703328478,
         "publish_time": 1703317509,
         "repo": "BetterNCM/DowngradeOK",
-        "stars": 2,
+        "stars": 5,
         "file": "DowngradeOK-0.0.3.plugin",
         "file-url": "plugins/DowngradeOK-0.0.3.plugin"
     },
@@ -262,18 +262,18 @@
     {
         "name": "Furigana",
         "author": "Mutton_String",
-        "version": "0.3.0",
+        "version": "1.0.0",
         "description": "给日文歌词的汉字标注假名",
         "betterncm_version": ">=1.0.0",
-        "preview": "previews/Furigana.jpg",
+        "preview": "previews/Furigana.png",
         "ncm3-compatible": true,
         "slug": "Furigana",
-        "update_time": 1705489941,
+        "update_time": 1708164803,
         "publish_time": 1699078599,
         "repo": "MuttonString/Furigana",
-        "stars": 5,
-        "file": "Furigana-0.3.0.plugin",
-        "file-url": "plugins/Furigana-0.3.0.plugin"
+        "stars": 6,
+        "file": "Furigana-1.0.0.plugin",
+        "file-url": "plugins/Furigana-1.0.0.plugin"
     },
     {
         "name": "GPT Trans",
@@ -385,7 +385,7 @@
         "update_time": 1674374363,
         "publish_time": 1674374363,
         "repo": "Steve-xmh/LibLyric",
-        "stars": 9,
+        "stars": 10,
         "file": "liblyric-1.0.0.plugin",
         "file-url": "plugins/liblyric-1.0.0.plugin"
     },
@@ -516,7 +516,7 @@
         "update_time": 1675509124,
         "publish_time": 1670425948,
         "repo": "miku3333/miku-plugin",
-        "stars": 12,
+        "stars": 11,
         "file": "MikuPlugin-0.1.2.plugin",
         "file-url": "plugins/MikuPlugin-0.1.2.plugin"
     },
@@ -539,7 +539,7 @@
         "update_time": 1679160831,
         "publish_time": 1670425948,
         "repo": "mo-jinran/MoTheme",
-        "stars": 21,
+        "stars": 20,
         "file": "MoTheme-1.2.3.plugin",
         "file-url": "plugins/MoTheme-1.2.3.plugin"
     },
@@ -645,7 +645,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 323,
+        "stars": 328,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
