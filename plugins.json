@@ -31,7 +31,7 @@
         "update_time": 1701960807,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 416,
+        "stars": 423,
         "file": "Apple-Musiclike-lyrics-3.0.3.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.0.3.plugin"
     },
@@ -197,18 +197,18 @@
     {
         "name": "DowngradeOK",
         "author": "MicroBlock",
-        "version": "0.0.3",
+        "version": "0.0.4",
         "description": "降级网易云至 2.10.12，并干掉自动更新",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/DowngradeOK.png",
         "ncm3-compatible": true,
         "slug": "DowngradeOK",
-        "update_time": 1703328478,
+        "update_time": 1708418480,
         "publish_time": 1703317509,
         "repo": "BetterNCM/DowngradeOK",
         "stars": 5,
-        "file": "DowngradeOK-0.0.3.plugin",
-        "file-url": "plugins/DowngradeOK-0.0.3.plugin"
+        "file": "DowngradeOK-0.0.4.plugin",
+        "file-url": "plugins/DowngradeOK-0.0.4.plugin"
     },
     {
         "name": "ElainaTheme",
@@ -271,7 +271,7 @@
         "update_time": 1708200784,
         "publish_time": 1699078599,
         "repo": "MuttonString/Furigana",
-        "stars": 6,
+        "stars": 8,
         "file": "Furigana-1.0.1.plugin",
         "file-url": "plugins/Furigana-1.0.1.plugin"
     },
@@ -645,7 +645,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 328,
+        "stars": 330,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -832,7 +832,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 87,
+        "stars": 86,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
