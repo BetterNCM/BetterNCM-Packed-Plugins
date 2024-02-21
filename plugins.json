@@ -17,7 +17,7 @@
     {
         "name": "类苹果歌词",
         "author": "SteveXMH",
-        "version": "3.0.3",
+        "version": "3.1.0",
         "description": "类 Apple Music 歌词页面插件|近乎完美的 Apple Music 歌词体验",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/Apple-Musiclike-lyrics.svg",
@@ -28,12 +28,12 @@
         "type": "extension",
         "ncm3-compatible": true,
         "slug": "Apple-Musiclike-lyrics",
-        "update_time": 1701960807,
+        "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 423,
-        "file": "Apple-Musiclike-lyrics-3.0.3.plugin",
-        "file-url": "plugins/Apple-Musiclike-lyrics-3.0.3.plugin"
+        "stars": 429,
+        "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
+        "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
     {
         "name": "Apple Music-like lyrics 2.0 Beta",
@@ -683,7 +683,7 @@
         "update_time": 1687526656,
         "publish_time": 1682782235,
         "repo": "ReviveUnblockNCMInstaller/RevivedSource",
-        "stars": 14,
+        "stars": 16,
         "file": "RevivedSource-0.1.1.plugin",
         "file-url": "plugins/RevivedSource-0.1.1.plugin"
     },
