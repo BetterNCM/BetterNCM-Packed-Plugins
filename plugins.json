@@ -31,7 +31,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 437,
+        "stars": 440,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -59,7 +59,7 @@
     {
         "name": "Ark Theme",
         "author": "MicroBlock",
-        "version": "0.2.10",
+        "version": "0.2.11",
         "description": "类 Ark 主题 | 支持亮/暗色主题 | 完美支持 BGEnhanced | 在 StyleSnippet 内修改多项设置",
         "requirements": [
             "RefinedNowPlaying",
@@ -70,12 +70,12 @@
         "preview": "previews/ark-theme.webp",
         "type": "theme",
         "slug": "ark-theme",
-        "update_time": 1678537236,
+        "update_time": 1708683326,
         "publish_time": 1676039117,
         "repo": "BetterNCM/ArkTheme",
         "stars": 7,
-        "file": "ark-theme-0.2.10.plugin",
-        "file-url": "plugins/ark-theme-0.2.10.plugin"
+        "file": "ark-theme-0.2.11.plugin",
+        "file-url": "plugins/ark-theme-0.2.11.plugin"
     },
     {
         "name": "BGEnhanced",
