@@ -31,7 +31,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 440,
+        "stars": 445,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -652,7 +652,7 @@
     {
         "name": "纯净分享链接",
         "author": "solstice23",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "description": "移除分享链接中的追踪参数",
         "requirements": [],
         "betterncm_version": ">=1.0.0",
@@ -662,12 +662,12 @@
         ],
         "ncm3-compatible": true,
         "slug": "remove-tracking-attribute",
-        "update_time": 1687526651,
+        "update_time": 1708823072,
         "publish_time": 1676985392,
         "repo": "BetterNCM/RemoveTrackingAttribute",
         "stars": 3,
-        "file": "remove-tracking-attribute-1.0.1.plugin",
-        "file-url": "plugins/remove-tracking-attribute-1.0.1.plugin"
+        "file": "remove-tracking-attribute-1.0.2.plugin",
+        "file-url": "plugins/remove-tracking-attribute-1.0.2.plugin"
     },
     {
         "name": "RevivedSource",
