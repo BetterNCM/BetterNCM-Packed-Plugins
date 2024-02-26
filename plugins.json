@@ -31,7 +31,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 445,
+        "stars": 447,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -260,20 +260,19 @@
         "file-url": "plugins/FluentProgressBar-1.0.3.plugin"
     },
     {
-        "name": "Furigana",
+        "name": "JapaneseFonts",
         "author": "Mutton_String",
-        "version": "1.0.2",
-        "description": "给日文歌词的汉字标注假名",
+        "version": "1.0.3",
+        "description": "替换日文歌字体为日文字体",
         "betterncm_version": ">=1.0.0",
-        "preview": "previews/Furigana.png",
         "ncm3-compatible": true,
-        "slug": "Furigana",
-        "update_time": 1708629051,
+        "slug": "JapaneseFonts",
+        "update_time": 1708920987,
         "publish_time": 1699078599,
         "repo": "MuttonString/Furigana",
-        "stars": 8,
-        "file": "Furigana-1.0.2.plugin",
-        "file-url": "plugins/Furigana-1.0.2.plugin"
+        "stars": 9,
+        "file": "JapaneseFonts-1.0.3.plugin",
+        "file-url": "plugins/JapaneseFonts-1.0.3.plugin"
     },
     {
         "name": "GPT Trans",
