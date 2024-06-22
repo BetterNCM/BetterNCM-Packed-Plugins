@@ -31,7 +31,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 447,
+        "stars": 576,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -140,7 +140,7 @@
         "update_time": 1706451060,
         "publish_time": 1697360951,
         "repo": "BetterNCM/CppLyrics-Plugin",
-        "stars": 8,
+        "stars": 11,
         "native": true,
         "file": "cpplyrics-0.0.8.plugin",
         "file-url": "plugins/cpplyrics-0.0.8.plugin"
@@ -174,7 +174,7 @@
         "update_time": 1679127491,
         "publish_time": 1678537241,
         "repo": "BetterNCM/CrossfadeLFP",
-        "stars": 5,
+        "stars": 7,
         "file": "crossfade-lfp-0.1.5.plugin",
         "file-url": "plugins/crossfade-lfp-0.1.5.plugin"
     },
@@ -206,7 +206,7 @@
         "update_time": 1708418480,
         "publish_time": 1703317509,
         "repo": "BetterNCM/DowngradeOK",
-        "stars": 5,
+        "stars": 8,
         "file": "DowngradeOK-0.0.4.plugin",
         "file-url": "plugins/DowngradeOK-0.0.4.plugin"
     },
@@ -222,7 +222,7 @@
         "update_time": 1702185167,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
-        "stars": 19,
+        "stars": 23,
         "file": "elaina-theme-1.0.6.plugin",
         "file-url": "plugins/elaina-theme-1.0.6.plugin"
     },
@@ -270,7 +270,7 @@
         "update_time": 1708920987,
         "publish_time": 1699078599,
         "repo": "MuttonString/Furigana",
-        "stars": 9,
+        "stars": 12,
         "file": "JapaneseFonts-1.0.3.plugin",
         "file-url": "plugins/JapaneseFonts-1.0.3.plugin"
     },
@@ -325,7 +325,7 @@
         "update_time": 1690385511,
         "publish_time": 1673372080,
         "repo": "BetterNCM/InfinityLink",
-        "stars": 20,
+        "stars": 29,
         "native": true,
         "file": "InfLink-1.0.5.plugin",
         "file-url": "plugins/InfLink-1.0.5.plugin"
@@ -361,7 +361,7 @@
         "update_time": 1680277444,
         "publish_time": 1673713536,
         "repo": "BetterNCM/LibFrontendPlay",
-        "stars": 8,
+        "stars": 7,
         "file": "LibFrontendPlay-1.1.0.plugin",
         "file-url": "plugins/LibFrontendPlay-1.1.0.plugin"
     },
@@ -473,9 +473,27 @@
         "update_time": 1682745175,
         "publish_time": 1677935011,
         "repo": "solstice23/lyric-bar-netease",
-        "stars": 13,
+        "stars": 14,
         "file": "LyricBar-0.3.6.plugin",
         "file-url": "plugins/LyricBar-0.3.6.plugin"
+    },
+    {
+        "name": "LyricBarBlur",
+        "author": "Lukoning",
+        "version": "0.1.3.1",
+        "description": "为LyricBar添加背景模糊",
+        "requirements": [
+            "LyricBar"
+        ],
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/LyricBarBlur.png",
+        "type": "extension",
+        "slug": "LyricBarBlur",
+        "update_time": 1719033332,
+        "publish_time": 1719033332,
+        "repo": "Lukoning/LyricBarBlur",
+        "file": "LyricBarBlur-0.1.3.1.plugin",
+        "file-url": "plugins/LyricBarBlur-0.1.3.1.plugin"
     },
     {
         "name": "Material You",
@@ -495,7 +513,7 @@
         "update_time": 1684719915,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 106,
+        "stars": 113,
         "file": "MaterialYouTheme-2.9.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.9.0.plugin"
     },
@@ -515,7 +533,7 @@
         "update_time": 1675509124,
         "publish_time": 1670425948,
         "repo": "miku3333/miku-plugin",
-        "stars": 11,
+        "stars": 10,
         "file": "MikuPlugin-0.1.2.plugin",
         "file-url": "plugins/MikuPlugin-0.1.2.plugin"
     },
@@ -538,7 +556,7 @@
         "update_time": 1679160831,
         "publish_time": 1670425948,
         "repo": "mo-jinran/MoTheme",
-        "stars": 20,
+        "stars": 23,
         "file": "MoTheme-1.2.3.plugin",
         "file-url": "plugins/MoTheme-1.2.3.plugin"
     },
@@ -566,7 +584,7 @@
         "update_time": 1681582583,
         "publish_time": 1678598537,
         "repo": "BetterNCM/PlayWithBilibili",
-        "stars": 7,
+        "stars": 8,
         "file": "play-with-bilibili-1.1.0.plugin",
         "file-url": "plugins/play-with-bilibili-1.1.0.plugin"
     },
@@ -644,7 +662,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 330,
+        "stars": 340,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -682,7 +700,7 @@
         "update_time": 1687526656,
         "publish_time": 1682782235,
         "repo": "ReviveUnblockNCMInstaller/RevivedSource",
-        "stars": 16,
+        "stars": 17,
         "file": "RevivedSource-0.1.1.plugin",
         "file-url": "plugins/RevivedSource-0.1.1.plugin"
     },
@@ -739,7 +757,7 @@
         "update_time": 1675852486,
         "publish_time": 1675852486,
         "repo": "solstice23/search-on-osu",
-        "stars": 10,
+        "stars": 11,
         "file": "search-on-osu-0.7.2.7.plugin",
         "file-url": "plugins/search-on-osu-0.7.2.7.plugin"
     },
@@ -780,7 +798,7 @@
         "update_time": 1680277456,
         "publish_time": 1673713908,
         "repo": "BetterNCM/SimpleAudioVisualizer",
-        "stars": 10,
+        "stars": 11,
         "file": "SimpleAudioVisualizer-0.1.3.plugin",
         "file-url": "plugins/SimpleAudioVisualizer-0.1.3.plugin"
     },
@@ -831,7 +849,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 85,
+        "stars": 95,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
@@ -865,7 +883,7 @@
         "update_time": 1707124451,
         "publish_time": 1670689230,
         "repo": "BetterNCM/TinyNCM",
-        "stars": 7,
+        "stars": 8,
         "file": "TinyNCM-1.0.3.plugin",
         "file-url": "plugins/TinyNCM-1.0.3.plugin"
     },
@@ -951,7 +969,7 @@
         "update_time": 1679753235,
         "publish_time": 1672504198,
         "repo": "mo-jinran/What-is-the-cover-of-this-music",
-        "stars": 9,
+        "stars": 10,
         "file": "What-is-the-cover-of-this-music-2.0.8.plugin",
         "file-url": "plugins/What-is-the-cover-of-this-music-2.0.8.plugin"
     },
