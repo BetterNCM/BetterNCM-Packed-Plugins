@@ -31,7 +31,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 576,
+        "stars": 597,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -222,7 +222,7 @@
         "update_time": 1702185167,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
-        "stars": 23,
+        "stars": 25,
         "file": "elaina-theme-1.0.6.plugin",
         "file-url": "plugins/elaina-theme-1.0.6.plugin"
     },
@@ -270,7 +270,7 @@
         "update_time": 1708920987,
         "publish_time": 1699078599,
         "repo": "MuttonString/Furigana",
-        "stars": 12,
+        "stars": 13,
         "file": "JapaneseFonts-1.0.3.plugin",
         "file-url": "plugins/JapaneseFonts-1.0.3.plugin"
     },
@@ -480,20 +480,24 @@
     {
         "name": "LyricBarBlur",
         "author": "Lukoning",
-        "version": "0.1.3.1",
+        "version": "0.1.5",
         "description": "为LyricBar添加背景模糊",
         "requirements": [
             "LyricBar"
         ],
         "betterncm_version": ">=1.0.0",
         "preview": "previews/LyricBarBlur.png",
+        "author_links": [
+            "https://github.com/Lukoning"
+        ],
         "type": "extension",
         "slug": "LyricBarBlur",
-        "update_time": 1719033332,
+        "update_time": 1719940455,
         "publish_time": 1719033332,
         "repo": "Lukoning/LyricBarBlur",
-        "file": "LyricBarBlur-0.1.3.1.plugin",
-        "file-url": "plugins/LyricBarBlur-0.1.3.1.plugin"
+        "stars": 1,
+        "file": "LyricBarBlur-0.1.5.plugin",
+        "file-url": "plugins/LyricBarBlur-0.1.5.plugin"
     },
     {
         "name": "Material You",
