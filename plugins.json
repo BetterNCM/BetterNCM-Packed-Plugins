@@ -31,7 +31,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 609,
+        "stars": 612,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -473,14 +473,14 @@
         "update_time": 1682745175,
         "publish_time": 1677935011,
         "repo": "solstice23/lyric-bar-netease",
-        "stars": 14,
+        "stars": 15,
         "file": "LyricBar-0.3.6.plugin",
         "file-url": "plugins/LyricBar-0.3.6.plugin"
     },
     {
         "name": "LyricBarBlur",
         "author": "Lukoning",
-        "version": "0.2.3",
+        "version": "0.2.5",
         "description": "修改LyricBar外观，比如添加背景模糊",
         "requirements": [
             "LyricBar"
@@ -492,12 +492,12 @@
         ],
         "type": "extension",
         "slug": "LyricBarBlur",
-        "update_time": 1720462850,
+        "update_time": 1720714751,
         "publish_time": 1719033332,
         "repo": "Lukoning/LyricBarBlur",
         "stars": 1,
-        "file": "LyricBarBlur-0.2.3.plugin",
-        "file-url": "plugins/LyricBarBlur-0.2.3.plugin"
+        "file": "LyricBarBlur-0.2.5.plugin",
+        "file-url": "plugins/LyricBarBlur-0.2.5.plugin"
     },
     {
         "name": "Material You",
