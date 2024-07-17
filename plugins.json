@@ -197,18 +197,18 @@
     {
         "name": "DowngradeOK",
         "author": "MicroBlock",
-        "version": "0.0.4",
-        "description": "降级网易云至 2.10.12，并干掉自动更新",
+        "version": "0.0.5",
+        "description": "降级网易云至 2.10.13，并干掉自动更新",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/DowngradeOK.png",
         "ncm3-compatible": true,
         "slug": "DowngradeOK",
-        "update_time": 1708418480,
+        "update_time": 1720722045,
         "publish_time": 1703317509,
         "repo": "BetterNCM/DowngradeOK",
         "stars": 8,
-        "file": "DowngradeOK-0.0.4.plugin",
-        "file-url": "plugins/DowngradeOK-0.0.4.plugin"
+        "file": "DowngradeOK-0.0.5.plugin",
+        "file-url": "plugins/DowngradeOK-0.0.5.plugin"
     },
     {
         "name": "ElainaTheme",
@@ -325,7 +325,7 @@
         "update_time": 1690385511,
         "publish_time": 1673372080,
         "repo": "BetterNCM/InfinityLink",
-        "stars": 29,
+        "stars": 30,
         "native": true,
         "file": "InfLink-1.0.5.plugin",
         "file-url": "plugins/InfLink-1.0.5.plugin"
