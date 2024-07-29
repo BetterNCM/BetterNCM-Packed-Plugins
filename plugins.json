@@ -495,7 +495,7 @@
     {
         "name": "LyricBarBlur",
         "author": "Lukoning",
-        "version": "0.3.1",
+        "version": "0.3.2",
         "description": "修改LyricBar外观，比如添加背景模糊",
         "requirements": [
             "LyricBar"
@@ -507,12 +507,12 @@
         ],
         "type": "extension",
         "slug": "LyricBarBlur",
-        "update_time": 1721744088,
+        "update_time": 1722277274,
         "publish_time": 1719033332,
         "repo": "Lukoning/LyricBarBlur",
         "stars": 1,
-        "file": "LyricBarBlur-0.3.1.plugin",
-        "file-url": "plugins/LyricBarBlur-0.3.1.plugin"
+        "file": "LyricBarBlur-0.3.2.plugin",
+        "file-url": "plugins/LyricBarBlur-0.3.2.plugin"
     },
     {
         "name": "Material You",
