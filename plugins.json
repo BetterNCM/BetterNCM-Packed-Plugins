@@ -80,17 +80,18 @@
     {
         "name": "ArtistAllSongs",
         "author": "thy646742",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "description": "Adds all songs tab on artist page",
         "betterncm_version": ">=1.3.3",
+        "preview": "previews/artist-all-songs.jpg",
         "type": "extension",
         "slug": "artist-all-songs",
-        "update_time": 1722263781,
+        "update_time": 1722277264,
         "publish_time": 1722263781,
         "repo": "thy646742/ArtistAllSongs",
         "stars": 1,
-        "file": "artist-all-songs-0.1.0.plugin",
-        "file-url": "plugins/artist-all-songs-0.1.0.plugin"
+        "file": "artist-all-songs-0.1.1.plugin",
+        "file-url": "plugins/artist-all-songs-0.1.1.plugin"
     },
     {
         "name": "BGEnhanced",
