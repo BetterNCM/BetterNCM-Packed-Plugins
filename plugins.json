@@ -238,7 +238,7 @@
         "update_time": 1702185167,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
-        "stars": 25,
+        "stars": 26,
         "file": "elaina-theme-1.0.6.plugin",
         "file-url": "plugins/elaina-theme-1.0.6.plugin"
     },
@@ -496,7 +496,7 @@
     {
         "name": "LyricBarBlur",
         "author": "Lukoning",
-        "version": "0.3.2",
+        "version": "1.0.0",
         "description": "修改LyricBar外观，比如添加背景模糊",
         "requirements": [
             "LyricBar"
@@ -508,12 +508,12 @@
         ],
         "type": "extension",
         "slug": "LyricBarBlur",
-        "update_time": 1722277274,
+        "update_time": 1722381223,
         "publish_time": 1719033332,
         "repo": "Lukoning/LyricBarBlur",
-        "stars": 1,
-        "file": "LyricBarBlur-0.3.2.plugin",
-        "file-url": "plugins/LyricBarBlur-0.3.2.plugin"
+        "stars": 2,
+        "file": "LyricBarBlur-1.0.0.plugin",
+        "file-url": "plugins/LyricBarBlur-1.0.0.plugin"
     },
     {
         "name": "Material You",
