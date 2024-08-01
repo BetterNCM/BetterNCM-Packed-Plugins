@@ -682,7 +682,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 341,
+        "stars": 342,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -705,6 +705,24 @@
         "stars": 3,
         "file": "remove-tracking-attribute-1.0.2.plugin",
         "file-url": "plugins/remove-tracking-attribute-1.0.2.plugin"
+    },
+    {
+        "name": "RevisedSecondaryWindows",
+        "author": "Lukoning",
+        "version": "0.1.0",
+        "description": "美化弹出式二级窗口和对话框(可搭配任意主题)",
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/RevisedSecondaryWindows.png",
+        "author_links": [
+            "https://github.com/Lukoning"
+        ],
+        "type": "extension",
+        "slug": "RevisedSecondaryWindows",
+        "update_time": 1722514338,
+        "publish_time": 1722514338,
+        "repo": "Lukoning/RevisedSecondaryWindows",
+        "file": "RevisedSecondaryWindows-0.1.0.plugin",
+        "file-url": "plugins/RevisedSecondaryWindows-0.1.0.plugin"
     },
     {
         "name": "RevivedSource",
