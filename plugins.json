@@ -190,7 +190,7 @@
         "update_time": 1679127491,
         "publish_time": 1678537241,
         "repo": "BetterNCM/CrossfadeLFP",
-        "stars": 7,
+        "stars": 8,
         "file": "crossfade-lfp-0.1.5.plugin",
         "file-url": "plugins/crossfade-lfp-0.1.5.plugin"
     },
@@ -709,7 +709,7 @@
     {
         "name": "RevisedSecondaryWindows",
         "author": "Lukoning",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "description": "美化弹出式二级窗口和对话框(可搭配任意主题)",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/RevisedSecondaryWindows.png",
@@ -718,11 +718,11 @@
         ],
         "type": "extension",
         "slug": "RevisedSecondaryWindows",
-        "update_time": 1722514338,
+        "update_time": 1722543455,
         "publish_time": 1722514338,
         "repo": "Lukoning/RevisedSecondaryWindows",
-        "file": "RevisedSecondaryWindows-0.1.0.plugin",
-        "file-url": "plugins/RevisedSecondaryWindows-0.1.0.plugin"
+        "file": "RevisedSecondaryWindows-0.1.1.plugin",
+        "file-url": "plugins/RevisedSecondaryWindows-0.1.1.plugin"
     },
     {
         "name": "RevivedSource",
