@@ -31,7 +31,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 623,
+        "stars": 622,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -1010,6 +1010,25 @@
         "stars": 10,
         "file": "What-is-the-cover-of-this-music-2.0.8.plugin",
         "file-url": "plugins/What-is-the-cover-of-this-music-2.0.8.plugin"
+    },
+    {
+        "name": "ZoomNCM",
+        "author": "Lukoning",
+        "version": "0.1.0",
+        "description": "随意调整网易云的整体大小",
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/ZoomNCM.png",
+        "author_links": [
+            "https://github.com/Lukoning"
+        ],
+        "type": "extension",
+        "ncm3-compatible": true,
+        "slug": "ZoomNCM",
+        "update_time": 1722663790,
+        "publish_time": 1722663790,
+        "repo": "Lukoning/ZoomNCM",
+        "file": "ZoomNCM-0.1.0.plugin",
+        "file-url": "plugins/ZoomNCM-0.1.0.plugin"
     },
     {
         "name": "←→0123456789JL+-,.↑↓FO",
