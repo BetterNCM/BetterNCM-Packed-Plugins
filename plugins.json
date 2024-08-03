@@ -721,6 +721,7 @@
         "update_time": 1722611800,
         "publish_time": 1722514338,
         "repo": "Lukoning/RevisedSecondaryWindows",
+        "stars": 1,
         "file": "RevisedSecondaryWindows-0.1.2.plugin",
         "file-url": "plugins/RevisedSecondaryWindows-0.1.2.plugin"
     },
@@ -1014,7 +1015,7 @@
     {
         "name": "ZoomNCM",
         "author": "Lukoning",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "description": "随意调整网易云的整体大小",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/ZoomNCM.png",
@@ -1024,11 +1025,11 @@
         "type": "extension",
         "ncm3-compatible": true,
         "slug": "ZoomNCM",
-        "update_time": 1722663790,
+        "update_time": 1722688095,
         "publish_time": 1722663790,
         "repo": "Lukoning/ZoomNCM",
-        "file": "ZoomNCM-0.1.0.plugin",
-        "file-url": "plugins/ZoomNCM-0.1.0.plugin"
+        "file": "ZoomNCM-0.1.1.plugin",
+        "file-url": "plugins/ZoomNCM-0.1.1.plugin"
     },
     {
         "name": "←→0123456789JL+-,.↑↓FO",
