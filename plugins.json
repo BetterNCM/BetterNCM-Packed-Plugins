@@ -31,7 +31,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 622,
+        "stars": 623,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -709,7 +709,7 @@
     {
         "name": "RevisedSecondaryWindows",
         "author": "Lukoning",
-        "version": "0.1.2",
+        "version": "0.1.3",
         "description": "美化弹出式二级窗口和对话框(可搭配任意主题)",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/RevisedSecondaryWindows.png",
@@ -718,12 +718,12 @@
         ],
         "type": "extension",
         "slug": "RevisedSecondaryWindows",
-        "update_time": 1722611800,
+        "update_time": 1722716121,
         "publish_time": 1722514338,
         "repo": "Lukoning/RevisedSecondaryWindows",
         "stars": 1,
-        "file": "RevisedSecondaryWindows-0.1.2.plugin",
-        "file-url": "plugins/RevisedSecondaryWindows-0.1.2.plugin"
+        "file": "RevisedSecondaryWindows-0.1.3.plugin",
+        "file-url": "plugins/RevisedSecondaryWindows-0.1.3.plugin"
     },
     {
         "name": "RevivedSource",
@@ -739,7 +739,7 @@
         "update_time": 1687526656,
         "publish_time": 1682782235,
         "repo": "ReviveUnblockNCMInstaller/RevivedSource",
-        "stars": 17,
+        "stars": 16,
         "file": "RevivedSource-0.1.1.plugin",
         "file-url": "plugins/RevivedSource-0.1.1.plugin"
     },
