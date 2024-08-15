@@ -31,7 +31,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 634,
+        "stars": 635,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -80,18 +80,18 @@
     {
         "name": "ArtistAllSongs",
         "author": "thy646742",
-        "version": "0.1.2",
+        "version": "0.2.0",
         "description": "Adds all songs tab on artist page",
         "betterncm_version": ">=1.3.3",
         "preview": "previews/artist-all-songs.jpg",
         "type": "extension",
         "slug": "artist-all-songs",
-        "update_time": 1722420778,
+        "update_time": 1723713399,
         "publish_time": 1722263781,
         "repo": "thy646742/ArtistAllSongs",
         "stars": 3,
-        "file": "artist-all-songs-0.1.2.plugin",
-        "file-url": "plugins/artist-all-songs-0.1.2.plugin"
+        "file": "artist-all-songs-0.2.0.plugin",
+        "file-url": "plugins/artist-all-songs-0.2.0.plugin"
     },
     {
         "name": "BGEnhanced",
@@ -286,7 +286,7 @@
         "update_time": 1708920987,
         "publish_time": 1699078599,
         "repo": "MuttonString/Furigana",
-        "stars": 13,
+        "stars": 14,
         "file": "JapaneseFonts-1.0.3.plugin",
         "file-url": "plugins/JapaneseFonts-1.0.3.plugin"
     },
