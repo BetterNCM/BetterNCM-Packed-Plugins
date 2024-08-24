@@ -709,7 +709,7 @@
     {
         "name": "RevisedSecondaryWindows",
         "author": "Lukoning",
-        "version": "0.4.0",
+        "version": "0.4.1",
         "description": "美化各种弹窗并添加动画(可搭配任意主题)",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/RevisedSecondaryWindows.png",
@@ -718,12 +718,12 @@
         ],
         "type": "extension",
         "slug": "RevisedSecondaryWindows",
-        "update_time": 1724473115,
+        "update_time": 1724516294,
         "publish_time": 1722514338,
         "repo": "Lukoning/RevisedSecondaryWindows",
         "stars": 4,
-        "file": "RevisedSecondaryWindows-0.4.0.plugin",
-        "file-url": "plugins/RevisedSecondaryWindows-0.4.0.plugin"
+        "file": "RevisedSecondaryWindows-0.4.1.plugin",
+        "file-url": "plugins/RevisedSecondaryWindows-0.4.1.plugin"
     },
     {
         "name": "RevivedSource",
