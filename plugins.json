@@ -31,7 +31,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 650,
+        "stars": 651,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -440,7 +440,7 @@
         "update_time": 1679128697,
         "publish_time": 1679128697,
         "repo": "BetterNCM/list-scroll-fix",
-        "stars": 5,
+        "stars": 6,
         "file": "list-scroll-fix-0.1.0.plugin",
         "file-url": "plugins/list-scroll-fix-0.1.0.plugin"
     },
@@ -594,6 +594,24 @@
         "file-url": "plugins/MoreHooks-0.1.0.plugin"
     },
     {
+        "name": "PiPWindow",
+        "author": "Lukoning",
+        "version": "0.0.3",
+        "description": "一个纯JavaScript实现的歌曲信息小窗",
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/PiPWindow.png",
+        "author_links": [
+            "https://github.com/Lukoning"
+        ],
+        "type": "extension",
+        "slug": "PiPWindow",
+        "update_time": 1724948445,
+        "publish_time": 1724948445,
+        "repo": "Lukoning/PiPWindow",
+        "file": "PiPWindow-0.0.3.plugin",
+        "file-url": "plugins/PiPWindow-0.0.3.plugin"
+    },
+    {
         "name": "Play with Bilibili MV",
         "author": "MicroBlock",
         "version": "1.1.0",
@@ -721,7 +739,7 @@
         "update_time": 1724656543,
         "publish_time": 1722514338,
         "repo": "Lukoning/RevisedSecondaryWindows",
-        "stars": 5,
+        "stars": 6,
         "file": "RevisedSecondaryWindows-0.4.2.plugin",
         "file-url": "plugins/RevisedSecondaryWindows-0.4.2.plugin"
     },
@@ -776,7 +794,7 @@
         "update_time": 1681021577,
         "publish_time": 1674390502,
         "repo": "BetterNCM/RuLyric",
-        "stars": 14,
+        "stars": 13,
         "native": true,
         "file": "RuLyrics-0.3.5.plugin",
         "file-url": "plugins/RuLyrics-0.3.5.plugin"
@@ -888,7 +906,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 97,
+        "stars": 98,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
