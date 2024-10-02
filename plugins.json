@@ -31,7 +31,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 651,
+        "stars": 841,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -238,7 +238,7 @@
         "update_time": 1702185167,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
-        "stars": 29,
+        "stars": 30,
         "file": "elaina-theme-1.0.6.plugin",
         "file-url": "plugins/elaina-theme-1.0.6.plugin"
     },
@@ -489,7 +489,7 @@
         "update_time": 1682745175,
         "publish_time": 1677935011,
         "repo": "solstice23/lyric-bar-netease",
-        "stars": 16,
+        "stars": 17,
         "file": "LyricBar-0.3.6.plugin",
         "file-url": "plugins/LyricBar-0.3.6.plugin"
     },
@@ -533,7 +533,7 @@
         "update_time": 1684719915,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 114,
+        "stars": 115,
         "file": "MaterialYouTheme-2.9.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.9.0.plugin"
     },
@@ -576,7 +576,7 @@
         "update_time": 1679160831,
         "publish_time": 1670425948,
         "repo": "mo-jinran/MoTheme",
-        "stars": 23,
+        "stars": 22,
         "file": "MoTheme-1.2.3.plugin",
         "file-url": "plugins/MoTheme-1.2.3.plugin"
     },
@@ -596,7 +596,7 @@
     {
         "name": "PiPWindow",
         "author": "Lukoning",
-        "version": "0.0.3",
+        "version": "0.1.0",
         "description": "一个纯JavaScript实现的歌曲信息小窗",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/PiPWindow.png",
@@ -605,11 +605,12 @@
         ],
         "type": "extension",
         "slug": "PiPWindow",
-        "update_time": 1724948445,
+        "update_time": 1727846219,
         "publish_time": 1724948445,
         "repo": "Lukoning/PiPWindow",
-        "file": "PiPWindow-0.0.3.plugin",
-        "file-url": "plugins/PiPWindow-0.0.3.plugin"
+        "stars": 4,
+        "file": "PiPWindow-0.1.0.plugin",
+        "file-url": "plugins/PiPWindow-0.1.0.plugin"
     },
     {
         "name": "Play with Bilibili MV",
@@ -700,7 +701,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 347,
+        "stars": 352,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -739,7 +740,7 @@
         "update_time": 1724656543,
         "publish_time": 1722514338,
         "repo": "Lukoning/RevisedSecondaryWindows",
-        "stars": 6,
+        "stars": 8,
         "file": "RevisedSecondaryWindows-0.4.2.plugin",
         "file-url": "plugins/RevisedSecondaryWindows-0.4.2.plugin"
     },
@@ -814,7 +815,7 @@
         "update_time": 1675852486,
         "publish_time": 1675852486,
         "repo": "solstice23/search-on-osu",
-        "stars": 11,
+        "stars": 12,
         "file": "search-on-osu-0.7.2.7.plugin",
         "file-url": "plugins/search-on-osu-0.7.2.7.plugin"
     },
@@ -906,7 +907,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 98,
+        "stars": 101,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
