@@ -31,7 +31,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 841,
+        "stars": 852,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -596,7 +596,7 @@
     {
         "name": "PiPWindow",
         "author": "Lukoning",
-        "version": "0.1.0",
+        "version": "0.2.0",
         "description": "一个纯JavaScript实现的歌曲信息小窗",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/PiPWindow.png",
@@ -605,12 +605,12 @@
         ],
         "type": "extension",
         "slug": "PiPWindow",
-        "update_time": 1727846219,
+        "update_time": 1728058966,
         "publish_time": 1724948445,
         "repo": "Lukoning/PiPWindow",
         "stars": 4,
-        "file": "PiPWindow-0.1.0.plugin",
-        "file-url": "plugins/PiPWindow-0.1.0.plugin"
+        "file": "PiPWindow-0.2.0.plugin",
+        "file-url": "plugins/PiPWindow-0.2.0.plugin"
     },
     {
         "name": "Play with Bilibili MV",
