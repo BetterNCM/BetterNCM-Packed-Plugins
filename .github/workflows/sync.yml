@@ -18,4 +18,4 @@ jobs:
           fetch-depth: 0
       - run: |
           cd ${{ github.workspace }}
-          git push --mirror --force https://oauth2:${{ secrets.ACCESS_TOKEN }}@gitcode.net/qq_21551787/bncm-plugin-packed.git
+          git push --mirror --force https://oauth2:${{ secrets.ACCESS_TOKEN }}@gitcode.com/intensity/bncm-plugin-packed.git
