@@ -31,7 +31,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 854,
+        "stars": 893,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -341,7 +341,7 @@
         "update_time": 1722446168,
         "publish_time": 1673372080,
         "repo": "BetterNCM/InfinityLink",
-        "stars": 36,
+        "stars": 35,
         "native": true,
         "file": "InfLink-1.0.6.plugin",
         "file-url": "plugins/InfLink-1.0.6.plugin"
@@ -452,7 +452,7 @@
         "update_time": 1676099592,
         "publish_time": 1673944958,
         "repo": "MicroCBer/LiveSongPlayer-MKII",
-        "stars": 2,
+        "stars": 1,
         "file": "LiveSongPlayer-0.1.7.plugin",
         "file-url": "plugins/LiveSongPlayer-0.1.7.plugin"
     },
@@ -596,7 +596,7 @@
     {
         "name": "PiPWindow",
         "author": "Lukoning",
-        "version": "0.2.1",
+        "version": "0.2.2",
         "description": "一个纯JavaScript实现的歌曲信息小窗",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/PiPWindow.png",
@@ -605,12 +605,12 @@
         ],
         "type": "extension",
         "slug": "PiPWindow",
-        "update_time": 1728119993,
+        "update_time": 1728793205,
         "publish_time": 1724948445,
         "repo": "Lukoning/PiPWindow",
-        "stars": 4,
-        "file": "PiPWindow-0.2.1.plugin",
-        "file-url": "plugins/PiPWindow-0.2.1.plugin"
+        "stars": 5,
+        "file": "PiPWindow-0.2.2.plugin",
+        "file-url": "plugins/PiPWindow-0.2.2.plugin"
     },
     {
         "name": "Play with Bilibili MV",
@@ -701,7 +701,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 352,
+        "stars": 354,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -1006,7 +1006,7 @@
         "update_time": 1686489320,
         "publish_time": 1679230174,
         "repo": "samyycX/VocaloidInfo",
-        "stars": 6,
+        "stars": 5,
         "file": "vocaloid-info-2.0.2.plugin",
         "file-url": "plugins/vocaloid-info-2.0.2.plugin"
     },
@@ -1047,6 +1047,7 @@
         "update_time": 1722806091,
         "publish_time": 1722663790,
         "repo": "Lukoning/ZoomNCM",
+        "stars": 1,
         "file": "ZoomNCM-0.2.0.plugin",
         "file-url": "plugins/ZoomNCM-0.2.0.plugin"
     },
