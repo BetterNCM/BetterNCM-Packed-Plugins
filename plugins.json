@@ -31,7 +31,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 893,
+        "stars": 952,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -341,7 +341,7 @@
         "update_time": 1722446168,
         "publish_time": 1673372080,
         "repo": "BetterNCM/InfinityLink",
-        "stars": 35,
+        "stars": 36,
         "native": true,
         "file": "InfLink-1.0.6.plugin",
         "file-url": "plugins/InfLink-1.0.6.plugin"
@@ -516,6 +516,24 @@
         "file-url": "plugins/LyricBarBlur-1.0.3.plugin"
     },
     {
+        "name": "MHY NotRelease",
+        "author": "etherfun",
+        "version": "1.0.0",
+        "description": "把因为某个冈易高管的言行导致没有米哈游首发音乐还延迟一周给找回来<br/>在歌手页单独列出并提供播放功能",
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/MHYNotRelease.png",
+        "author_links": [
+            "https://github.com/etherfun"
+        ],
+        "type": "extension",
+        "slug": "MHYNotRelease",
+        "update_time": 1730389647,
+        "publish_time": 1730389647,
+        "repo": "etherfun/MHYNotRelease",
+        "file": "MHYNotRelease-1.0.0.plugin",
+        "file-url": "plugins/MHYNotRelease-1.0.0.plugin"
+    },
+    {
         "name": "Material You",
         "author": "solstice23",
         "version": "2.9.0",
@@ -596,7 +614,7 @@
     {
         "name": "PiPWindow",
         "author": "Lukoning",
-        "version": "0.2.2",
+        "version": "0.2.3",
         "description": "一个纯JavaScript实现的歌曲信息小窗",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/PiPWindow.png",
@@ -605,12 +623,12 @@
         ],
         "type": "extension",
         "slug": "PiPWindow",
-        "update_time": 1728793205,
+        "update_time": 1730607623,
         "publish_time": 1724948445,
         "repo": "Lukoning/PiPWindow",
-        "stars": 5,
-        "file": "PiPWindow-0.2.2.plugin",
-        "file-url": "plugins/PiPWindow-0.2.2.plugin"
+        "stars": 6,
+        "file": "PiPWindow-0.2.3.plugin",
+        "file-url": "plugins/PiPWindow-0.2.3.plugin"
     },
     {
         "name": "Play with Bilibili MV",
@@ -701,7 +719,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 354,
+        "stars": 357,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -758,7 +776,7 @@
         "update_time": 1687526656,
         "publish_time": 1682782235,
         "repo": "ReviveUnblockNCMInstaller/RevivedSource",
-        "stars": 16,
+        "stars": 17,
         "file": "RevivedSource-0.1.1.plugin",
         "file-url": "plugins/RevivedSource-0.1.1.plugin"
     },
