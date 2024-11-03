@@ -31,7 +31,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 952,
+        "stars": 956,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -518,8 +518,8 @@
     {
         "name": "MHY NotRelease",
         "author": "etherfun",
-        "version": "1.0.0",
-        "description": "把因为某个冈易高管的言行导致没有米哈游首发音乐还延迟一周给找回来<br/>在歌手页单独列出并提供播放功能",
+        "version": "1.1.0",
+        "description": "让网易云也能首发米哈游音乐 在歌手页单独列出并提供播放功能",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/MHYNotRelease.png",
         "author_links": [
@@ -527,11 +527,11 @@
         ],
         "type": "extension",
         "slug": "MHYNotRelease",
-        "update_time": 1730389647,
+        "update_time": 1730622006,
         "publish_time": 1730389647,
         "repo": "etherfun/MHYNotRelease",
-        "file": "MHYNotRelease-1.0.0.plugin",
-        "file-url": "plugins/MHYNotRelease-1.0.0.plugin"
+        "file": "MHYNotRelease-1.1.0.plugin",
+        "file-url": "plugins/MHYNotRelease-1.1.0.plugin"
     },
     {
         "name": "Material You",
