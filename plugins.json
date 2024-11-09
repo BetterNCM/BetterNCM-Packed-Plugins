@@ -31,7 +31,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 956,
+        "stars": 963,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -341,7 +341,7 @@
         "update_time": 1722446168,
         "publish_time": 1673372080,
         "repo": "BetterNCM/InfinityLink",
-        "stars": 36,
+        "stars": 35,
         "native": true,
         "file": "InfLink-1.0.6.plugin",
         "file-url": "plugins/InfLink-1.0.6.plugin"
@@ -518,8 +518,8 @@
     {
         "name": "MHY NotRelease",
         "author": "etherfun",
-        "version": "1.1.0",
-        "description": "让网易云也能首发米哈游音乐 在歌手页单独列出并提供播放功能",
+        "version": "1.2.0",
+        "description": "让网易云也能首发米哈游音乐 在歌手页单独列出并提供播放功能 可利用云盘同步到手机播放",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/MHYNotRelease.png",
         "author_links": [
@@ -527,11 +527,12 @@
         ],
         "type": "extension",
         "slug": "MHYNotRelease",
-        "update_time": 1730622006,
+        "update_time": 1731150789,
         "publish_time": 1730389647,
         "repo": "etherfun/MHYNotRelease",
-        "file": "MHYNotRelease-1.1.0.plugin",
-        "file-url": "plugins/MHYNotRelease-1.1.0.plugin"
+        "stars": 1,
+        "file": "MHYNotRelease-1.2.0.plugin",
+        "file-url": "plugins/MHYNotRelease-1.2.0.plugin"
     },
     {
         "name": "Material You",
@@ -626,7 +627,7 @@
         "update_time": 1730607623,
         "publish_time": 1724948445,
         "repo": "Lukoning/PiPWindow",
-        "stars": 6,
+        "stars": 7,
         "file": "PiPWindow-0.2.3.plugin",
         "file-url": "plugins/PiPWindow-0.2.3.plugin"
     },
@@ -925,7 +926,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 101,
+        "stars": 102,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
