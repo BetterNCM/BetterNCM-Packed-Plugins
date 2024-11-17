@@ -31,7 +31,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 973,
+        "stars": 977,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -156,7 +156,7 @@
         "update_time": 1706451060,
         "publish_time": 1697360951,
         "repo": "BetterNCM/CppLyrics-Plugin",
-        "stars": 12,
+        "stars": 11,
         "native": true,
         "file": "cpplyrics-0.0.8.plugin",
         "file-url": "plugins/cpplyrics-0.0.8.plugin"
@@ -341,7 +341,7 @@
         "update_time": 1722446168,
         "publish_time": 1673372080,
         "repo": "BetterNCM/InfinityLink",
-        "stars": 35,
+        "stars": 36,
         "native": true,
         "file": "InfLink-1.0.6.plugin",
         "file-url": "plugins/InfLink-1.0.6.plugin"
@@ -530,7 +530,7 @@
         "update_time": 1731479100,
         "publish_time": 1730389647,
         "repo": "etherfun/MHYNotRelease",
-        "stars": 1,
+        "stars": 2,
         "file": "MHYNotRelease-1.2.1.plugin",
         "file-url": "plugins/MHYNotRelease-1.2.1.plugin"
     },
@@ -552,7 +552,7 @@
         "update_time": 1684719915,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 115,
+        "stars": 117,
         "file": "MaterialYouTheme-2.9.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.9.0.plugin"
     },
@@ -615,7 +615,7 @@
     {
         "name": "PiPWindow",
         "author": "Lukoning",
-        "version": "0.2.3",
+        "version": "0.3.0",
         "description": "一个纯JavaScript实现的歌曲信息小窗",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/PiPWindow.png",
@@ -624,12 +624,12 @@
         ],
         "type": "extension",
         "slug": "PiPWindow",
-        "update_time": 1730607623,
+        "update_time": 1731827803,
         "publish_time": 1724948445,
         "repo": "Lukoning/PiPWindow",
         "stars": 7,
-        "file": "PiPWindow-0.2.3.plugin",
-        "file-url": "plugins/PiPWindow-0.2.3.plugin"
+        "file": "PiPWindow-0.3.0.plugin",
+        "file-url": "plugins/PiPWindow-0.3.0.plugin"
     },
     {
         "name": "Play with Bilibili MV",
