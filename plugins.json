@@ -31,7 +31,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 977,
+        "stars": 994,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -552,7 +552,7 @@
         "update_time": 1684719915,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 117,
+        "stars": 118,
         "file": "MaterialYouTheme-2.9.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.9.0.plugin"
     },
@@ -615,8 +615,11 @@
     {
         "name": "PiPWindow",
         "author": "Lukoning",
-        "version": "0.3.0",
+        "version": "0.3.1",
         "description": "一个纯JavaScript实现的歌曲信息小窗",
+        "requirements": [
+            "liblyric"
+        ],
         "betterncm_version": ">=1.0.0",
         "preview": "previews/PiPWindow.png",
         "author_links": [
@@ -624,12 +627,12 @@
         ],
         "type": "extension",
         "slug": "PiPWindow",
-        "update_time": 1731827803,
+        "update_time": 1732425405,
         "publish_time": 1724948445,
         "repo": "Lukoning/PiPWindow",
-        "stars": 7,
-        "file": "PiPWindow-0.3.0.plugin",
-        "file-url": "plugins/PiPWindow-0.3.0.plugin"
+        "stars": 8,
+        "file": "PiPWindow-0.3.1.plugin",
+        "file-url": "plugins/PiPWindow-0.3.1.plugin"
     },
     {
         "name": "Play with Bilibili MV",
@@ -720,7 +723,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 357,
+        "stars": 358,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -792,7 +795,7 @@
         "update_time": 1702361945,
         "publish_time": 1672515583,
         "repo": "BetterNCM/RoundCornerNCM",
-        "stars": 4,
+        "stars": 5,
         "require_restart": true,
         "file": "RoundCornerNCM-0.1.3.plugin",
         "file-url": "plugins/RoundCornerNCM-0.1.3.plugin"
@@ -926,7 +929,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 102,
+        "stars": 103,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
