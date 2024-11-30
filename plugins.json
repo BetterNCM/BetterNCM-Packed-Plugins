@@ -31,7 +31,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 994,
+        "stars": 1004,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -156,7 +156,7 @@
         "update_time": 1706451060,
         "publish_time": 1697360951,
         "repo": "BetterNCM/CppLyrics-Plugin",
-        "stars": 11,
+        "stars": 12,
         "native": true,
         "file": "cpplyrics-0.0.8.plugin",
         "file-url": "plugins/cpplyrics-0.0.8.plugin"
@@ -238,7 +238,7 @@
         "update_time": 1702185167,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
-        "stars": 30,
+        "stars": 31,
         "file": "elaina-theme-1.0.6.plugin",
         "file-url": "plugins/elaina-theme-1.0.6.plugin"
     },
@@ -489,7 +489,7 @@
         "update_time": 1682745175,
         "publish_time": 1677935011,
         "repo": "solstice23/lyric-bar-netease",
-        "stars": 17,
+        "stars": 18,
         "file": "LyricBar-0.3.6.plugin",
         "file-url": "plugins/LyricBar-0.3.6.plugin"
     },
@@ -530,7 +530,7 @@
         "update_time": 1731479100,
         "publish_time": 1730389647,
         "repo": "etherfun/MHYNotRelease",
-        "stars": 2,
+        "stars": 3,
         "file": "MHYNotRelease-1.2.1.plugin",
         "file-url": "plugins/MHYNotRelease-1.2.1.plugin"
     },
@@ -552,7 +552,7 @@
         "update_time": 1684719915,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 118,
+        "stars": 119,
         "file": "MaterialYouTheme-2.9.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.9.0.plugin"
     },
@@ -630,7 +630,7 @@
         "update_time": 1732425405,
         "publish_time": 1724948445,
         "repo": "Lukoning/PiPWindow",
-        "stars": 8,
+        "stars": 9,
         "file": "PiPWindow-0.3.1.plugin",
         "file-url": "plugins/PiPWindow-0.3.1.plugin"
     },
@@ -645,7 +645,7 @@
         "update_time": 1681582583,
         "publish_time": 1678598537,
         "repo": "BetterNCM/PlayWithBilibili",
-        "stars": 8,
+        "stars": 9,
         "file": "play-with-bilibili-1.1.0.plugin",
         "file-url": "plugins/play-with-bilibili-1.1.0.plugin"
     },
@@ -723,7 +723,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 358,
+        "stars": 363,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -750,7 +750,7 @@
     {
         "name": "RevisedSecondaryWindows",
         "author": "Lukoning",
-        "version": "0.4.2",
+        "version": "0.4.3",
         "description": "美化各种弹窗并添加动画(可搭配任意主题)",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/RevisedSecondaryWindows.png",
@@ -759,12 +759,12 @@
         ],
         "type": "extension",
         "slug": "RevisedSecondaryWindows",
-        "update_time": 1724656543,
+        "update_time": 1732947873,
         "publish_time": 1722514338,
         "repo": "Lukoning/RevisedSecondaryWindows",
         "stars": 8,
-        "file": "RevisedSecondaryWindows-0.4.2.plugin",
-        "file-url": "plugins/RevisedSecondaryWindows-0.4.2.plugin"
+        "file": "RevisedSecondaryWindows-0.4.3.plugin",
+        "file-url": "plugins/RevisedSecondaryWindows-0.4.3.plugin"
     },
     {
         "name": "RevivedSource",
@@ -929,7 +929,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 103,
+        "stars": 105,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
