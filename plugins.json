@@ -944,7 +944,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 105,
+        "stars": 106,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
@@ -1067,6 +1067,20 @@
         "stars": 10,
         "file": "What-is-the-cover-of-this-music-2.0.8.plugin",
         "file-url": "plugins/What-is-the-cover-of-this-music-2.0.8.plugin"
+    },
+    {
+        "name": "What's The Volume Percentage Now?",
+        "author": "student_2333",
+        "version": "0.1.0",
+        "description": "鼠标悬浮在音量图标上会显示当前音量",
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/what-is-the-volume-percentage-now.png",
+        "slug": "what-is-the-volume-percentage-now",
+        "update_time": 1733576637,
+        "publish_time": 1733576637,
+        "repo": "lgc2333/BetterNCM-What-Is-The-Volume-Percentage-Now",
+        "file": "what-is-the-volume-percentage-now-0.1.0.plugin",
+        "file-url": "plugins/what-is-the-volume-percentage-now-0.1.0.plugin"
     },
     {
         "name": "ZoomNCM",
