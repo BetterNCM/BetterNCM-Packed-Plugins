@@ -2,17 +2,17 @@
     {
         "name": "6K Labs",
         "author": "student_2333",
-        "version": "0.1.0",
+        "version": "0.1.2",
         "description": "精美的网易云播放状态直播挂件服务（基于 6K Labs）",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/6k-labs.png",
         "slug": "6k-labs",
-        "update_time": 1733491666,
+        "update_time": 1733649468,
         "publish_time": 1733491666,
         "repo": "lgc2333/BetterNCM-6K-Labs",
         "stars": 1,
-        "file": "6k-labs-0.1.0.plugin",
-        "file-url": "plugins/6k-labs-0.1.0.plugin"
+        "file": "6k-labs-0.1.2.plugin",
+        "file-url": "plugins/6k-labs-0.1.2.plugin"
     },
     {
         "name": "ActionEnhancement",
@@ -46,7 +46,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 1016,
+        "stars": 1021,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -567,7 +567,7 @@
         "update_time": 1684719915,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 119,
+        "stars": 118,
         "file": "MaterialYouTheme-2.9.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.9.0.plugin"
     },
