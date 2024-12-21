@@ -10,7 +10,7 @@
         "update_time": 1733649468,
         "publish_time": 1733491666,
         "repo": "lgc2333/BetterNCM-6K-Labs",
-        "stars": 1,
+        "stars": 4,
         "file": "6k-labs-0.1.2.plugin",
         "file-url": "plugins/6k-labs-0.1.2.plugin"
     },
@@ -46,7 +46,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 1021,
+        "stars": 1038,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -301,7 +301,7 @@
         "update_time": 1708920987,
         "publish_time": 1699078599,
         "repo": "MuttonString/Furigana",
-        "stars": 14,
+        "stars": 15,
         "file": "JapaneseFonts-1.0.3.plugin",
         "file-url": "plugins/JapaneseFonts-1.0.3.plugin"
     },
@@ -356,7 +356,7 @@
         "update_time": 1722446168,
         "publish_time": 1673372080,
         "repo": "BetterNCM/InfinityLink",
-        "stars": 38,
+        "stars": 39,
         "native": true,
         "file": "InfLink-1.0.6.plugin",
         "file-url": "plugins/InfLink-1.0.6.plugin"
@@ -533,8 +533,8 @@
     {
         "name": "MHY NotRelease",
         "author": "etherfun",
-        "version": "1.2.1",
-        "description": "让网易云也能首发米哈游音乐 在歌手页单独列出并提供播放功能 可利用云盘同步到手机播放",
+        "version": "1.3.0",
+        "description": "让网易云也能首发米哈游音乐 在歌手页单独列出并提供播放功能",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/MHYNotRelease.png",
         "author_links": [
@@ -542,12 +542,12 @@
         ],
         "type": "extension",
         "slug": "MHYNotRelease",
-        "update_time": 1731479100,
+        "update_time": 1734711681,
         "publish_time": 1730389647,
         "repo": "etherfun/MHYNotRelease",
         "stars": 3,
-        "file": "MHYNotRelease-1.2.1.plugin",
-        "file-url": "plugins/MHYNotRelease-1.2.1.plugin"
+        "file": "MHYNotRelease-1.3.0.plugin",
+        "file-url": "plugins/MHYNotRelease-1.3.0.plugin"
     },
     {
         "name": "Material You",
@@ -567,7 +567,7 @@
         "update_time": 1684719915,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 118,
+        "stars": 117,
         "file": "MaterialYouTheme-2.9.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.9.0.plugin"
     },
@@ -758,7 +758,7 @@
         "update_time": 1708823072,
         "publish_time": 1676985392,
         "repo": "BetterNCM/RemoveTrackingAttribute",
-        "stars": 3,
+        "stars": 2,
         "file": "remove-tracking-attribute-1.0.2.plugin",
         "file-url": "plugins/remove-tracking-attribute-1.0.2.plugin"
     },
@@ -832,7 +832,7 @@
         "update_time": 1681021577,
         "publish_time": 1674390502,
         "repo": "BetterNCM/RuLyric",
-        "stars": 13,
+        "stars": 12,
         "native": true,
         "file": "RuLyrics-0.3.5.plugin",
         "file-url": "plugins/RuLyrics-0.3.5.plugin"
@@ -944,7 +944,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 106,
+        "stars": 108,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
