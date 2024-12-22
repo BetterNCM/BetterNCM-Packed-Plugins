@@ -2,17 +2,17 @@
     {
         "name": "6K Labs",
         "author": "student_2333",
-        "version": "0.1.2",
+        "version": "0.2.0",
         "description": "精美的网易云播放状态直播挂件服务（基于 6K Labs）",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/6k-labs.png",
         "slug": "6k-labs",
-        "update_time": 1733649468,
+        "update_time": 1734880541,
         "publish_time": 1733491666,
         "repo": "lgc2333/BetterNCM-6K-Labs",
         "stars": 4,
-        "file": "6k-labs-0.1.2.plugin",
-        "file-url": "plugins/6k-labs-0.1.2.plugin"
+        "file": "6k-labs-0.2.0.plugin",
+        "file-url": "plugins/6k-labs-0.2.0.plugin"
     },
     {
         "name": "ActionEnhancement",
@@ -46,7 +46,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 1039,
+        "stars": 1040,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -645,7 +645,7 @@
         "update_time": 1734776178,
         "publish_time": 1724948445,
         "repo": "Lukoning/PiPWindow",
-        "stars": 9,
+        "stars": 10,
         "file": "PiPWindow-0.4.1.plugin",
         "file-url": "plugins/PiPWindow-0.4.1.plugin"
     },
