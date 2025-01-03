@@ -10,7 +10,7 @@
         "update_time": 1734880541,
         "publish_time": 1733491666,
         "repo": "lgc2333/BetterNCM-6K-Labs",
-        "stars": 4,
+        "stars": 5,
         "file": "6k-labs-0.2.0.plugin",
         "file-url": "plugins/6k-labs-0.2.0.plugin"
     },
@@ -46,7 +46,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 1052,
+        "stars": 1061,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -120,7 +120,7 @@
         "update_time": 1721312122,
         "publish_time": 1670425948,
         "repo": "BetterNCM/BGEnhanced",
-        "stars": 21,
+        "stars": 20,
         "file": "BGEnhanced-0.3.8.plugin",
         "file-url": "plugins/BGEnhanced-0.3.8.plugin"
     },
@@ -323,7 +323,7 @@
         "update_time": 1681578714,
         "publish_time": 1678367766,
         "repo": "solstice23/gpt-trans-netease",
-        "stars": 8,
+        "stars": 9,
         "file": "GPTTrans-0.4.1.plugin",
         "file-url": "plugins/GPTTrans-0.4.1.plugin"
     },
@@ -356,7 +356,7 @@
         "update_time": 1735308933,
         "publish_time": 1673372080,
         "repo": "BetterNCM/InfinityLink",
-        "stars": 38,
+        "stars": 39,
         "native": true,
         "file": "InfLink-1.1.0.plugin",
         "file-url": "plugins/InfLink-1.1.0.plugin"
@@ -533,7 +533,7 @@
     {
         "name": "MHY NotRelease",
         "author": "etherfun",
-        "version": "1.3.2",
+        "version": "1.3.3",
         "description": "让网易云也能首发米哈游音乐 在歌手页单独列出并提供播放功能",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/MHYNotRelease.png",
@@ -542,12 +542,12 @@
         ],
         "type": "extension",
         "slug": "MHYNotRelease",
-        "update_time": 1735374038,
+        "update_time": 1735907679,
         "publish_time": 1730389647,
         "repo": "etherfun/MHYNotRelease",
         "stars": 3,
-        "file": "MHYNotRelease-1.3.2.plugin",
-        "file-url": "plugins/MHYNotRelease-1.3.2.plugin"
+        "file": "MHYNotRelease-1.3.3.plugin",
+        "file-url": "plugins/MHYNotRelease-1.3.3.plugin"
     },
     {
         "name": "Material You",
@@ -944,7 +944,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 108,
+        "stars": 107,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
@@ -1079,6 +1079,7 @@
         "update_time": 1733576637,
         "publish_time": 1733576637,
         "repo": "lgc2333/BetterNCM-What-Is-The-Volume-Percentage-Now",
+        "stars": 1,
         "file": "what-is-the-volume-percentage-now-0.1.0.plugin",
         "file-url": "plugins/what-is-the-volume-percentage-now-0.1.0.plugin"
     },
