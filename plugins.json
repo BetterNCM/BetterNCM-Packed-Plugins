@@ -10,7 +10,7 @@
         "update_time": 1734880541,
         "publish_time": 1733491666,
         "repo": "lgc2333/BetterNCM-6K-Labs",
-        "stars": 5,
+        "stars": 6,
         "file": "6k-labs-0.2.0.plugin",
         "file-url": "plugins/6k-labs-0.2.0.plugin"
     },
@@ -162,6 +162,24 @@
         "file-url": "plugins/beat-saver-0.1.1.plugin"
     },
     {
+        "name": "BetterCloudSearch",
+        "author": "aquamarine5",
+        "version": "1.0",
+        "betterncm_version": ">=0.2.5",
+        "preview": "previews/BetterCloudSearch.png",
+        "author_links": [
+            "https://github.com/aquamarine5/BetterCloudSearch"
+        ],
+        "type": "extension",
+        "slug": "BetterCloudSearch",
+        "update_time": 1736009308,
+        "publish_time": 1736009308,
+        "repo": "aquamarine5/BetterCloudSearch",
+        "stars": 1,
+        "file": "BetterCloudSearch-1.0.plugin",
+        "file-url": "plugins/BetterCloudSearch-1.0.plugin"
+    },
+    {
         "name": "CppLyrics ⚠ 开发中 ⚠",
         "author": "MicroBlock",
         "version": "0.0.8",
@@ -171,7 +189,7 @@
         "update_time": 1706451060,
         "publish_time": 1697360951,
         "repo": "BetterNCM/CppLyrics-Plugin",
-        "stars": 12,
+        "stars": 13,
         "native": true,
         "file": "cpplyrics-0.0.8.plugin",
         "file-url": "plugins/cpplyrics-0.0.8.plugin"
@@ -356,7 +374,7 @@
         "update_time": 1735308933,
         "publish_time": 1673372080,
         "repo": "BetterNCM/InfinityLink",
-        "stars": 39,
+        "stars": 40,
         "native": true,
         "file": "InfLink-1.1.0.plugin",
         "file-url": "plugins/InfLink-1.1.0.plugin"
@@ -738,7 +756,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 366,
+        "stars": 367,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
