@@ -46,7 +46,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 1068,
+        "stars": 1071,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -375,7 +375,7 @@
         "update_time": 1735308933,
         "publish_time": 1673372080,
         "repo": "BetterNCM/InfinityLink",
-        "stars": 40,
+        "stars": 41,
         "native": true,
         "file": "InfLink-1.1.0.plugin",
         "file-url": "plugins/InfLink-1.1.0.plugin"
@@ -545,14 +545,14 @@
         "update_time": 1722500411,
         "publish_time": 1719033332,
         "repo": "Lukoning/LyricBarBlur",
-        "stars": 5,
+        "stars": 6,
         "file": "LyricBarBlur-1.0.3.plugin",
         "file-url": "plugins/LyricBarBlur-1.0.3.plugin"
     },
     {
         "name": "MHY NotRelease",
         "author": "etherfun",
-        "version": "1.3.3",
+        "version": "1.3.4",
         "description": "让网易云也能首发米哈游音乐 在歌手页单独列出并提供播放功能",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/MHYNotRelease.png",
@@ -561,12 +561,12 @@
         ],
         "type": "extension",
         "slug": "MHYNotRelease",
-        "update_time": 1735907679,
+        "update_time": 1736507671,
         "publish_time": 1730389647,
         "repo": "etherfun/MHYNotRelease",
         "stars": 3,
-        "file": "MHYNotRelease-1.3.3.plugin",
-        "file-url": "plugins/MHYNotRelease-1.3.3.plugin"
+        "file": "MHYNotRelease-1.3.4.plugin",
+        "file-url": "plugins/MHYNotRelease-1.3.4.plugin"
     },
     {
         "name": "Material You",
@@ -757,7 +757,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 367,
+        "stars": 368,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -963,7 +963,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 107,
+        "stars": 106,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
