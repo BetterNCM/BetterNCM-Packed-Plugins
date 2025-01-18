@@ -46,7 +46,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 1071,
+        "stars": 1087,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -164,7 +164,7 @@
     {
         "name": "BetterCloudSearch",
         "author": "aquamarine5",
-        "version": "1.3",
+        "version": "1.4",
         "description": "直接在搜索页搜索云盘音乐而不用再去云盘进行搜索",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/BetterCloudSearch.png",
@@ -173,12 +173,12 @@
         ],
         "type": "extension",
         "slug": "BetterCloudSearch",
-        "update_time": 1736331533,
+        "update_time": 1737117209,
         "publish_time": 1736009308,
         "repo": "aquamarine5/BetterCloudSearch",
         "stars": 2,
-        "file": "BetterCloudSearch-1.3.plugin",
-        "file-url": "plugins/BetterCloudSearch-1.3.plugin"
+        "file": "BetterCloudSearch-1.4.plugin",
+        "file-url": "plugins/BetterCloudSearch-1.4.plugin"
     },
     {
         "name": "CppLyrics ⚠ 开发中 ⚠",
@@ -256,7 +256,7 @@
         "update_time": 1720722045,
         "publish_time": 1703317509,
         "repo": "BetterNCM/DowngradeOK",
-        "stars": 10,
+        "stars": 11,
         "file": "DowngradeOK-0.0.5.plugin",
         "file-url": "plugins/DowngradeOK-0.0.5.plugin"
     },
@@ -272,7 +272,7 @@
         "update_time": 1702185167,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
-        "stars": 31,
+        "stars": 32,
         "file": "elaina-theme-1.0.6.plugin",
         "file-url": "plugins/elaina-theme-1.0.6.plugin"
     },
@@ -434,7 +434,7 @@
         "update_time": 1674374363,
         "publish_time": 1674374363,
         "repo": "Steve-xmh/LibLyric",
-        "stars": 12,
+        "stars": 13,
         "file": "liblyric-1.0.0.plugin",
         "file-url": "plugins/liblyric-1.0.0.plugin"
     },
@@ -708,6 +708,7 @@
         "update_time": 1731176477,
         "publish_time": 1680372961,
         "repo": "BetterNCM/Plugin-Market",
+        "stars": 1,
         "file": "PluginMarket.plugin",
         "file-url": "plugins/PluginMarket.plugin"
     },
@@ -928,7 +929,7 @@
         "update_time": 1690268096,
         "publish_time": 1672601649,
         "repo": "BetterNCM/StyleSnippet",
-        "stars": 7,
+        "stars": 8,
         "file": "StyleSnippet-0.2.2.plugin",
         "file-url": "plugins/StyleSnippet-0.2.2.plugin"
     },
@@ -963,7 +964,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 106,
+        "stars": 107,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
