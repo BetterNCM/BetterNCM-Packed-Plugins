@@ -550,6 +550,28 @@
         "file-url": "plugins/LyricBarBlur-1.0.3.plugin"
     },
     {
+        "name": "LyricsIsland",
+        "author": "jiangyin14,沫烬染,Xwei1645",
+        "version": "1.0.0",
+        "description": "让BetterNCM与ClassIsland通信，在主界面显示歌词。",
+        "requirements": [
+            "liblyric"
+        ],
+        "preview": "previews/LyricsIsland.png",
+        "author_links": [
+            "https://github.com/jiangyin14",
+            "https://www.jiangyin14.top/"
+        ],
+        "type": "extension",
+        "slug": "LyricsIsland",
+        "update_time": 1737180857,
+        "publish_time": 1737180857,
+        "repo": "jiangyin14/LyricsIslandBNCM",
+        "stars": 2,
+        "file": "LyricsIsland-1.0.0.plugin",
+        "file-url": "plugins/LyricsIsland-1.0.0.plugin"
+    },
+    {
         "name": "MHY NotRelease",
         "author": "etherfun",
         "version": "1.3.4",
