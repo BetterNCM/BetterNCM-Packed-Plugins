@@ -46,7 +46,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 1087,
+        "stars": 1091,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -375,7 +375,7 @@
         "update_time": 1735308933,
         "publish_time": 1673372080,
         "repo": "BetterNCM/InfinityLink",
-        "stars": 41,
+        "stars": 42,
         "native": true,
         "file": "InfLink-1.1.0.plugin",
         "file-url": "plugins/InfLink-1.1.0.plugin"
@@ -434,9 +434,26 @@
         "update_time": 1674374363,
         "publish_time": 1674374363,
         "repo": "Steve-xmh/LibLyric",
-        "stars": 13,
+        "stars": 14,
         "file": "liblyric-1.0.0.plugin",
         "file-url": "plugins/liblyric-1.0.0.plugin"
+    },
+    {
+        "name": "LibOpenCC",
+        "author": "Lukoning",
+        "version": "0.1.0",
+        "description": "（基于opencc-js）提供中文简体/繁体、日文新字体间的相互转换功能",
+        "betterncm_version": ">=1.0.0",
+        "author_links": [
+            "https://github.com/Lukoning"
+        ],
+        "type": "dependency",
+        "slug": "LibOpenCC",
+        "update_time": 1737267747,
+        "publish_time": 1737267747,
+        "repo": "Lukoning/LibOpenCC",
+        "file": "LibOpenCC-0.1.0.plugin",
+        "file-url": "plugins/LibOpenCC-0.1.0.plugin"
     },
     {
         "name": "LibSongInfo",
@@ -757,7 +774,7 @@
         "update_time": 1683442338,
         "publish_time": 1676203250,
         "repo": "FlysoftBeta/ReLive",
-        "stars": 10,
+        "stars": 9,
         "file": "relive-theme-0.6.0.plugin",
         "file-url": "plugins/relive-theme-0.6.0.plugin"
     },
@@ -986,7 +1003,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 107,
+        "stars": 108,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
