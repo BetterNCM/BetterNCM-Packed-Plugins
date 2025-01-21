@@ -46,7 +46,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 1091,
+        "stars": 1094,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -568,9 +568,9 @@
     },
     {
         "name": "LyricsIsland",
-        "author": "jiangyin14,沫烬染,Xwei1645",
-        "version": "1.0.0",
-        "description": "让BetterNCM与ClassIsland通信，在主界面显示歌词。",
+        "author": "jiangyin14,沫烬染,LaoShui,Xwei1645",
+        "version": "1.0.1",
+        "description": "让BetterNCM与ClassIsland和ClassWidgets通信，在主界面显示歌词。",
         "requirements": [
             "liblyric"
         ],
@@ -581,12 +581,12 @@
         ],
         "type": "extension",
         "slug": "LyricsIsland",
-        "update_time": 1737180857,
+        "update_time": 1737447720,
         "publish_time": 1737180857,
         "repo": "jiangyin14/LyricsIslandBNCM",
-        "stars": 2,
-        "file": "LyricsIsland-1.0.0.plugin",
-        "file-url": "plugins/LyricsIsland-1.0.0.plugin"
+        "stars": 5,
+        "file": "LyricsIsland-1.0.1.plugin",
+        "file-url": "plugins/LyricsIsland-1.0.1.plugin"
     },
     {
         "name": "MHY NotRelease",
