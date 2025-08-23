@@ -149,8 +149,10 @@ jobs:
           fi
           # sanitize commit message to avoid newlines
           COMMIT_MSG="${{ needs.pre-check.outputs.latest_commit_msg }}"
-          COMMIT_MSG=$(echo "$COMMIT_MSG" | tr '\n' ' ' | sed 's/\r//g')
-          git commit -m "Update - $COMMIT_MSG"
+          COMMIT_HASH="${{ needs.pre-check.outputs.latest_commit }}"
+          COMMIT_MSG_OUT=$(echo "$COMMIT_MSG" | tr '\n' ' ' | sed 's/\r//g')
+          COMMIT_HASH_SHORT=$(echo "$COMMIT_HASH" | cut -c1-7)
+          git commit -m "Update - $COMMIT_MSG_OUT - $COMMIT_HASH_SHORT"
           git push
           echo "✅ Pushed updates to release repo."
         working-directory: release
