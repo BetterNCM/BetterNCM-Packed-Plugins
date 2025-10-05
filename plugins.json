@@ -383,17 +383,19 @@
     {
         "name": "InfLink-rs",
         "author": "apoint123",
-        "version": "3.1.0",
+        "version": "3.1.2",
         "description": "SMTC 支持，使用 Rust 实现",
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/InfLinkrs.png",
         "ncm3-compatible": true,
         "slug": "InfLinkrs",
-        "update_time": 1759587316,
+        "update_time": 1759659482,
         "publish_time": 1759587316,
         "repo": "apoint123/inflink-rs",
-        "stars": 6,
+        "stars": 8,
         "native": true,
-        "file": "InfLinkrs-3.1.0.plugin",
-        "file-url": "plugins/InfLinkrs-3.1.0.plugin"
+        "file": "InfLinkrs-3.1.2.plugin",
+        "file-url": "plugins/InfLinkrs-3.1.2.plugin"
     },
     {
         "name": "LibEAPIRequest",
