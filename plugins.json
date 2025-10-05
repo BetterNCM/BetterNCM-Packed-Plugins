@@ -46,7 +46,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 1537,
+        "stars": 1580,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -272,7 +272,7 @@
         "update_time": 1702185167,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
-        "stars": 32,
+        "stars": 33,
         "file": "elaina-theme-1.0.6.plugin",
         "file-url": "plugins/elaina-theme-1.0.6.plugin"
     },
@@ -320,7 +320,7 @@
         "update_time": 1708920987,
         "publish_time": 1699078599,
         "repo": "MuttonString/Furigana",
-        "stars": 16,
+        "stars": 15,
         "file": "JapaneseFonts-1.0.3.plugin",
         "file-url": "plugins/JapaneseFonts-1.0.3.plugin"
     },
@@ -375,10 +375,25 @@
         "update_time": 1755559118,
         "publish_time": 1673372080,
         "repo": "BetterNCM/InfinityLink",
-        "stars": 59,
+        "stars": 67,
         "native": true,
         "file": "InfLink-1.1.1.plugin",
         "file-url": "plugins/InfLink-1.1.1.plugin"
+    },
+    {
+        "name": "InfLink-rs",
+        "author": "apoint123",
+        "version": "3.1.0",
+        "description": "SMTC 支持，使用 Rust 实现",
+        "ncm3-compatible": true,
+        "slug": "InfLinkrs",
+        "update_time": 1759587316,
+        "publish_time": 1759587316,
+        "repo": "apoint123/inflink-rs",
+        "stars": 6,
+        "native": true,
+        "file": "InfLinkrs-3.1.0.plugin",
+        "file-url": "plugins/InfLinkrs-3.1.0.plugin"
     },
     {
         "name": "LibEAPIRequest",
@@ -540,7 +555,7 @@
         "update_time": 1682745175,
         "publish_time": 1677935011,
         "repo": "solstice23/lyric-bar-netease",
-        "stars": 19,
+        "stars": 20,
         "file": "LyricBar-0.3.6.plugin",
         "file-url": "plugins/LyricBar-0.3.6.plugin"
     },
@@ -732,7 +747,7 @@
         "update_time": 1681542740,
         "publish_time": 1680685763,
         "repo": "BetterNCM/PlaybackRate",
-        "stars": 2,
+        "stars": 3,
         "file": "PlaybackRate-0.1.2.plugin",
         "file-url": "plugins/PlaybackRate-0.1.2.plugin"
     },
@@ -797,7 +812,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 392,
+        "stars": 394,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -1021,7 +1036,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 122,
+        "stars": 126,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
