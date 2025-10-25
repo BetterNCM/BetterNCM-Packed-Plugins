@@ -46,7 +46,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 1598,
+        "stars": 1604,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -190,7 +190,7 @@
         "update_time": 1706451060,
         "publish_time": 1697360951,
         "repo": "BetterNCM/CppLyrics-Plugin",
-        "stars": 13,
+        "stars": 14,
         "native": true,
         "file": "cpplyrics-0.0.8.plugin",
         "file-url": "plugins/cpplyrics-0.0.8.plugin"
@@ -383,19 +383,19 @@
     {
         "name": "InfLink-rs",
         "author": "apoint123",
-        "version": "3.2.0",
+        "version": "3.2.1",
         "description": "SMTC 支持，使用 Rust 实现",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/InfLinkrs.png",
         "ncm3-compatible": true,
         "slug": "InfLinkrs",
-        "update_time": 1760548659,
+        "update_time": 1761401782,
         "publish_time": 1759587316,
         "repo": "apoint123/inflink-rs",
-        "stars": 17,
+        "stars": 21,
         "native": true,
-        "file": "InfLinkrs-3.2.0.plugin",
-        "file-url": "plugins/InfLinkrs-3.2.0.plugin"
+        "file": "InfLinkrs-3.2.1.plugin",
+        "file-url": "plugins/InfLinkrs-3.2.1.plugin"
     },
     {
         "name": "LibEAPIRequest",
@@ -451,7 +451,7 @@
         "update_time": 1674374363,
         "publish_time": 1674374363,
         "repo": "Steve-xmh/LibLyric",
-        "stars": 14,
+        "stars": 15,
         "file": "liblyric-1.0.0.plugin",
         "file-url": "plugins/liblyric-1.0.0.plugin"
     },
@@ -601,7 +601,7 @@
         "update_time": 1737447720,
         "publish_time": 1737180857,
         "repo": "jiangyin14/LyricsIslandBNCM",
-        "stars": 11,
+        "stars": 12,
         "file": "LyricsIsland-1.0.1.plugin",
         "file-url": "plugins/LyricsIsland-1.0.1.plugin"
     },
