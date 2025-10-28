@@ -46,7 +46,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 1604,
+        "stars": 1606,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -383,19 +383,19 @@
     {
         "name": "InfLink-rs",
         "author": "apoint123",
-        "version": "3.2.1",
+        "version": "3.2.2",
         "description": "SMTC 支持，使用 Rust 实现",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/InfLinkrs.png",
         "ncm3-compatible": true,
         "slug": "InfLinkrs",
-        "update_time": 1761401782,
+        "update_time": 1761658248,
         "publish_time": 1759587316,
         "repo": "apoint123/inflink-rs",
-        "stars": 21,
+        "stars": 23,
         "native": true,
-        "file": "InfLinkrs-3.2.1.plugin",
-        "file-url": "plugins/InfLinkrs-3.2.1.plugin"
+        "file": "InfLinkrs-3.2.2.plugin",
+        "file-url": "plugins/InfLinkrs-3.2.2.plugin"
     },
     {
         "name": "LibEAPIRequest",
@@ -720,7 +720,7 @@
         "update_time": 1755559130,
         "publish_time": 1724948445,
         "repo": "Lukoning/PiPWindow",
-        "stars": 16,
+        "stars": 17,
         "file": "PiPWindow-0.5.5.plugin",
         "file-url": "plugins/PiPWindow-0.5.5.plugin"
     },
