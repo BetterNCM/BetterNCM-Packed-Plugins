@@ -46,7 +46,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 1753,
+        "stars": 1755,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -327,16 +327,16 @@
     {
         "name": "Furigana-api-fixed(JanpaneseFonts)",
         "author": "Hxjjxg",
-        "version": "1.1.0",
+        "version": "1.1.1",
         "description": "替换日文歌字体为日文字体，日语汉字振假名(api-fixed)",
         "betterncm_version": ">=1.0.0",
         "ncm3-compatible": true,
         "slug": "FuriganaapifixedJanpaneseFonts",
-        "update_time": 1766904936,
+        "update_time": 1767101801,
         "publish_time": 1766904936,
         "repo": "Hxjjxg/Furigana-api-fixed",
-        "file": "FuriganaapifixedJanpaneseFonts-1.1.0.plugin",
-        "file-url": "plugins/FuriganaapifixedJanpaneseFonts-1.1.0.plugin"
+        "file": "FuriganaapifixedJanpaneseFonts-1.1.1.plugin",
+        "file-url": "plugins/FuriganaapifixedJanpaneseFonts-1.1.1.plugin"
     },
     {
         "name": "GPT Trans",
@@ -406,7 +406,7 @@
         "update_time": 1766323690,
         "publish_time": 1759587316,
         "repo": "apoint123/inflink-rs",
-        "stars": 38,
+        "stars": 40,
         "native": true,
         "file": "InfLinkrs-3.2.8.plugin",
         "file-url": "plugins/InfLinkrs-3.2.8.plugin"
