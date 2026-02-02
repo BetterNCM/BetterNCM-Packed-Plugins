@@ -10,7 +10,7 @@
         "update_time": 1734880541,
         "publish_time": 1733491666,
         "repo": "lgc2333/BetterNCM-6K-Labs",
-        "stars": 8,
+        "stars": 9,
         "file": "6k-labs-0.2.0.plugin",
         "file-url": "plugins/6k-labs-0.2.0.plugin"
     },
@@ -46,7 +46,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 1755,
+        "stars": 1817,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -190,7 +190,7 @@
         "update_time": 1706451060,
         "publish_time": 1697360951,
         "repo": "BetterNCM/CppLyrics-Plugin",
-        "stars": 14,
+        "stars": 15,
         "native": true,
         "file": "cpplyrics-0.0.8.plugin",
         "file-url": "plugins/cpplyrics-0.0.8.plugin"
@@ -320,7 +320,7 @@
         "update_time": 1708920987,
         "publish_time": 1699078599,
         "repo": "MuttonString/Furigana",
-        "stars": 17,
+        "stars": 18,
         "file": "JapaneseFonts-1.0.3.plugin",
         "file-url": "plugins/JapaneseFonts-1.0.3.plugin"
     },
@@ -335,6 +335,7 @@
         "update_time": 1767101801,
         "publish_time": 1766904936,
         "repo": "Hxjjxg/Furigana-api-fixed",
+        "stars": 6,
         "file": "FuriganaapifixedJanpaneseFonts-1.1.1.plugin",
         "file-url": "plugins/FuriganaapifixedJanpaneseFonts-1.1.1.plugin"
     },
@@ -406,7 +407,7 @@
         "update_time": 1766323690,
         "publish_time": 1759587316,
         "repo": "apoint123/inflink-rs",
-        "stars": 40,
+        "stars": 58,
         "native": true,
         "file": "InfLinkrs-3.2.8.plugin",
         "file-url": "plugins/InfLinkrs-3.2.8.plugin"
@@ -656,7 +657,7 @@
         "update_time": 1684719915,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 122,
+        "stars": 123,
         "file": "MaterialYouTheme-2.9.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.9.0.plugin"
     },
@@ -828,7 +829,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 405,
+        "stars": 412,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -1006,6 +1007,22 @@
         "file-url": "plugins/SimpleAudioVisualizer-0.1.3.plugin"
     },
     {
+        "name": "SimpleCSS",
+        "author": "lclty",
+        "version": "1.0.0",
+        "description": "一个轻量级的自定义 CSS 注入插件，支持实时预览与自动保存。",
+        "requirements": [],
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/simple-custom-css.jpg",
+        "type": "extension",
+        "slug": "simple-custom-css",
+        "update_time": 1770017856,
+        "publish_time": 1770017856,
+        "repo": "lclty/SimpleCSS",
+        "file": "simple-custom-css-1.0.0.plugin",
+        "file-url": "plugins/simple-custom-css-1.0.0.plugin"
+    },
+    {
         "name": "StyleSnippet",
         "author": "MicroBlock",
         "version": "0.2.2",
@@ -1052,7 +1069,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 134,
+        "stars": 136,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
@@ -1207,7 +1224,7 @@
         "update_time": 1722806091,
         "publish_time": 1722663790,
         "repo": "Lukoning/ZoomNCM",
-        "stars": 1,
+        "stars": 2,
         "file": "ZoomNCM-0.2.0.plugin",
         "file-url": "plugins/ZoomNCM-0.2.0.plugin"
     },
