@@ -46,7 +46,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 1817,
+        "stars": 1831,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -398,19 +398,19 @@
     {
         "name": "InfLink-rs",
         "author": "apoint123",
-        "version": "3.2.8",
+        "version": "3.2.9",
         "description": "SMTC 支持，使用 Rust 实现",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/InfLinkrs.png",
         "ncm3-compatible": true,
         "slug": "InfLinkrs",
-        "update_time": 1766323690,
+        "update_time": 1770993644,
         "publish_time": 1759587316,
         "repo": "apoint123/inflink-rs",
-        "stars": 58,
+        "stars": 63,
         "native": true,
-        "file": "InfLinkrs-3.2.8.plugin",
-        "file-url": "plugins/InfLinkrs-3.2.8.plugin"
+        "file": "InfLinkrs-3.2.9.plugin",
+        "file-url": "plugins/InfLinkrs-3.2.9.plugin"
     },
     {
         "name": "LibEAPIRequest",
@@ -535,7 +535,7 @@
         "update_time": 1676099592,
         "publish_time": 1673944958,
         "repo": "MicroCBer/LiveSongPlayer-MKII",
-        "stars": 2,
+        "stars": 1,
         "file": "LiveSongPlayer-0.1.7.plugin",
         "file-url": "plugins/LiveSongPlayer-0.1.7.plugin"
     },
@@ -829,7 +829,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 412,
+        "stars": 416,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -1069,7 +1069,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 136,
+        "stars": 137,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
