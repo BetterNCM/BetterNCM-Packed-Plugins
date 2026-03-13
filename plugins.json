@@ -46,7 +46,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 1849,
+        "stars": 1869,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -398,19 +398,19 @@
     {
         "name": "InfLink-rs",
         "author": "apoint123",
-        "version": "3.2.10",
+        "version": "3.2.11",
         "description": "SMTC 支持，使用 Rust 实现",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/InfLinkrs.png",
         "ncm3-compatible": true,
         "slug": "InfLinkrs",
-        "update_time": 1771752755,
+        "update_time": 1773384986,
         "publish_time": 1759587316,
         "repo": "apoint123/inflink-rs",
-        "stars": 69,
+        "stars": 72,
         "native": true,
-        "file": "InfLinkrs-3.2.10.plugin",
-        "file-url": "plugins/InfLinkrs-3.2.10.plugin"
+        "file": "InfLinkrs-3.2.11.plugin",
+        "file-url": "plugins/InfLinkrs-3.2.11.plugin"
     },
     {
         "name": "LibEAPIRequest",
@@ -443,7 +443,7 @@
         "update_time": 1680277444,
         "publish_time": 1673713536,
         "repo": "BetterNCM/LibFrontendPlay",
-        "stars": 7,
+        "stars": 8,
         "file": "LibFrontendPlay-1.1.0.plugin",
         "file-url": "plugins/LibFrontendPlay-1.1.0.plugin"
     },
@@ -616,7 +616,7 @@
         "update_time": 1737447720,
         "publish_time": 1737180857,
         "repo": "jiangyin14/LyricsIslandBNCM",
-        "stars": 12,
+        "stars": 13,
         "file": "LyricsIsland-1.0.1.plugin",
         "file-url": "plugins/LyricsIsland-1.0.1.plugin"
     },
@@ -735,7 +735,7 @@
         "update_time": 1755559130,
         "publish_time": 1724948445,
         "repo": "Lukoning/PiPWindow",
-        "stars": 17,
+        "stars": 18,
         "file": "PiPWindow-0.5.5.plugin",
         "file-url": "plugins/PiPWindow-0.5.5.plugin"
     },
@@ -829,7 +829,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 416,
+        "stars": 420,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -853,7 +853,7 @@
         "update_time": 1771764789,
         "publish_time": 1771764789,
         "repo": "laoshuikaixue/refined-now-playing-netease-enhanced",
-        "stars": 1,
+        "stars": 3,
         "file": "RefinedNowPlaying-Enhanced-0.1.0.plugin",
         "file-url": "plugins/RefinedNowPlaying-Enhanced-0.1.0.plugin"
     },
@@ -925,7 +925,7 @@
         "update_time": 1755559135,
         "publish_time": 1672515583,
         "repo": "BetterNCM/RoundCornerNCM",
-        "stars": 5,
+        "stars": 6,
         "require_restart": true,
         "file": "RoundCornerNCM-0.1.4.plugin",
         "file-url": "plugins/RoundCornerNCM-0.1.4.plugin"
@@ -1026,7 +1026,7 @@
         "update_time": 1680277456,
         "publish_time": 1673713908,
         "repo": "BetterNCM/SimpleAudioVisualizer",
-        "stars": 12,
+        "stars": 13,
         "file": "SimpleAudioVisualizer-0.1.3.plugin",
         "file-url": "plugins/SimpleAudioVisualizer-0.1.3.plugin"
     },
