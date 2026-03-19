@@ -15,6 +15,25 @@
         "file-url": "plugins/6k-labs-0.2.0.plugin"
     },
     {
+        "name": "AMLL WS Connector",
+        "author": "AMLL Dev",
+        "version": "0.1.0",
+        "description": "适用于 AMLL Player WS 协议的 Betterncm 插件实现",
+        "requirements": [
+            "InfLinkrs"
+        ],
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/amll-ws-connector.png",
+        "type": "extension",
+        "ncm3-compatible": true,
+        "slug": "amll-ws-connector",
+        "update_time": 1773941774,
+        "publish_time": 1773941774,
+        "repo": "amll-dev/AMLL-WS-Connector",
+        "file": "amll-ws-connector-0.1.0.plugin",
+        "file-url": "plugins/amll-ws-connector-0.1.0.plugin"
+    },
+    {
         "name": "ActionEnhancement",
         "author": "MicroBlock",
         "version": "0.1.9",
@@ -46,7 +65,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 1869,
+        "stars": 1876,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -256,7 +275,7 @@
         "update_time": 1720722045,
         "publish_time": 1703317509,
         "repo": "BetterNCM/DowngradeOK",
-        "stars": 18,
+        "stars": 19,
         "file": "DowngradeOK-0.0.5.plugin",
         "file-url": "plugins/DowngradeOK-0.0.5.plugin"
     },
@@ -335,7 +354,7 @@
         "update_time": 1767101801,
         "publish_time": 1766904936,
         "repo": "Hxjjxg/Furigana-api-fixed",
-        "stars": 6,
+        "stars": 7,
         "file": "FuriganaapifixedJanpaneseFonts-1.1.1.plugin",
         "file-url": "plugins/FuriganaapifixedJanpaneseFonts-1.1.1.plugin"
     },
@@ -407,7 +426,7 @@
         "update_time": 1773384986,
         "publish_time": 1759587316,
         "repo": "apoint123/inflink-rs",
-        "stars": 72,
+        "stars": 75,
         "native": true,
         "file": "InfLinkrs-3.2.11.plugin",
         "file-url": "plugins/InfLinkrs-3.2.11.plugin"
@@ -829,7 +848,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 420,
+        "stars": 421,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -853,7 +872,7 @@
         "update_time": 1771764789,
         "publish_time": 1771764789,
         "repo": "laoshuikaixue/refined-now-playing-netease-enhanced",
-        "stars": 3,
+        "stars": 4,
         "file": "RefinedNowPlaying-Enhanced-0.1.0.plugin",
         "file-url": "plugins/RefinedNowPlaying-Enhanced-0.1.0.plugin"
     },
