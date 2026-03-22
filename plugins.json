@@ -17,7 +17,7 @@
     {
         "name": "AMLL WS Connector",
         "author": "AMLL Dev",
-        "version": "0.1.1",
+        "version": "0.1.2",
         "description": "适用于 AMLL Player WS 协议的 Betterncm 插件实现",
         "requirements": [
             "InfLinkrs"
@@ -27,11 +27,11 @@
         "type": "extension",
         "ncm3-compatible": true,
         "slug": "amll-ws-connector",
-        "update_time": 1773994174,
+        "update_time": 1774169008,
         "publish_time": 1773941774,
         "repo": "amll-dev/AMLL-WS-Connector",
-        "file": "amll-ws-connector-0.1.1.plugin",
-        "file-url": "plugins/amll-ws-connector-0.1.1.plugin"
+        "file": "amll-ws-connector-0.1.2.plugin",
+        "file-url": "plugins/amll-ws-connector-0.1.2.plugin"
     },
     {
         "name": "ActionEnhancement",
@@ -65,7 +65,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 1877,
+        "stars": 1882,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -426,7 +426,7 @@
         "update_time": 1773384986,
         "publish_time": 1759587316,
         "repo": "apoint123/inflink-rs",
-        "stars": 75,
+        "stars": 77,
         "native": true,
         "file": "InfLinkrs-3.2.11.plugin",
         "file-url": "plugins/InfLinkrs-3.2.11.plugin"
@@ -872,7 +872,7 @@
         "update_time": 1771764789,
         "publish_time": 1771764789,
         "repo": "laoshuikaixue/refined-now-playing-netease-enhanced",
-        "stars": 4,
+        "stars": 5,
         "file": "RefinedNowPlaying-Enhanced-0.1.0.plugin",
         "file-url": "plugins/RefinedNowPlaying-Enhanced-0.1.0.plugin"
     },
