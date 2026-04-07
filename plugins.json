@@ -168,23 +168,23 @@
     {
         "name": "BGEnhanced-ExtraII",
         "author": "华",
-        "version": "0.0.1",
-        "description": "BGEnhanced-Extra多一个功能",
+        "version": "0.0.2",
+        "description": "BGEnhanced-Extra多一个计时功能",
         "requirements": [
             "BGEnhanced"
         ],
         "betterncm_version": ">=0.2.5",
-        "preview": "previews/BGEnhanced-ExtraII.png",
+        "preview": "previews/BGEnhanced-ExtraII.webp",
         "author_links": [
             "https://github.com/efghsgt/"
         ],
         "type": "extension",
         "slug": "BGEnhanced-ExtraII",
-        "update_time": 1775548931,
+        "update_time": 1775582990,
         "publish_time": 1775548931,
         "repo": "efghsgt/BGEnhanced-ExtraII",
-        "file": "BGEnhanced-ExtraII-0.0.1.plugin",
-        "file-url": "plugins/BGEnhanced-ExtraII-0.0.1.plugin"
+        "file": "BGEnhanced-ExtraII-0.0.2.plugin",
+        "file-url": "plugins/BGEnhanced-ExtraII-0.0.2.plugin"
     },
     {
         "name": "BeatSaver",
