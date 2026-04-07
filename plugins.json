@@ -30,6 +30,7 @@
         "update_time": 1774169008,
         "publish_time": 1773941774,
         "repo": "amll-dev/AMLL-WS-Connector",
+        "stars": 1,
         "file": "amll-ws-connector-0.1.2.plugin",
         "file-url": "plugins/amll-ws-connector-0.1.2.plugin"
     },
@@ -65,7 +66,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 1882,
+        "stars": 1906,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -163,6 +164,27 @@
         "stars": 3,
         "file": "BGEnhanced-Extra-0.4.0.plugin",
         "file-url": "plugins/BGEnhanced-Extra-0.4.0.plugin"
+    },
+    {
+        "name": "BGEnhanced-ExtraII",
+        "author": "华",
+        "version": "0.0.1",
+        "description": "BGEnhanced-Extra多一个功能",
+        "requirements": [
+            "BGEnhanced"
+        ],
+        "betterncm_version": ">=0.2.5",
+        "preview": "previews/BGEnhanced-ExtraII.png",
+        "author_links": [
+            "https://github.com/efghsgt/"
+        ],
+        "type": "extension",
+        "slug": "BGEnhanced-ExtraII",
+        "update_time": 1775548931,
+        "publish_time": 1775548931,
+        "repo": "efghsgt/BGEnhanced-ExtraII",
+        "file": "BGEnhanced-ExtraII-0.0.1.plugin",
+        "file-url": "plugins/BGEnhanced-ExtraII-0.0.1.plugin"
     },
     {
         "name": "BeatSaver",
@@ -409,7 +431,7 @@
         "update_time": 1755559118,
         "publish_time": 1673372080,
         "repo": "BetterNCM/InfinityLink",
-        "stars": 66,
+        "stars": 64,
         "native": true,
         "file": "InfLink-1.1.1.plugin",
         "file-url": "plugins/InfLink-1.1.1.plugin"
@@ -426,7 +448,7 @@
         "update_time": 1773384986,
         "publish_time": 1759587316,
         "repo": "apoint123/inflink-rs",
-        "stars": 77,
+        "stars": 86,
         "native": true,
         "file": "InfLinkrs-3.2.11.plugin",
         "file-url": "plugins/InfLinkrs-3.2.11.plugin"
@@ -848,7 +870,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 421,
+        "stars": 424,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -872,7 +894,7 @@
         "update_time": 1771764789,
         "publish_time": 1771764789,
         "repo": "laoshuikaixue/refined-now-playing-netease-enhanced",
-        "stars": 5,
+        "stars": 6,
         "file": "RefinedNowPlaying-Enhanced-0.1.0.plugin",
         "file-url": "plugins/RefinedNowPlaying-Enhanced-0.1.0.plugin"
     },
@@ -1062,6 +1084,7 @@
         "update_time": 1770017856,
         "publish_time": 1770017856,
         "repo": "lclty/SimpleCSS",
+        "stars": 1,
         "file": "simple-custom-css-1.0.0.plugin",
         "file-url": "plugins/simple-custom-css-1.0.0.plugin"
     },
@@ -1112,7 +1135,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 138,
+        "stars": 139,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
