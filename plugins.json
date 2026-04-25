@@ -17,7 +17,7 @@
     {
         "name": "AMLL WS Connector",
         "author": "AMLL Dev",
-        "version": "0.1.2",
+        "version": "0.1.4",
         "description": "适用于 AMLL Player WS 协议的 Betterncm 插件实现",
         "requirements": [
             "InfLinkrs"
@@ -27,12 +27,12 @@
         "type": "extension",
         "ncm3-compatible": true,
         "slug": "amll-ws-connector",
-        "update_time": 1774169008,
+        "update_time": 1777132011,
         "publish_time": 1773941774,
         "repo": "amll-dev/AMLL-WS-Connector",
         "stars": 1,
-        "file": "amll-ws-connector-0.1.2.plugin",
-        "file-url": "plugins/amll-ws-connector-0.1.2.plugin"
+        "file": "amll-ws-connector-0.1.4.plugin",
+        "file-url": "plugins/amll-ws-connector-0.1.4.plugin"
     },
     {
         "name": "ActionEnhancement",
@@ -66,7 +66,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 1907,
+        "stars": 1939,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -313,7 +313,7 @@
         "update_time": 1702185167,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
-        "stars": 33,
+        "stars": 32,
         "file": "elaina-theme-1.0.6.plugin",
         "file-url": "plugins/elaina-theme-1.0.6.plugin"
     },
@@ -448,7 +448,7 @@
         "update_time": 1773384986,
         "publish_time": 1759587316,
         "repo": "apoint123/inflink-rs",
-        "stars": 86,
+        "stars": 92,
         "native": true,
         "file": "InfLinkrs-3.2.11.plugin",
         "file-url": "plugins/InfLinkrs-3.2.11.plugin"
@@ -698,7 +698,7 @@
         "update_time": 1684719915,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 123,
+        "stars": 122,
         "file": "MaterialYouTheme-2.9.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.9.0.plugin"
     },
@@ -870,7 +870,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 424,
+        "stars": 426,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -897,6 +897,29 @@
         "stars": 6,
         "file": "RefinedNowPlaying-Enhanced-0.1.0.plugin",
         "file-url": "plugins/RefinedNowPlaying-Enhanced-0.1.0.plugin"
+    },
+    {
+        "name": "RefinedNowPlayingNext",
+        "author": "MiHN,solstice23",
+        "version": "3.0.0",
+        "description": "重新设计的正在播放页面和歌词适配全新网易云音乐",
+        "requirements": [],
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/RefinedNowPlayingNext.webp",
+        "author_links": [
+            "https://github.com/SUlTlUS"
+        ],
+        "type": "extension",
+        "incompatible": [
+            "Apple-Musiclike-lyrics"
+        ],
+        "ncm3-compatible": true,
+        "slug": "RefinedNowPlayingNext",
+        "update_time": 1777131994,
+        "publish_time": 1777131994,
+        "repo": "SUlTlUS/refined-now-playing-netease-next",
+        "file": "RefinedNowPlayingNext-3.0.0.plugin",
+        "file-url": "plugins/RefinedNowPlayingNext-3.0.0.plugin"
     },
     {
         "name": "纯净分享链接",
@@ -1046,7 +1069,7 @@
         "update_time": 1679716271,
         "publish_time": 1678770213,
         "repo": "xy-cloud-cn/search-this-singer",
-        "stars": 3,
+        "stars": 4,
         "file": "search-this-singer-0.0.2.plugin",
         "file-url": "plugins/search-this-singer-0.0.2.plugin"
     },
@@ -1135,7 +1158,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 139,
+        "stars": 140,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
