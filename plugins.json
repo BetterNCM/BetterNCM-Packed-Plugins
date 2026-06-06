@@ -30,7 +30,7 @@
         "update_time": 1777132011,
         "publish_time": 1773941774,
         "repo": "amll-dev/AMLL-WS-Connector",
-        "stars": 1,
+        "stars": 6,
         "file": "amll-ws-connector-0.1.4.plugin",
         "file-url": "plugins/amll-ws-connector-0.1.4.plugin"
     },
@@ -66,7 +66,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 1948,
+        "stars": 1989,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -168,7 +168,7 @@
     {
         "name": "BGEnhanced-ExtraII",
         "author": "华",
-        "version": "0.0.2",
+        "version": "0.0.3",
         "description": "BGEnhanced-Extra多一个计时功能",
         "requirements": [
             "BGEnhanced"
@@ -180,11 +180,11 @@
         ],
         "type": "extension",
         "slug": "BGEnhanced-ExtraII",
-        "update_time": 1775582990,
+        "update_time": 1780767735,
         "publish_time": 1775548931,
         "repo": "efghsgt/BGEnhanced-ExtraII",
-        "file": "BGEnhanced-ExtraII-0.0.2.plugin",
-        "file-url": "plugins/BGEnhanced-ExtraII-0.0.2.plugin"
+        "file": "BGEnhanced-ExtraII-0.0.3.plugin",
+        "file-url": "plugins/BGEnhanced-ExtraII-0.0.3.plugin"
     },
     {
         "name": "BeatSaver",
@@ -297,7 +297,7 @@
         "update_time": 1720722045,
         "publish_time": 1703317509,
         "repo": "BetterNCM/DowngradeOK",
-        "stars": 19,
+        "stars": 20,
         "file": "DowngradeOK-0.0.5.plugin",
         "file-url": "plugins/DowngradeOK-0.0.5.plugin"
     },
@@ -313,7 +313,7 @@
         "update_time": 1702185167,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
-        "stars": 32,
+        "stars": 31,
         "file": "elaina-theme-1.0.6.plugin",
         "file-url": "plugins/elaina-theme-1.0.6.plugin"
     },
@@ -448,7 +448,7 @@
         "update_time": 1773384986,
         "publish_time": 1759587316,
         "repo": "apoint123/inflink-rs",
-        "stars": 96,
+        "stars": 103,
         "native": true,
         "file": "InfLinkrs-3.2.11.plugin",
         "file-url": "plugins/InfLinkrs-3.2.11.plugin"
@@ -470,7 +470,7 @@
         "update_time": 1674485753,
         "publish_time": 1674485753,
         "repo": "BetterNCM/LibEAPIRequest",
-        "stars": 4,
+        "stars": 3,
         "file": "LibEAPIRequest-1.6.2.plugin",
         "file-url": "plugins/LibEAPIRequest-1.6.2.plugin"
     },
@@ -507,7 +507,7 @@
         "update_time": 1674374363,
         "publish_time": 1674374363,
         "repo": "Steve-xmh/LibLyric",
-        "stars": 15,
+        "stars": 14,
         "file": "liblyric-1.0.0.plugin",
         "file-url": "plugins/liblyric-1.0.0.plugin"
     },
@@ -657,7 +657,7 @@
         "update_time": 1737447720,
         "publish_time": 1737180857,
         "repo": "jiangyin14/LyricsIslandBNCM",
-        "stars": 13,
+        "stars": 14,
         "file": "LyricsIsland-1.0.1.plugin",
         "file-url": "plugins/LyricsIsland-1.0.1.plugin"
     },
@@ -676,7 +676,7 @@
         "update_time": 1755559125,
         "publish_time": 1730389647,
         "repo": "etherfun/MHYNotRelease",
-        "stars": 6,
+        "stars": 7,
         "file": "MHYNotRelease-1.3.5.plugin",
         "file-url": "plugins/MHYNotRelease-1.3.5.plugin"
     },
@@ -918,7 +918,7 @@
         "update_time": 1777868114,
         "publish_time": 1777131994,
         "repo": "SUlTlUS/refined-now-playing-netease-next",
-        "stars": 1,
+        "stars": 9,
         "file": "RefinedNowPlayingNext-3.0.1.plugin",
         "file-url": "plugins/RefinedNowPlayingNext-3.0.1.plugin"
     },
@@ -938,7 +938,7 @@
         "update_time": 1708823072,
         "publish_time": 1676985392,
         "repo": "BetterNCM/RemoveTrackingAttribute",
-        "stars": 2,
+        "stars": 3,
         "file": "remove-tracking-attribute-1.0.2.plugin",
         "file-url": "plugins/remove-tracking-attribute-1.0.2.plugin"
     },
@@ -1124,7 +1124,7 @@
         "update_time": 1690268096,
         "publish_time": 1672601649,
         "repo": "BetterNCM/StyleSnippet",
-        "stars": 11,
+        "stars": 10,
         "file": "StyleSnippet-0.2.2.plugin",
         "file-url": "plugins/StyleSnippet-0.2.2.plugin"
     },
@@ -1159,7 +1159,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 142,
+        "stars": 141,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
