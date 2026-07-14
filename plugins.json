@@ -66,7 +66,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 2023,
+        "stars": 2034,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -297,7 +297,7 @@
         "update_time": 1720722045,
         "publish_time": 1703317509,
         "repo": "BetterNCM/DowngradeOK",
-        "stars": 21,
+        "stars": 22,
         "file": "DowngradeOK-0.0.5.plugin",
         "file-url": "plugins/DowngradeOK-0.0.5.plugin"
     },
@@ -448,7 +448,7 @@
         "update_time": 1773384986,
         "publish_time": 1759587316,
         "repo": "apoint123/inflink-rs",
-        "stars": 120,
+        "stars": 122,
         "native": true,
         "file": "InfLinkrs-3.2.11.plugin",
         "file-url": "plugins/InfLinkrs-3.2.11.plugin"
@@ -870,7 +870,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 431,
+        "stars": 434,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -901,7 +901,7 @@
     {
         "name": "RefinedNowPlayingNext",
         "author": "MiHN,solstice23",
-        "version": "3.0.1",
+        "version": "3.0.2",
         "description": "重新设计的正在播放页面和歌词适配全新网易云音乐",
         "requirements": [],
         "betterncm_version": ">=1.0.0",
@@ -915,12 +915,12 @@
         ],
         "ncm3-compatible": true,
         "slug": "RefinedNowPlayingNext",
-        "update_time": 1777868114,
+        "update_time": 1783960466,
         "publish_time": 1777131994,
         "repo": "SUlTlUS/refined-now-playing-netease-next",
-        "stars": 26,
-        "file": "RefinedNowPlayingNext-3.0.1.plugin",
-        "file-url": "plugins/RefinedNowPlayingNext-3.0.1.plugin"
+        "stars": 27,
+        "file": "RefinedNowPlayingNext-3.0.2.plugin",
+        "file-url": "plugins/RefinedNowPlayingNext-3.0.2.plugin"
     },
     {
         "name": "纯净分享链接",
