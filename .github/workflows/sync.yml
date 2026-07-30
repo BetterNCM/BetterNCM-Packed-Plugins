@@ -1,16 +1,22 @@
-
 name: Sync to gitcode
 on:
   push:
     branches: [ "master" ]
   pull_request:
     branches: [ "master" ]
+  workflow_run:
+    workflows: ["Pack Plugins"]
+    types: [completed]
   workflow_dispatch:
+
+concurrency:
+  group: "sync-to-gitcode"
+  cancel-in-progress: true
 
 jobs:
   sync:
     runs-on: ubuntu-latest
-
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
