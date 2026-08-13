@@ -66,7 +66,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 2034,
+        "stars": 2091,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -140,7 +140,7 @@
         "update_time": 1721312122,
         "publish_time": 1670425948,
         "repo": "BetterNCM/BGEnhanced",
-        "stars": 23,
+        "stars": 24,
         "file": "BGEnhanced-0.3.8.plugin",
         "file-url": "plugins/BGEnhanced-0.3.8.plugin"
     },
@@ -431,7 +431,7 @@
         "update_time": 1755559118,
         "publish_time": 1673372080,
         "repo": "BetterNCM/InfinityLink",
-        "stars": 64,
+        "stars": 63,
         "native": true,
         "file": "InfLink-1.1.1.plugin",
         "file-url": "plugins/InfLink-1.1.1.plugin"
@@ -448,7 +448,7 @@
         "update_time": 1773384986,
         "publish_time": 1759587316,
         "repo": "apoint123/inflink-rs",
-        "stars": 122,
+        "stars": 132,
         "native": true,
         "file": "InfLinkrs-3.2.11.plugin",
         "file-url": "plugins/InfLinkrs-3.2.11.plugin"
@@ -698,7 +698,7 @@
         "update_time": 1684719915,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 121,
+        "stars": 119,
         "file": "MaterialYouTheme-2.9.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.9.0.plugin"
     },
@@ -825,6 +825,26 @@
         "file-url": "plugins/PluginMarket.plugin"
     },
     {
+        "name": "RNP Video Background",
+        "author": "wmgqdavid",
+        "version": "0.2.2",
+        "description": "为 RefinedNowPlaying Next 提供本地视频背景、可选声音及自动兼容转换。",
+        "requirements": [
+            "RefinedNowPlayingNext"
+        ],
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/rnp-video-background.svg",
+        "type": "extension",
+        "ncm3-compatible": true,
+        "slug": "rnp-video-background",
+        "update_time": 1786594221,
+        "publish_time": 1786594221,
+        "repo": "wmgqdavid/BetterNCM-RNP-Video-Background",
+        "stars": 1,
+        "file": "rnp-video-background-0.2.2.plugin",
+        "file-url": "plugins/rnp-video-background-0.2.2.plugin"
+    },
+    {
         "name": "ReLive",
         "author": "Flysoft",
         "version": "0.6.0",
@@ -870,7 +890,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 434,
+        "stars": 436,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -894,7 +914,7 @@
         "update_time": 1771764789,
         "publish_time": 1771764789,
         "repo": "laoshuikaixue/refined-now-playing-netease-enhanced",
-        "stars": 6,
+        "stars": 7,
         "file": "RefinedNowPlaying-Enhanced-0.1.0.plugin",
         "file-url": "plugins/RefinedNowPlaying-Enhanced-0.1.0.plugin"
     },
@@ -918,7 +938,7 @@
         "update_time": 1783960466,
         "publish_time": 1777131994,
         "repo": "SUlTlUS/refined-now-playing-netease-next",
-        "stars": 27,
+        "stars": 31,
         "file": "RefinedNowPlayingNext-3.0.2.plugin",
         "file-url": "plugins/RefinedNowPlayingNext-3.0.2.plugin"
     },
@@ -990,7 +1010,7 @@
         "update_time": 1755559135,
         "publish_time": 1672515583,
         "repo": "BetterNCM/RoundCornerNCM",
-        "stars": 6,
+        "stars": 7,
         "require_restart": true,
         "file": "RoundCornerNCM-0.1.4.plugin",
         "file-url": "plugins/RoundCornerNCM-0.1.4.plugin"
@@ -1159,7 +1179,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 146,
+        "stars": 147,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
