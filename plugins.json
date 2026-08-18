@@ -66,7 +66,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 2092,
+        "stars": 2097,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -313,7 +313,7 @@
         "update_time": 1702185167,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
-        "stars": 31,
+        "stars": 32,
         "file": "elaina-theme-1.0.6.plugin",
         "file-url": "plugins/elaina-theme-1.0.6.plugin"
     },
@@ -368,17 +368,17 @@
     {
         "name": "Furigana-api-fixed(JanpaneseFonts)",
         "author": "Hxjjxg",
-        "version": "1.1.2",
+        "version": "1.1.3",
         "description": "替换日文歌字体为日文字体，日语汉字振假名(api-fixed)",
         "betterncm_version": ">=1.0.0",
         "ncm3-compatible": true,
         "slug": "FuriganaapifixedJanpaneseFonts",
-        "update_time": 1783243287,
+        "update_time": 1787041170,
         "publish_time": 1766904936,
         "repo": "Hxjjxg/Furigana-api-fixed",
         "stars": 7,
-        "file": "FuriganaapifixedJanpaneseFonts-1.1.2.plugin",
-        "file-url": "plugins/FuriganaapifixedJanpaneseFonts-1.1.2.plugin"
+        "file": "FuriganaapifixedJanpaneseFonts-1.1.3.plugin",
+        "file-url": "plugins/FuriganaapifixedJanpaneseFonts-1.1.3.plugin"
     },
     {
         "name": "GPT Trans",
@@ -448,7 +448,7 @@
         "update_time": 1773384986,
         "publish_time": 1759587316,
         "repo": "apoint123/inflink-rs",
-        "stars": 132,
+        "stars": 137,
         "native": true,
         "file": "InfLinkrs-3.2.11.plugin",
         "file-url": "plugins/InfLinkrs-3.2.11.plugin"
@@ -698,7 +698,7 @@
         "update_time": 1684719915,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 119,
+        "stars": 120,
         "file": "MaterialYouTheme-2.9.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.9.0.plugin"
     },
@@ -890,7 +890,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 436,
+        "stars": 437,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -938,7 +938,7 @@
         "update_time": 1783960466,
         "publish_time": 1777131994,
         "repo": "SUlTlUS/refined-now-playing-netease-next",
-        "stars": 32,
+        "stars": 33,
         "file": "RefinedNowPlayingNext-3.0.2.plugin",
         "file-url": "plugins/RefinedNowPlayingNext-3.0.2.plugin"
     },
@@ -1179,7 +1179,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 147,
+        "stars": 149,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
@@ -1337,6 +1337,23 @@
         "stars": 2,
         "file": "ZoomNCM-0.2.0.plugin",
         "file-url": "plugins/ZoomNCM-0.2.0.plugin"
+    },
+    {
+        "name": "日语歌词振假名",
+        "author": "leleawa",
+        "version": "0.1.0",
+        "description": "在日语歌词的汉字上方标注振假名 (平假名 / 片假名). 读音优先取网易云的官方音译, 没有音译时用内置的 kuromoji + IPADIC 词典",
+        "requirements": [],
+        "betterncm_version": ">=1.3.0",
+        "preview": "previews/jp-furigana.jpg",
+        "type": "extension",
+        "ncm3-compatible": true,
+        "slug": "jp-furigana",
+        "update_time": 1787041152,
+        "publish_time": 1787041152,
+        "repo": "Leleawa/jp-furigana",
+        "file": "jp-furigana-0.1.0.plugin",
+        "file-url": "plugins/jp-furigana-0.1.0.plugin"
     },
     {
         "name": "←→0123456789JL+-,.↑↓FO",
