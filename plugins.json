@@ -698,7 +698,7 @@
         "update_time": 1684719915,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 120,
+        "stars": 121,
         "file": "MaterialYouTheme-2.9.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.9.0.plugin"
     },
@@ -1352,6 +1352,7 @@
         "update_time": 1787041152,
         "publish_time": 1787041152,
         "repo": "Leleawa/jp-furigana",
+        "stars": 1,
         "file": "jp-furigana-0.1.0.plugin",
         "file-url": "plugins/jp-furigana-0.1.0.plugin"
     },
