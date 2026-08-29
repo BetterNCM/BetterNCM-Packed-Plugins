@@ -10,7 +10,7 @@
         "update_time": 1734880541,
         "publish_time": 1733491666,
         "repo": "lgc2333/BetterNCM-6K-Labs",
-        "stars": 9,
+        "stars": 10,
         "file": "6k-labs-0.2.0.plugin",
         "file-url": "plugins/6k-labs-0.2.0.plugin"
     },
@@ -66,7 +66,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 2097,
+        "stars": 2,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -124,7 +124,7 @@
         "update_time": 1723713399,
         "publish_time": 1722263781,
         "repo": "thy646742/ArtistAllSongs",
-        "stars": 4,
+        "stars": 5,
         "file": "artist-all-songs-0.2.0.plugin",
         "file-url": "plugins/artist-all-songs-0.2.0.plugin"
     },
@@ -140,7 +140,7 @@
         "update_time": 1721312122,
         "publish_time": 1670425948,
         "repo": "BetterNCM/BGEnhanced",
-        "stars": 24,
+        "stars": 25,
         "file": "BGEnhanced-0.3.8.plugin",
         "file-url": "plugins/BGEnhanced-0.3.8.plugin"
     },
@@ -286,6 +286,27 @@
         "file-url": "plugins/Customize-0.3.2.plugin"
     },
     {
+        "name": "Deepseek Trans",
+        "author": "Mascot_N, solstice23",
+        "version": "0.5.0",
+        "description": "使用 Deepseek 翻译歌词，复刻自https://github.com/solstice23",
+        "requirements": [
+            "RefinedNowPlaying"
+        ],
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/DSTrans.png",
+        "author_links": [
+            "https://github.com/Mascot-N"
+        ],
+        "type": "extension",
+        "slug": "DSTrans",
+        "update_time": 1787983208,
+        "publish_time": 1787983208,
+        "repo": "Mascot-N/deepseek-trans-netease",
+        "file": "DSTrans-0.5.0.plugin",
+        "file-url": "plugins/DSTrans-0.5.0.plugin"
+    },
+    {
         "name": "DowngradeOK",
         "author": "MicroBlock",
         "version": "0.0.5",
@@ -346,7 +367,7 @@
         "update_time": 1682354039,
         "publish_time": 1673458219,
         "repo": "BetterNCM/FluentProgessBar",
-        "stars": 7,
+        "stars": 6,
         "file": "FluentProgressBar-1.0.3.plugin",
         "file-url": "plugins/FluentProgressBar-1.0.3.plugin"
     },
@@ -398,7 +419,7 @@
         "update_time": 1681578714,
         "publish_time": 1678367766,
         "repo": "solstice23/gpt-trans-netease",
-        "stars": 9,
+        "stars": 10,
         "file": "GPTTrans-0.4.1.plugin",
         "file-url": "plugins/GPTTrans-0.4.1.plugin"
     },
@@ -431,7 +452,7 @@
         "update_time": 1755559118,
         "publish_time": 1673372080,
         "repo": "BetterNCM/InfinityLink",
-        "stars": 63,
+        "stars": 64,
         "native": true,
         "file": "InfLink-1.1.1.plugin",
         "file-url": "plugins/InfLink-1.1.1.plugin"
@@ -448,7 +469,7 @@
         "update_time": 1773384986,
         "publish_time": 1759587316,
         "repo": "apoint123/inflink-rs",
-        "stars": 137,
+        "stars": 141,
         "native": true,
         "file": "InfLinkrs-3.2.11.plugin",
         "file-url": "plugins/InfLinkrs-3.2.11.plugin"
@@ -613,7 +634,7 @@
         "update_time": 1682745175,
         "publish_time": 1677935011,
         "repo": "solstice23/lyric-bar-netease",
-        "stars": 20,
+        "stars": 21,
         "file": "LyricBar-0.3.6.plugin",
         "file-url": "plugins/LyricBar-0.3.6.plugin"
     },
@@ -698,7 +719,7 @@
         "update_time": 1684719915,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 121,
+        "stars": 120,
         "file": "MaterialYouTheme-2.9.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.9.0.plugin"
     },
@@ -890,7 +911,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 437,
+        "stars": 436,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -938,7 +959,7 @@
         "update_time": 1783960466,
         "publish_time": 1777131994,
         "repo": "SUlTlUS/refined-now-playing-netease-next",
-        "stars": 33,
+        "stars": 38,
         "file": "RefinedNowPlayingNext-3.0.2.plugin",
         "file-url": "plugins/RefinedNowPlayingNext-3.0.2.plugin"
     },
@@ -1305,13 +1326,13 @@
     },
     {
         "name": "What's The Volume Percentage Now?",
-        "author": "student_2333",
+        "author": "LgCuwukii",
         "version": "0.1.0",
         "description": "鼠标悬浮在音量图标上会显示当前音量",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/what-is-the-volume-percentage-now.png",
         "slug": "what-is-the-volume-percentage-now",
-        "update_time": 1733576637,
+        "update_time": 1787863485,
         "publish_time": 1733576637,
         "repo": "lgc2333/BetterNCM-What-Is-The-Volume-Percentage-Now",
         "stars": 1,
