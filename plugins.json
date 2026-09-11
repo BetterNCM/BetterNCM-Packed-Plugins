@@ -474,7 +474,7 @@
         "update_time": 1773384986,
         "publish_time": 1759587316,
         "repo": "apoint123/inflink-rs",
-        "stars": 142,
+        "stars": 143,
         "native": true,
         "file": "InfLinkrs-3.2.11.plugin",
         "file-url": "plugins/InfLinkrs-3.2.11.plugin"
@@ -1386,20 +1386,20 @@
     {
         "name": "日语歌词振假名",
         "author": "leleawa",
-        "version": "0.1.1",
-        "description": "在日语歌词的汉字上方标注振假名 (平假名 / 片假名). 读音优先取网易云的官方音译, 没有音译时用内置的 kuromoji + IPADIC 词典",
+        "version": "1.0.0",
+        "description": "在日语歌词的汉字上方标注振假名 (平假名 / 片假名)",
         "requirements": [],
         "betterncm_version": ">=1.3.0",
         "preview": "previews/jp-furigana.jpg",
         "type": "extension",
         "ncm3-compatible": true,
         "slug": "jp-furigana",
-        "update_time": 1788886484,
+        "update_time": 1789037345,
         "publish_time": 1787041152,
         "repo": "Leleawa/jp-furigana",
         "stars": 2,
-        "file": "jp-furigana-0.1.1.plugin",
-        "file-url": "plugins/jp-furigana-0.1.1.plugin"
+        "file": "jp-furigana-1.0.0.plugin",
+        "file-url": "plugins/jp-furigana-1.0.0.plugin"
     },
     {
         "name": "←→0123456789JL+-,.↑↓FO",
