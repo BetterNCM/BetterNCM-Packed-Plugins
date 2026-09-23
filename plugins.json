@@ -425,6 +425,25 @@
         "file-url": "plugins/FluentProgressBar-1.0.3.plugin"
     },
     {
+        "name": "FluentProgressBar (优化版)",
+        "author": "MicroBlock & Solstice23, Indor",
+        "version": "1.0.4",
+        "description": "让你的进度条更顺滑！(优化版)",
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/FluentProgressBar-Optimized.png",
+        "author_links": [
+            "https://github.com/In-dor/FluentProgessBar"
+        ],
+        "type": "extension",
+        "ncm3-compatible": true,
+        "slug": "FluentProgressBar-Optimized",
+        "update_time": 1790167701,
+        "publish_time": 1790167701,
+        "repo": "In-dor/FluentProgessBar",
+        "file": "FluentProgressBar-Optimized-1.0.4.plugin",
+        "file-url": "plugins/FluentProgressBar-Optimized-1.0.4.plugin"
+    },
+    {
         "name": "JapaneseFonts",
         "author": "Mutton_String",
         "version": "1.0.3",
