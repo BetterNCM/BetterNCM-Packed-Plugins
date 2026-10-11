@@ -67,7 +67,7 @@
         "update_time": 1790167690,
         "publish_time": 1790167690,
         "repo": "FinaFina233/AdvancedPlayBar",
-        "stars": 4,
+        "stars": 6,
         "file": "advanced-playbar-1.1.0.plugin",
         "file-url": "plugins/advanced-playbar-1.1.0.plugin"
     },
@@ -88,7 +88,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 5,
+        "stars": 7,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -256,7 +256,7 @@
         "update_time": 1790167611,
         "publish_time": 1790167611,
         "repo": "xiaoming6680/BetterDownload",
-        "stars": 11,
+        "stars": 16,
         "require_restart": true,
         "file": "ncm-better-download-0.4.1.plugin",
         "file-url": "plugins/ncm-better-download-0.4.1.plugin"
@@ -471,7 +471,7 @@
         "update_time": 1787041170,
         "publish_time": 1766904936,
         "repo": "Hxjjxg/Furigana-api-fixed",
-        "stars": 7,
+        "stars": 6,
         "file": "FuriganaapifixedJanpaneseFonts-1.1.3.plugin",
         "file-url": "plugins/FuriganaapifixedJanpaneseFonts-1.1.3.plugin"
     },
@@ -543,7 +543,7 @@
         "update_time": 1773384986,
         "publish_time": 1759587316,
         "repo": "apoint123/inflink-rs",
-        "stars": 147,
+        "stars": 149,
         "native": true,
         "file": "InfLinkrs-3.2.11.plugin",
         "file-url": "plugins/InfLinkrs-3.2.11.plugin"
@@ -813,7 +813,7 @@
         "update_time": 1790711362,
         "publish_time": 1788886429,
         "repo": "long45343/material-you-theme-NCMv3",
-        "stars": 2,
+        "stars": 4,
         "file": "material-u-theme-ncmv3-v1.0.4.plugin",
         "file-url": "plugins/material-u-theme-ncmv3-v1.0.4.plugin"
     },
@@ -872,6 +872,26 @@
         "publish_time": 1670425948,
         "file": "MoreHooks-0.1.0.plugin",
         "file-url": "plugins/MoreHooks-0.1.0.plugin"
+    },
+    {
+        "name": "OBS 直播套件",
+        "author": "LilycleHeart",
+        "version": "1.4.1",
+        "description": "把网易云歌曲信息、发光封面和逐字歌词带进 OBS。统一 Material You 动态配色，支持切歌过渡与独立圆角；需要 Node.js 20+。",
+        "requirements": [
+            "RefinedNowPlaying",
+            "MaterialYouTheme"
+        ],
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/OBSPlaybackSuite.png",
+        "type": "extension",
+        "slug": "OBSPlaybackSuite",
+        "update_time": 1791502819,
+        "publish_time": 1791502819,
+        "repo": "LilycleHeart/OBSStreamSuite",
+        "require_restart": true,
+        "file": "OBSPlaybackSuite-1.4.1.plugin",
+        "file-url": "plugins/OBSPlaybackSuite-1.4.1.plugin"
     },
     {
         "name": "PiPWindow",
@@ -1005,7 +1025,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 441,
+        "stars": 442,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
@@ -1053,7 +1073,7 @@
         "update_time": 1783960466,
         "publish_time": 1777131994,
         "repo": "SUlTlUS/refined-now-playing-netease-next",
-        "stars": 42,
+        "stars": 43,
         "file": "RefinedNowPlayingNext-3.0.2.plugin",
         "file-url": "plugins/RefinedNowPlayingNext-3.0.2.plugin"
     },
@@ -1294,7 +1314,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 150,
+        "stars": 151,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
@@ -1467,7 +1487,7 @@
         "update_time": 1790085470,
         "publish_time": 1787041152,
         "repo": "Leleawa/jp-furigana",
-        "stars": 5,
+        "stars": 6,
         "file": "jp-furigana-1.0.2.plugin",
         "file-url": "plugins/jp-furigana-1.0.2.plugin"
     },
@@ -1506,5 +1526,26 @@
         "publish_time": 1670425948,
         "file": "Microrange-0.1.0.plugin",
         "file-url": "plugins/Microrange-0.1.0.plugin"
+    },
+    {
+        "name": "yySync-NCM",
+        "author": "Yanxxxi",
+        "version": "0.2.4",
+        "description": "将网易云音乐的歌曲、歌手和播放进度同步到 Steam 好友状态。支持自定义前缀、暂停显示与重启自动登录，需要 SMTC 协议支持插件（提供 InfLinkApi）。",
+        "requirements": [
+            "InfLinkrs"
+        ],
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/yySyncNCM.png",
+        "type": "extension",
+        "ncm3-compatible": true,
+        "slug": "yySyncNCM",
+        "update_time": 1791415766,
+        "publish_time": 1791415766,
+        "repo": "Yanxxxi/yySync-NCM",
+        "native": true,
+        "require_restart": true,
+        "file": "yySyncNCM-0.2.4.plugin",
+        "file-url": "plugins/yySyncNCM-0.2.4.plugin"
     }
 ]
