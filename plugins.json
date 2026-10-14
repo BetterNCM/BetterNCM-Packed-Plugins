@@ -256,7 +256,7 @@
         "update_time": 1790167611,
         "publish_time": 1790167611,
         "repo": "xiaoming6680/BetterDownload",
-        "stars": 17,
+        "stars": 18,
         "require_restart": true,
         "file": "ncm-better-download-0.4.1.plugin",
         "file-url": "plugins/ncm-better-download-0.4.1.plugin"
@@ -498,6 +498,26 @@
         "file-url": "plugins/GPTTrans-0.4.1.plugin"
     },
     {
+        "name": "HideLyric",
+        "author": "Lzhyrifx",
+        "version": "1.1.1",
+        "description": "自动隐藏网易云无意义桌面歌词(如纯音乐请欣赏,暂无歌词等)以及暂停歌曲时自动隐藏桌面歌词",
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/HideLyric.png",
+        "author_links": [
+            "https://github.com/Lzhyrifx"
+        ],
+        "type": "extension",
+        "ncm3-compatible": true,
+        "slug": "HideLyric",
+        "update_time": 1791981252,
+        "publish_time": 1791981252,
+        "repo": "Lzhyrifx/HideLyric",
+        "stars": 1,
+        "file": "HideLyric-1.1.1.plugin",
+        "file-url": "plugins/HideLyric-1.1.1.plugin"
+    },
+    {
         "name": "HideScrollbar",
         "author": "Zinc",
         "version": "2.0.2",
@@ -543,7 +563,7 @@
         "update_time": 1773384986,
         "publish_time": 1759587316,
         "repo": "apoint123/inflink-rs",
-        "stars": 149,
+        "stars": 151,
         "native": true,
         "file": "InfLinkrs-3.2.11.plugin",
         "file-url": "plugins/InfLinkrs-3.2.11.plugin"
@@ -813,7 +833,7 @@
         "update_time": 1790711362,
         "publish_time": 1788886429,
         "repo": "long45343/material-you-theme-NCMv3",
-        "stars": 5,
+        "stars": 6,
         "file": "material-u-theme-ncmv3-v1.0.4.plugin",
         "file-url": "plugins/material-u-theme-ncmv3-v1.0.4.plugin"
     },
@@ -889,6 +909,7 @@
         "update_time": 1791502819,
         "publish_time": 1791502819,
         "repo": "LilycleHeart/OBSStreamSuite",
+        "stars": 1,
         "require_restart": true,
         "file": "OBSPlaybackSuite-1.4.1.plugin",
         "file-url": "plugins/OBSPlaybackSuite-1.4.1.plugin"
@@ -911,7 +932,7 @@
         "update_time": 1755559130,
         "publish_time": 1724948445,
         "repo": "Lukoning/PiPWindow",
-        "stars": 18,
+        "stars": 19,
         "file": "PiPWindow-0.5.5.plugin",
         "file-url": "plugins/PiPWindow-0.5.5.plugin"
     },
@@ -1073,7 +1094,7 @@
         "update_time": 1783960466,
         "publish_time": 1777131994,
         "repo": "SUlTlUS/refined-now-playing-netease-next",
-        "stars": 43,
+        "stars": 44,
         "file": "RefinedNowPlayingNext-3.0.2.plugin",
         "file-url": "plugins/RefinedNowPlayingNext-3.0.2.plugin"
     },
@@ -1130,7 +1151,7 @@
         "update_time": 1687526656,
         "publish_time": 1682782235,
         "repo": "ReviveUnblockNCMInstaller/RevivedSource",
-        "stars": 16,
+        "stars": 15,
         "file": "RevivedSource-0.1.1.plugin",
         "file-url": "plugins/RevivedSource-0.1.1.plugin"
     },
@@ -1314,7 +1335,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 151,
+        "stars": 153,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
