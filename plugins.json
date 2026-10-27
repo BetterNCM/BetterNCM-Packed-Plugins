@@ -57,19 +57,19 @@
     {
         "name": "AdvancedPlayBar",
         "author": "Fina",
-        "version": "1.1.0",
+        "version": "1.3.0",
         "description": "播放栏增强：透明/毛玻璃播放栏，进度条悬停动效，全局主题色自定义。",
         "betterncm_version": ">=1.3.4",
         "preview": "previews/advanced-playbar.jpg",
         "type": "extension",
         "ncm3-compatible": true,
         "slug": "advanced-playbar",
-        "update_time": 1790167690,
+        "update_time": 1793032479,
         "publish_time": 1790167690,
         "repo": "FinaFina233/AdvancedPlayBar",
         "stars": 7,
-        "file": "advanced-playbar-1.1.0.plugin",
-        "file-url": "plugins/advanced-playbar-1.1.0.plugin"
+        "file": "advanced-playbar-1.3.0.plugin",
+        "file-url": "plugins/advanced-playbar-1.3.0.plugin"
     },
     {
         "name": "类苹果歌词",
@@ -88,7 +88,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 8,
+        "stars": 9,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -256,7 +256,7 @@
         "update_time": 1790167611,
         "publish_time": 1790167611,
         "repo": "xiaoming6680/BetterDownload",
-        "stars": 18,
+        "stars": 22,
         "require_restart": true,
         "file": "ncm-better-download-0.4.1.plugin",
         "file-url": "plugins/ncm-better-download-0.4.1.plugin"
@@ -389,7 +389,7 @@
         "update_time": 1702185167,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
-        "stars": 33,
+        "stars": 34,
         "file": "elaina-theme-1.0.6.plugin",
         "file-url": "plugins/elaina-theme-1.0.6.plugin"
     },
@@ -563,7 +563,7 @@
         "update_time": 1773384986,
         "publish_time": 1759587316,
         "repo": "apoint123/inflink-rs",
-        "stars": 151,
+        "stars": 160,
         "native": true,
         "file": "InfLinkrs-3.2.11.plugin",
         "file-url": "plugins/InfLinkrs-3.2.11.plugin"
@@ -599,7 +599,7 @@
         "update_time": 1680277444,
         "publish_time": 1673713536,
         "repo": "BetterNCM/LibFrontendPlay",
-        "stars": 9,
+        "stars": 8,
         "file": "LibFrontendPlay-1.1.0.plugin",
         "file-url": "plugins/LibFrontendPlay-1.1.0.plugin"
     },
@@ -813,7 +813,7 @@
         "update_time": 1684719915,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 119,
+        "stars": 120,
         "file": "MaterialYouTheme-2.9.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.9.0.plugin"
     },
@@ -876,7 +876,7 @@
         "update_time": 1679160831,
         "publish_time": 1670425948,
         "repo": "mo-jinran/MoTheme",
-        "stars": 24,
+        "stars": 25,
         "file": "MoTheme-1.2.3.plugin",
         "file-url": "plugins/MoTheme-1.2.3.plugin"
     },
@@ -909,7 +909,7 @@
         "update_time": 1791502819,
         "publish_time": 1791502819,
         "repo": "LilycleHeart/OBSStreamSuite",
-        "stars": 1,
+        "stars": 2,
         "require_restart": true,
         "file": "OBSPlaybackSuite-1.4.1.plugin",
         "file-url": "plugins/OBSPlaybackSuite-1.4.1.plugin"
@@ -1094,7 +1094,7 @@
         "update_time": 1783960466,
         "publish_time": 1777131994,
         "repo": "SUlTlUS/refined-now-playing-netease-next",
-        "stars": 44,
+        "stars": 43,
         "file": "RefinedNowPlayingNext-3.0.2.plugin",
         "file-url": "plugins/RefinedNowPlayingNext-3.0.2.plugin"
     },
@@ -1335,7 +1335,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 153,
+        "stars": 156,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
@@ -1508,7 +1508,7 @@
         "update_time": 1790085470,
         "publish_time": 1787041152,
         "repo": "Leleawa/jp-furigana",
-        "stars": 6,
+        "stars": 8,
         "file": "jp-furigana-1.0.2.plugin",
         "file-url": "plugins/jp-furigana-1.0.2.plugin"
     },
@@ -1564,6 +1564,7 @@
         "update_time": 1791415766,
         "publish_time": 1791415766,
         "repo": "Yanxxxi/yySync-NCM",
+        "stars": 3,
         "native": true,
         "require_restart": true,
         "file": "yySyncNCM-0.2.4.plugin",
