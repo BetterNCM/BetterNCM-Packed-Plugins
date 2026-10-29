@@ -14,7 +14,7 @@
         "update_time": 1787983194,
         "publish_time": 1733491666,
         "repo": "lgc2333/BetterNCM-6K-Labs",
-        "stars": 12,
+        "stars": 13,
         "native": true,
         "file": "6k-labs-1.1.1.plugin",
         "file-url": "plugins/6k-labs-1.1.1.plugin"
@@ -88,7 +88,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 9,
+        "stars": 10,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -246,20 +246,20 @@
     {
         "name": "BetterDownload",
         "author": "XIAOMING6680",
-        "version": "0.4.1",
-        "description": "自动解锁下载的 VIP 歌曲，保留原音质，内嵌封面与歌曲信息。",
-        "betterncm_version": ">=1.3.4",
+        "version": "0.7.0",
+        "description": "自动解锁下载的 VIP 歌曲，保留原音质，内嵌封面与歌曲信息，可选写入歌词。",
+        "betterncm_version": ">=1.3.3",
         "preview": "previews/ncm-better-download.jpg",
         "type": "extension",
         "ncm3-compatible": true,
         "slug": "ncm-better-download",
-        "update_time": 1790167611,
+        "update_time": 1790870649,
         "publish_time": 1790167611,
         "repo": "xiaoming6680/BetterDownload",
         "stars": 22,
         "require_restart": true,
-        "file": "ncm-better-download-0.4.1.plugin",
-        "file-url": "plugins/ncm-better-download-0.4.1.plugin"
+        "file": "ncm-better-download-0.7.0.plugin",
+        "file-url": "plugins/ncm-better-download-0.7.0.plugin"
     },
     {
         "name": "CppLyrics ⚠ 开发中 ⚠",
@@ -546,7 +546,7 @@
         "update_time": 1755559118,
         "publish_time": 1673372080,
         "repo": "BetterNCM/InfinityLink",
-        "stars": 64,
+        "stars": 63,
         "native": true,
         "file": "InfLink-1.1.1.plugin",
         "file-url": "plugins/InfLink-1.1.1.plugin"
@@ -554,19 +554,19 @@
     {
         "name": "InfLink-rs",
         "author": "apoint123",
-        "version": "3.2.11",
+        "version": "3.4.0",
         "description": "SMTC 支持，使用 Rust 实现",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/InfLinkrs.png",
         "ncm3-compatible": true,
         "slug": "InfLinkrs",
-        "update_time": 1773384986,
+        "update_time": 1791726573,
         "publish_time": 1759587316,
         "repo": "apoint123/inflink-rs",
-        "stars": 160,
+        "stars": 159,
         "native": true,
-        "file": "InfLinkrs-3.2.11.plugin",
-        "file-url": "plugins/InfLinkrs-3.2.11.plugin"
+        "file": "InfLinkrs-3.4.0.plugin",
+        "file-url": "plugins/InfLinkrs-3.4.0.plugin"
     },
     {
         "name": "LibEAPIRequest",
@@ -820,7 +820,7 @@
     {
         "name": "Material You Theme (NCM v3)",
         "author": "long45343",
-        "version": "v1.0.4",
+        "version": "v1.0.6",
         "description": "Material You 主题 (网易云音乐 3.x 适配版) | 动态取色 | 支持切换配色 | 仅在 3.1.39 测试",
         "betterncm_version": ">=1.3.4",
         "preview": "previews/material-u-theme-ncmv3.jpg",
@@ -830,12 +830,12 @@
         "type": "theme",
         "ncm3-compatible": true,
         "slug": "material-u-theme-ncmv3",
-        "update_time": 1790711362,
+        "update_time": 1791800561,
         "publish_time": 1788886429,
         "repo": "long45343/material-you-theme-NCMv3",
         "stars": 6,
-        "file": "material-u-theme-ncmv3-v1.0.4.plugin",
-        "file-url": "plugins/material-u-theme-ncmv3-v1.0.4.plugin"
+        "file": "material-u-theme-ncmv3-v1.0.6.plugin",
+        "file-url": "plugins/material-u-theme-ncmv3-v1.0.6.plugin"
     },
     {
         "name": "MikuPlugin",
@@ -917,8 +917,8 @@
     {
         "name": "PiPWindow",
         "author": "Lukoning",
-        "version": "0.5.5",
-        "description": "一个纯JavaScript实现的歌曲信息小窗",
+        "version": "0.6.2",
+        "description": "一个通过JavaScript实现的歌曲信息小窗",
         "requirements": [
             "liblyric"
         ],
@@ -929,12 +929,12 @@
         ],
         "type": "extension",
         "slug": "PiPWindow",
-        "update_time": 1755559130,
+        "update_time": 1792792401,
         "publish_time": 1724948445,
         "repo": "Lukoning/PiPWindow",
         "stars": 19,
-        "file": "PiPWindow-0.5.5.plugin",
-        "file-url": "plugins/PiPWindow-0.5.5.plugin"
+        "file": "PiPWindow-0.6.2.plugin",
+        "file-url": "plugins/PiPWindow-0.6.2.plugin"
     },
     {
         "name": "Play with Bilibili MV",
@@ -1094,7 +1094,7 @@
         "update_time": 1783960466,
         "publish_time": 1777131994,
         "repo": "SUlTlUS/refined-now-playing-netease-next",
-        "stars": 44,
+        "stars": 46,
         "file": "RefinedNowPlayingNext-3.0.2.plugin",
         "file-url": "plugins/RefinedNowPlayingNext-3.0.2.plugin"
     },
@@ -1497,7 +1497,7 @@
     {
         "name": "日语歌词振假名",
         "author": "leleawa",
-        "version": "1.0.2",
+        "version": "1.1.0",
         "description": "在日语歌词的汉字上方标注振假名 (平假名 / 片假名)",
         "requirements": [],
         "betterncm_version": ">=1.3.0",
@@ -1505,12 +1505,12 @@
         "type": "extension",
         "ncm3-compatible": true,
         "slug": "jp-furigana",
-        "update_time": 1790085470,
+        "update_time": 1790426573,
         "publish_time": 1787041152,
         "repo": "Leleawa/jp-furigana",
         "stars": 8,
-        "file": "jp-furigana-1.0.2.plugin",
-        "file-url": "plugins/jp-furigana-1.0.2.plugin"
+        "file": "jp-furigana-1.1.0.plugin",
+        "file-url": "plugins/jp-furigana-1.1.0.plugin"
     },
     {
         "name": "←→0123456789JL+-,.↑↓FO",
@@ -1564,7 +1564,7 @@
         "update_time": 1791415766,
         "publish_time": 1791415766,
         "repo": "Yanxxxi/yySync-NCM",
-        "stars": 3,
+        "stars": 4,
         "native": true,
         "require_restart": true,
         "file": "yySyncNCM-0.2.4.plugin",
