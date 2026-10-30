@@ -563,7 +563,7 @@
         "update_time": 1791726573,
         "publish_time": 1759587316,
         "repo": "apoint123/inflink-rs",
-        "stars": 159,
+        "stars": 160,
         "native": true,
         "file": "InfLinkrs-3.4.0.plugin",
         "file-url": "plugins/InfLinkrs-3.4.0.plugin"
@@ -1515,7 +1515,7 @@
     {
         "name": "日语歌词振假名 Plus",
         "author": "CarrotLouis（基于 leleawa/jp-furigana）",
-        "version": "1.5.1",
+        "version": "1.5.2",
         "description": "日语歌词振假名：网易云音译、离线词典、外部网站；支持人工纠音、本地歌词管理与代理",
         "requirements": [
             "RefinedNowPlayingNext"
@@ -1525,13 +1525,13 @@
         "type": "extension",
         "ncm3-compatible": true,
         "slug": "jp-furigana-plus",
-        "update_time": 1793288727,
+        "update_time": 1793309718,
         "publish_time": 1793288727,
         "repo": "CarrotLouis/jp-furigana",
         "stars": 1,
         "require_restart": true,
-        "file": "jp-furigana-plus-1.5.1.plugin",
-        "file-url": "plugins/jp-furigana-plus-1.5.1.plugin"
+        "file": "jp-furigana-plus-1.5.2.plugin",
+        "file-url": "plugins/jp-furigana-plus-1.5.2.plugin"
     },
     {
         "name": "←→0123456789JL+-,.↑↓FO",
