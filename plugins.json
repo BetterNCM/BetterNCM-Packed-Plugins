@@ -563,7 +563,7 @@
         "update_time": 1791726573,
         "publish_time": 1759587316,
         "repo": "apoint123/inflink-rs",
-        "stars": 159,
+        "stars": 161,
         "native": true,
         "file": "InfLinkrs-3.4.0.plugin",
         "file-url": "plugins/InfLinkrs-3.4.0.plugin"
@@ -753,6 +753,31 @@
         "stars": 6,
         "file": "LyricBarBlur-1.0.3.plugin",
         "file-url": "plugins/LyricBarBlur-1.0.3.plugin"
+    },
+    {
+        "name": "LyricBarNext",
+        "author": "GlassesMita",
+        "version": "1.2.0",
+        "description": "重新设计的软件内词栏（LyricBar 与 LyricBarBlur 合并版，深度可定制、跟随主题，歌词来源可选 RNPNext 或官方解析，适配网易云音乐 3.x）",
+        "requirements": [],
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/LyricBarNext.jpg",
+        "author_links": [
+            "https://github.com/GlassesMita"
+        ],
+        "type": "extension",
+        "license": "GPL-3.0-or-later",
+        "incompatible": [
+            "LyricBar",
+            "LyricBarBlur"
+        ],
+        "ncm3-compatible": true,
+        "slug": "LyricBarNext",
+        "update_time": 1793429724,
+        "publish_time": 1793429724,
+        "repo": "GlassesMita/LyricBarNext",
+        "file": "LyricBarNext-1.2.0.plugin",
+        "file-url": "plugins/LyricBarNext-1.2.0.plugin"
     },
     {
         "name": "LyricsIsland",
