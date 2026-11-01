@@ -326,10 +326,10 @@
         "file-url": "plugins/Customize-0.3.2.plugin"
     },
     {
-        "name": "Deepseek Trans",
+        "name": "LLM Trans",
         "author": "Mascot_N, solstice23",
-        "version": "0.5.0",
-        "description": "使用 Deepseek 翻译歌词，复刻自https://github.com/solstice23",
+        "version": "0.6.0",
+        "description": "用任意 OpenAI 兼容接口（DeepSeek / OpenAI / 本地 Ollama…）翻译歌词，API 地址、Key、模型名都能在设置里填。改写自 GPTTrans",
         "requirements": [
             "RefinedNowPlaying"
         ],
@@ -340,11 +340,11 @@
         ],
         "type": "extension",
         "slug": "DSTrans",
-        "update_time": 1787983208,
+        "update_time": 1793470548,
         "publish_time": 1787983208,
         "repo": "Mascot-N/deepseek-trans-netease",
-        "file": "DSTrans-0.5.0.plugin",
-        "file-url": "plugins/DSTrans-0.5.0.plugin"
+        "file": "DSTrans-0.6.0.plugin",
+        "file-url": "plugins/DSTrans-0.6.0.plugin"
     },
     {
         "name": "DowngradeOK",
@@ -563,7 +563,7 @@
         "update_time": 1791726573,
         "publish_time": 1759587316,
         "repo": "apoint123/inflink-rs",
-        "stars": 161,
+        "stars": 162,
         "native": true,
         "file": "InfLinkrs-3.4.0.plugin",
         "file-url": "plugins/InfLinkrs-3.4.0.plugin"
@@ -1540,7 +1540,7 @@
     {
         "name": "日语歌词振假名 Plus",
         "author": "CarrotLouis（基于 leleawa/jp-furigana）",
-        "version": "1.6.2",
+        "version": "1.6.3",
         "description": "日语歌词振假名：网易云音译、离线词典、外部网站；支持人工纠音、本地歌词管理、代理与可选透明桌面注音",
         "requirements": [
             "RefinedNowPlayingNext"
@@ -1550,13 +1550,13 @@
         "type": "extension",
         "ncm3-compatible": true,
         "slug": "jp-furigana-plus",
-        "update_time": 1793384443,
+        "update_time": 1793438527,
         "publish_time": 1793288727,
         "repo": "CarrotLouis/jp-furigana",
         "stars": 1,
         "require_restart": true,
-        "file": "jp-furigana-plus-1.6.2.plugin",
-        "file-url": "plugins/jp-furigana-plus-1.6.2.plugin"
+        "file": "jp-furigana-plus-1.6.3.plugin",
+        "file-url": "plugins/jp-furigana-plus-1.6.3.plugin"
     },
     {
         "name": "←→0123456789JL+-,.↑↓FO",
