@@ -1522,7 +1522,7 @@
     {
         "name": "日语歌词振假名",
         "author": "leleawa",
-        "version": "1.1.0",
+        "version": "1.2.0",
         "description": "在日语歌词的汉字上方标注振假名 (平假名 / 片假名)",
         "requirements": [],
         "betterncm_version": ">=1.3.0",
@@ -1530,12 +1530,13 @@
         "type": "extension",
         "ncm3-compatible": true,
         "slug": "jp-furigana",
-        "update_time": 1790426573,
+        "update_time": 1793523039,
         "publish_time": 1787041152,
         "repo": "Leleawa/jp-furigana",
         "stars": 8,
-        "file": "jp-furigana-1.1.0.plugin",
-        "file-url": "plugins/jp-furigana-1.1.0.plugin"
+        "require_restart": true,
+        "file": "jp-furigana-1.2.0.plugin",
+        "file-url": "plugins/jp-furigana-1.2.0.plugin"
     },
     {
         "name": "日语歌词振假名 Plus",
