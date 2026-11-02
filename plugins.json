@@ -328,23 +328,22 @@
     {
         "name": "LLM Trans",
         "author": "Mascot_N, solstice23",
-        "version": "0.6.0",
-        "description": "用任意 OpenAI 兼容接口（DeepSeek / OpenAI / 本地 Ollama…）翻译歌词，API 地址、Key、模型名都能在设置里填。改写自 GPTTrans",
-        "requirements": [
-            "RefinedNowPlaying"
-        ],
+        "version": "0.7.2",
+        "description": "用任意 OpenAI 兼容接口翻译歌词，API 地址、Key、模型名称可自由填写。改写自 GPTTrans",
+        "requirements": [],
         "betterncm_version": ">=1.0.0",
         "preview": "previews/DSTrans.png",
         "author_links": [
             "https://github.com/Mascot-N"
         ],
         "type": "extension",
+        "ncm3-compatible": true,
         "slug": "DSTrans",
-        "update_time": 1793470548,
+        "update_time": 1793548245,
         "publish_time": 1787983208,
         "repo": "Mascot-N/deepseek-trans-netease",
-        "file": "DSTrans-0.6.0.plugin",
-        "file-url": "plugins/DSTrans-0.6.0.plugin"
+        "file": "DSTrans-0.7.2.plugin",
+        "file-url": "plugins/DSTrans-0.7.2.plugin"
     },
     {
         "name": "DowngradeOK",
