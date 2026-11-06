@@ -256,7 +256,7 @@
         "update_time": 1790870649,
         "publish_time": 1790167611,
         "repo": "xiaoming6680/BetterDownload",
-        "stars": 22,
+        "stars": 23,
         "require_restart": true,
         "file": "ncm-better-download-0.7.0.plugin",
         "file-url": "plugins/ncm-better-download-0.7.0.plugin"
@@ -428,7 +428,7 @@
     {
         "name": "FluentProgressBar (优化版)",
         "author": "MicroBlock & Solstice23, Indor",
-        "version": "1.0.4",
+        "version": "1.0.5",
         "description": "让你的进度条更顺滑！(优化版)",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/FluentProgressBar-Optimized.png",
@@ -438,11 +438,11 @@
         "type": "extension",
         "ncm3-compatible": true,
         "slug": "FluentProgressBar-Optimized",
-        "update_time": 1790167701,
+        "update_time": 1793848509,
         "publish_time": 1790167701,
         "repo": "In-dor/FluentProgessBar",
-        "file": "FluentProgressBar-Optimized-1.0.4.plugin",
-        "file-url": "plugins/FluentProgressBar-Optimized-1.0.4.plugin"
+        "file": "FluentProgressBar-Optimized-1.0.5.plugin",
+        "file-url": "plugins/FluentProgressBar-Optimized-1.0.5.plugin"
     },
     {
         "name": "JapaneseFonts",
