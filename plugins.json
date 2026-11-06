@@ -88,7 +88,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 11,
+        "stars": 12,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -287,7 +287,7 @@
         "update_time": 1679127491,
         "publish_time": 1678537241,
         "repo": "BetterNCM/CrossfadeLFP",
-        "stars": 8,
+        "stars": 7,
         "file": "crossfade-lfp-0.1.5.plugin",
         "file-url": "plugins/crossfade-lfp-0.1.5.plugin"
     },
@@ -544,7 +544,7 @@
         "update_time": 1791726573,
         "publish_time": 1759587316,
         "repo": "apoint123/inflink-rs",
-        "stars": 163,
+        "stars": 164,
         "native": true,
         "file": "InfLinkrs-3.4.0.plugin",
         "file-url": "plugins/InfLinkrs-3.4.0.plugin"
@@ -1052,7 +1052,7 @@
         "update_time": 1683655996,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 443,
+        "stars": 444,
         "file": "RefinedNowPlaying-2.19.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.5.plugin"
     },
