@@ -88,7 +88,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 13,
+        "stars": 15,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -563,7 +563,7 @@
         "update_time": 1791726573,
         "publish_time": 1759587316,
         "repo": "apoint123/inflink-rs",
-        "stars": 167,
+        "stars": 172,
         "native": true,
         "file": "InfLinkrs-3.4.0.plugin",
         "file-url": "plugins/InfLinkrs-3.4.0.plugin"
@@ -881,6 +881,26 @@
         "stars": 11,
         "file": "MikuPlugin-0.1.2.plugin",
         "file-url": "plugins/MikuPlugin-0.1.2.plugin"
+    },
+    {
+        "name": "MiniLyrics",
+        "author": "shoebillback",
+        "version": "0.6.20",
+        "description": "原生桌面歌词小窗，支持逐字歌词、翻译、置顶、鼠标穿透与封面动态背景。",
+        "requirements": [
+            "RefinedNowPlayingNext",
+            "InfLinkrs"
+        ],
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/MiniLyrics.png",
+        "type": "extension",
+        "ncm3-compatible": true,
+        "slug": "MiniLyrics",
+        "update_time": 1794449593,
+        "publish_time": 1794449593,
+        "repo": "shoebillback/MiniLyrics",
+        "file": "MiniLyrics-0.6.20.plugin",
+        "file-url": "plugins/MiniLyrics-0.6.20.plugin"
     },
     {
         "name": "MoTheme",
@@ -1271,7 +1291,7 @@
         "update_time": 1679716271,
         "publish_time": 1678770213,
         "repo": "xy-cloud-cn/search-this-singer",
-        "stars": 4,
+        "stars": 5,
         "file": "search-this-singer-0.0.2.plugin",
         "file-url": "plugins/search-this-singer-0.0.2.plugin"
     },
