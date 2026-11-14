@@ -256,7 +256,7 @@
         "update_time": 1794043599,
         "publish_time": 1794043599,
         "repo": "xiaoming6680/NCM-BetterMV",
-        "stars": 11,
+        "stars": 12,
         "require_restart": true,
         "file": "ncm-better-mv-1.0.1.plugin",
         "file-url": "plugins/ncm-better-mv-1.0.1.plugin"
@@ -858,7 +858,7 @@
         "update_time": 1791800561,
         "publish_time": 1788886429,
         "repo": "long45343/material-you-theme-NCMv3",
-        "stars": 6,
+        "stars": 7,
         "file": "material-u-theme-ncmv3-v1.0.6.plugin",
         "file-url": "plugins/material-u-theme-ncmv3-v1.0.6.plugin"
     },
@@ -885,7 +885,7 @@
     {
         "name": "MiniLyrics",
         "author": "shoebillback",
-        "version": "0.6.20",
+        "version": "0.6.31",
         "description": "原生桌面歌词小窗，支持逐字歌词、翻译、置顶、鼠标穿透与封面动态背景。",
         "requirements": [
             "RefinedNowPlayingNext",
@@ -896,11 +896,11 @@
         "type": "extension",
         "ncm3-compatible": true,
         "slug": "MiniLyrics",
-        "update_time": 1794449593,
+        "update_time": 1794572737,
         "publish_time": 1794449593,
         "repo": "shoebillback/MiniLyrics",
-        "file": "MiniLyrics-0.6.20.plugin",
-        "file-url": "plugins/MiniLyrics-0.6.20.plugin"
+        "file": "MiniLyrics-0.6.31.plugin",
+        "file-url": "plugins/MiniLyrics-0.6.31.plugin"
     },
     {
         "name": "MoTheme",
