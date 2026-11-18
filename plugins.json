@@ -88,7 +88,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 15,
+        "stars": 16,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -256,7 +256,7 @@
         "update_time": 1794043599,
         "publish_time": 1794043599,
         "repo": "xiaoming6680/NCM-BetterMV",
-        "stars": 12,
+        "stars": 13,
         "require_restart": true,
         "file": "ncm-better-mv-1.0.1.plugin",
         "file-url": "plugins/ncm-better-mv-1.0.1.plugin"
@@ -500,7 +500,7 @@
     {
         "name": "HideLyric",
         "author": "Lzhyrifx",
-        "version": "1.1.1",
+        "version": "1.1.2",
         "description": "自动隐藏网易云无意义桌面歌词(如纯音乐请欣赏,暂无歌词等)以及暂停歌曲时自动隐藏桌面歌词",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/HideLyric.png",
@@ -510,12 +510,12 @@
         "type": "extension",
         "ncm3-compatible": true,
         "slug": "HideLyric",
-        "update_time": 1791981252,
+        "update_time": 1794901442,
         "publish_time": 1791981252,
         "repo": "Lzhyrifx/HideLyric",
         "stars": 1,
-        "file": "HideLyric-1.1.1.plugin",
-        "file-url": "plugins/HideLyric-1.1.1.plugin"
+        "file": "HideLyric-1.1.2.plugin",
+        "file-url": "plugins/HideLyric-1.1.2.plugin"
     },
     {
         "name": "HideScrollbar",
@@ -563,7 +563,7 @@
         "update_time": 1791726573,
         "publish_time": 1759587316,
         "repo": "apoint123/inflink-rs",
-        "stars": 172,
+        "stars": 173,
         "native": true,
         "file": "InfLinkrs-3.4.0.plugin",
         "file-url": "plugins/InfLinkrs-3.4.0.plugin"
@@ -1138,7 +1138,7 @@
         "update_time": 1783960466,
         "publish_time": 1777131994,
         "repo": "SUlTlUS/refined-now-playing-netease-next",
-        "stars": 46,
+        "stars": 47,
         "file": "RefinedNowPlayingNext-3.0.2.plugin",
         "file-url": "plugins/RefinedNowPlayingNext-3.0.2.plugin"
     },
