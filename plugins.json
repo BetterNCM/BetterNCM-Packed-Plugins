@@ -563,7 +563,7 @@
         "update_time": 1791726573,
         "publish_time": 1759587316,
         "repo": "apoint123/inflink-rs",
-        "stars": 174,
+        "stars": 175,
         "native": true,
         "file": "InfLinkrs-3.4.0.plugin",
         "file-url": "plugins/InfLinkrs-3.4.0.plugin"
@@ -885,7 +885,7 @@
     {
         "name": "MiniLyrics",
         "author": "shoebillback",
-        "version": "0.7.9",
+        "version": "0.8.3",
         "description": "原生桌面歌词小窗，支持逐字歌词、翻译、置顶、鼠标穿透与封面动态背景。",
         "requirements": [
             "RefinedNowPlayingNext"
@@ -895,11 +895,11 @@
         "type": "extension",
         "ncm3-compatible": true,
         "slug": "MiniLyrics",
-        "update_time": 1794667795,
+        "update_time": 1795218274,
         "publish_time": 1794449593,
         "repo": "shoebillback/MiniLyrics",
-        "file": "MiniLyrics-0.7.9.plugin",
-        "file-url": "plugins/MiniLyrics-0.7.9.plugin"
+        "file": "MiniLyrics-0.8.3.plugin",
+        "file-url": "plugins/MiniLyrics-0.8.3.plugin"
     },
     {
         "name": "MoTheme",
@@ -1667,7 +1667,7 @@
         "update_time": 1791415766,
         "publish_time": 1791415766,
         "repo": "Yanxxxi/yySync-NCM",
-        "stars": 5,
+        "stars": 6,
         "native": true,
         "require_restart": true,
         "file": "yySyncNCM-0.2.4.plugin",
