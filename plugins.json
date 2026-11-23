@@ -88,7 +88,7 @@
         "update_time": 1708520610,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 16,
+        "stars": 18,
         "file": "Apple-Musiclike-lyrics-3.1.0.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-3.1.0.plugin"
     },
@@ -256,7 +256,7 @@
         "update_time": 1794043599,
         "publish_time": 1794043599,
         "repo": "xiaoming6680/NCM-BetterMV",
-        "stars": 13,
+        "stars": 15,
         "require_restart": true,
         "file": "ncm-better-mv-1.0.1.plugin",
         "file-url": "plugins/ncm-better-mv-1.0.1.plugin"
@@ -388,7 +388,7 @@
         "update_time": 1702185167,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
-        "stars": 34,
+        "stars": 33,
         "file": "elaina-theme-1.0.6.plugin",
         "file-url": "plugins/elaina-theme-1.0.6.plugin"
     },
@@ -500,7 +500,7 @@
     {
         "name": "HideLyric",
         "author": "Lzhyrifx",
-        "version": "1.1.2",
+        "version": "1.1.3",
         "description": "自动隐藏网易云无意义桌面歌词(如纯音乐请欣赏,暂无歌词等)以及暂停歌曲时自动隐藏桌面歌词",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/HideLyric.png",
@@ -510,12 +510,12 @@
         "type": "extension",
         "ncm3-compatible": true,
         "slug": "HideLyric",
-        "update_time": 1794901442,
+        "update_time": 1795334143,
         "publish_time": 1791981252,
         "repo": "Lzhyrifx/HideLyric",
         "stars": 1,
-        "file": "HideLyric-1.1.2.plugin",
-        "file-url": "plugins/HideLyric-1.1.2.plugin"
+        "file": "HideLyric-1.1.3.plugin",
+        "file-url": "plugins/HideLyric-1.1.3.plugin"
     },
     {
         "name": "HideScrollbar",
@@ -563,7 +563,7 @@
         "update_time": 1791726573,
         "publish_time": 1759587316,
         "repo": "apoint123/inflink-rs",
-        "stars": 175,
+        "stars": 174,
         "native": true,
         "file": "InfLinkrs-3.4.0.plugin",
         "file-url": "plugins/InfLinkrs-3.4.0.plugin"
