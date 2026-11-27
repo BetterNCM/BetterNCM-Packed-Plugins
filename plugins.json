@@ -242,20 +242,20 @@
     {
         "name": "BetterMV",
         "author": "XIAOMING6680",
-        "version": "1.0.1",
+        "version": "1.1.0",
         "description": "为正在播放的歌曲实时生成 3D MV：以封面构建场景，按歌曲结构剪辑镜头，按曲风自动选择风格。",
         "betterncm_version": ">=1.3.4",
         "preview": "previews/ncm-better-mv.webp",
         "type": "extension",
         "ncm3-compatible": true,
         "slug": "ncm-better-mv",
-        "update_time": 1794043599,
+        "update_time": 1795735908,
         "publish_time": 1794043599,
         "repo": "xiaoming6680/NCM-BetterMV",
         "stars": 16,
         "require_restart": true,
-        "file": "ncm-better-mv-1.0.1.plugin",
-        "file-url": "plugins/ncm-better-mv-1.0.1.plugin"
+        "file": "ncm-better-mv-1.1.0.plugin",
+        "file-url": "plugins/ncm-better-mv-1.1.0.plugin"
     },
     {
         "name": "CppLyrics ⚠ 开发中 ⚠",
